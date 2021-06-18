@@ -4,6 +4,7 @@ modal-id: 4
 date: 2021-01-17
 img: game.png
 alt: image-alt
+title: Wait a minute... There's research on Chaos Theory and the COVID-19
 project-date: Jan 2021
 
 description: Chaos has become a strangely attractive word that you might be interested in this subject even if you hate mathematics

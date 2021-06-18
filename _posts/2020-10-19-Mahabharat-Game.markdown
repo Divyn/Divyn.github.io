@@ -3,6 +3,7 @@ layout: default
 modal-id: 6
 date: 2020-10-19
 img: submarine.png
+title: Mahabharata- A Game bigger than a Game of Dice - Part 1
 alt: image-alt
 project-date: October 2020
 description: The Kuru clan did not fight with each other just for their kingdom. It involved deep-seated hatred among cousins, justice for the woman who was disrobed in the royal court and if nothing else, Dharma.
