@@ -1,3 +1,10 @@
+---
+layout: default
+title: Service
+parent: CKAD
+---
+
+
 # What is a Service?
 Single-point entry to access one/more pods because 
 - pods can go on/off, so we cannot rely on IP addresses to stay the same,
