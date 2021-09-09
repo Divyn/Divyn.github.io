@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Commands
+title: Deployment and StatefulSet
 parent: CKAD
 ---
 
