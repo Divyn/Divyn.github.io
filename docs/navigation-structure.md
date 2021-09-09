@@ -82,10 +82,10 @@ Sometimes you will want to create a page with many children (a section). First, 
 |
 |-- docs
 |   |-- CKAD
-|   |   |-- index.md  (parent page)
-|   |   |-- buttons.md
-|   |   |-- code.md
-|   |   |-- labels.md
+|   |   |-- BasicCommandsOverview.md  (parent page)
+|   |   |-- EditingaProd.md
+|   |   |-- MultiContainerPods.md
+|   |   |-- NodeAffinity.md
 |   |   |-- tables.md
 |   |   +-- typography.md
 |   |
@@ -212,12 +212,7 @@ To add auxiliary links to your site (in the upper right on all pages), add it to
 #### Example
 {: .no_toc }
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
+
 
 ---
 
