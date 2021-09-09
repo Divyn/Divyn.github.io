@@ -1,3 +1,8 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
 #Secrets
 
 - Convert your secret data to a base-64 representation

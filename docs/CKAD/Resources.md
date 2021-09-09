@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
+
 # Wiki
 
 The Scheduler that decides which node a part goes to.

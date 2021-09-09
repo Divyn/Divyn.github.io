@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
+
 # Scheduling
 A scheduler takes care of placing new pods onto nodes within the cluster.
 

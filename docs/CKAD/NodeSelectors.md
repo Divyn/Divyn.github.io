@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
+
 You have different kinds of workloads running in your cluster.
 We can set a limitation on the pods so that they only run on larger nodes.
 There are two ways to do this.

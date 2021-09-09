@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
+
 nodeSelector provides a very simple way to constrain pods to nodes with particular labels. 
 
  __The affinity/anti-affinity language is more expressive. The language offers more matching rules besides exact matches created with a logical AND operation__

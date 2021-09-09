@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
 #Need for permissions
  SecurityContext is one option to make sure that containers and pods don't request more than what it should request in terms of process privileges.
 To specify security settings for a Pod, include the securityContext field in the Pod specification. 

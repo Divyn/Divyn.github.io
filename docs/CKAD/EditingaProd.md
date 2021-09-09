@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic Commands
+parent: CKAD
+---
+
 # Edit a POD
 
 Remember, you CANNOT edit specifications of an existing POD other than the below.
