@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Storage Classes
-parent: CKAD
+parent: Kubernetes
 ---
 # Volume
 Volumes are used by pods to store data.

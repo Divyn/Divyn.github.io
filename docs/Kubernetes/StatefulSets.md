@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deployment and StatefulSet
-parent: CKAD
+parent: Kubernetes
 ---
 
 # Deployment and StatefulSet

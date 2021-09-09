@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basic Commands
-parent: CKAD
+parent: Kubernetes
 ---
 
 You have different kinds of workloads running in your cluster.

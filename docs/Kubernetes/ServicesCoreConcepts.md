@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Service
-parent: CKAD
+parent: Kubernetes
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Secrets
-parent: CKAD
+parent: Kubernetes
 ---
 #Secrets
 

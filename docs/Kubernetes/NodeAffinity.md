@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Node Affinity
-parent: CKAD
+parent: Kubernetes
 ---
 
 nodeSelector provides a very simple way to constrain pods to nodes with particular labels. 

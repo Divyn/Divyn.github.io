@@ -1,9 +1,9 @@
-# CKAD
+# Kubernetes
 
-This repository will track my practise for the Certified Kubernetes Application Developer (CKAD) exam.
+This repository will track my practise for the Certified Kubernetes Application Developer (Kubernetes) exam.
 
 
-## Syllabus (https://www.cncf.io/certification/ckad/)
+## Syllabus (https://www.cncf.io/certification/Kubernetes/)
 
     13% – Core Concepts
     18% – Configuration

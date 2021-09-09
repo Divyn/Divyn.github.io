@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scheduling
-parent: CKAD
+parent: Kubernetes
 ---
 
 # Scheduling
