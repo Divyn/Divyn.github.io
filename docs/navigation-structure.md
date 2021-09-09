@@ -81,7 +81,7 @@ Sometimes you will want to create a page with many children (a section). First, 
 |-- (Jekyll files)
 |
 |-- docs
-|   |-- ui-components
+|   |-- CKAD
 |   |   |-- index.md  (parent page)
 |   |   |-- buttons.md
 |   |   |-- code.md
