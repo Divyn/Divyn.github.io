@@ -1,13 +1,13 @@
 ---
 layout: default
-title: CKAD
+title: Kubernetes
 nav_order: 4
 has_children: true
 permalink: docs/CKAD
 ---
 
-# Utilities
+# Certified Kubernetes Application Developer
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+This repository will track my practise for the Certified Kubernetes Application Developer (CKAD) exam.
 {: .fs-6 .fw-300 }
