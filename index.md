@@ -8,3 +8,10 @@ permalink: /
 
 # List of Topics
 
+## [Kubernetes concepts](/docs/Kubernetes)
+
+## [Game Theory and its' Applications](/docs/GameTheory)
+
+## [Go programming](/docs/Go)
+
+## [Miscellaneous topics](/docs/Miscellaneous)
