@@ -1,8 +1,6 @@
 ---
 layout: default
-modal-id: 6
 date: 2020-10-19
-img: submarine.png
 title: Mahabharata- A Game bigger than a Game of Dice - Part 1
 alt: image-alt
 parent: GameTheory
