@@ -3,6 +3,7 @@ layout: default
 title: Node Affinity
 parent: Kubernetes
 ---
+# Affinity
 
 nodeSelector provides a very simple way to constrain pods to nodes with particular labels. 
 

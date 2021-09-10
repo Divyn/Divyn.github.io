@@ -1,3 +1,9 @@
+---
+layout: default
+title: Taints and Tolerations
+parent: Kubernetes
+---
+
 Taints and tolerations are used to set restrictions on what pods can be shared.Taints and tolerations have nothing to do with security or intrusion on a cluster. 
 
 For eg;

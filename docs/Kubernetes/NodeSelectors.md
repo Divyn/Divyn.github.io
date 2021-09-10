@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Commands
+title: Node Selection
 parent: Kubernetes
 ---
 

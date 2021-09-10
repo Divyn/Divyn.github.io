@@ -6,10 +6,10 @@ has_children: true
 permalink: docs/Kubernetes
 ---
 
-# Certified Kubernetes Application Developer
+# Kubernetes 
 {: .no_toc }
 
-This repository will track my practise for the Certified Kubernetes Application Developer (Kubernetes) exam.
+This repository will contain my notes for the Certified Kubernetes Application Developer (Kubernetes) exam. You can refer to it even if you are not preparing for the exam, it can serve as a Wiki for this topic.
 {: .fs-6 .fw-300 }
 
 

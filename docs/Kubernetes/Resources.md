@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Commands
+title: Resources
 parent: Kubernetes
 ---
 
