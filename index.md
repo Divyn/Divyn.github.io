@@ -8,6 +8,8 @@ permalink: /
 
 # List of Topics
 
+## [Design Thinking](/docs/design)
+
 ## [Kubernetes concepts](/docs/Kubernetes)
 
 ## [Game Theory and its' Applications](/docs/GameTheory)
