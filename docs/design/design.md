@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 permalink: docs/design
 ---
-# My Notes on Design Thinking
+# My Notes on Design Thinking and Design Research
 
 {: .no_toc }
 
