@@ -7,7 +7,15 @@ permalink: docs/design
 ---
 # My Notes on Design Thinking and Design Research
 
-{: .no_toc }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 This section records my notes on various topics related to the concept of Design Thinking.
 {: .fs-6 .fw-300 }
