@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Science
+title: DataScience
 nav_order: 2
 has_children: true
 permalink: docs/DataScience

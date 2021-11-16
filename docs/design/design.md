@@ -3,7 +3,7 @@ layout: default
 title: DesignThinking
 nav_order: 6
 has_children: true
-permalink: docs/design
+permalink: docs/DesignThinking
 ---
 # My Notes on Design Thinking and Design Research
 

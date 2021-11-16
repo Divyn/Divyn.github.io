@@ -1,7 +1,7 @@
 ---
 layout: default
 title: basics of Design Research
-parent: design
+parent: DesignThinking
 ---
 
 - The study of consumer behavior is one of the most common examples of research in design.

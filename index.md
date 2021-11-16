@@ -8,7 +8,7 @@ permalink: /
 
 # List of Topics
 
-## [Design Thinking](/docs/design)
+## [Design Thinking](/docs/DesignThinking)
 
 ## [Kubernetes concepts](/docs/Kubernetes)
 
@@ -17,3 +17,5 @@ permalink: /
 ## [Go programming](/docs/Go)
 
 ## [Miscellaneous topics](/docs/Miscellaneous)
+
+## [Datascience concepts](/docs/DataScience)
