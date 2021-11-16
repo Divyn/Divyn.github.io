@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Design Thinking
-nav_order: 5
+title: DesignThinking
+nav_order: 6
 has_children: true
 permalink: docs/design
 ---

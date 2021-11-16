@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Theory
+title: GameTheory
 nav_order: 3
 has_children: true
 permalink: docs/GameTheory
