@@ -6,6 +6,8 @@ description: "Learning to write good documentation"
 permalink: /
 ---
 
+This site contains my articles on various topics that I document while reading about them.
+
 # List of Topics
 
 ## [Design Thinking](/docs/DesignThinking)
