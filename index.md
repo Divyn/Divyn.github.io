@@ -6,7 +6,8 @@ description: "Learning to write good documentation"
 permalink: /
 ---
 
-This site contains my articles on various topics that I document while reading about them.
+### On this site are my articles on various topics that I document as I read about them.
+<br/>
 
 # List of Topics
 
