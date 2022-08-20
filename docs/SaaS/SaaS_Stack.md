@@ -28,6 +28,6 @@ The following factors are typically taken into consideration when choosing the o
 
 - Be sure you comprehend the project's requirements before deciding on a tech stack. Does your app need real-time features like live chat or a chatbot? Is your frontend UI full of complex interactions?
 - An active community of developers: To interact and improve a platform or piece of software they are using; developers need a sizable community.
-- Less steep learning curve: You do not want to frequently hear the comment "the tech stack is difficult to use." You might want to ask questions like, how easy is it for an engineer to learn? How easy it to hire developers to match your SaaS tech stack **(Critical).**
+- Less steep learning curve: You do not want to frequently hear the comment "the tech stack is difficult to use." You might want to ask questions like, how easy is it for an engineer to learn? How easy it to hire developers to match your SaaS tech stack.
 - Maintenance cost: The real work starts after the first iteration of product development is finished. Consider the cost of maintenance and upgrades.
 - For any product, time to market is possibly of utmost importance. You will gain more exposure if you build and release your application more quickly. And you get more time to absorb customer feedback.
