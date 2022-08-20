@@ -6,7 +6,7 @@ parent: SaaS
 
 # Understanding the SaaS stack for your company
 
-# Why you need to manage your tech stack
+## Why you need to manage your tech stack
 
 As businesses expand, it is not surprising to observe that there are more software licenses in use and that more money is spent on purchasing them.
 
@@ -18,11 +18,11 @@ SaaS waste is a word for subscriptions that are no longer in use. As businesses 
 
 Your licences, whether they are for on-premises software or SaaS software, should be managed with the help of a solid software asset management (SAM) strategy.
 
-# À la carte approach to building your stack
+## À la carte approach to building your stack
 
 The use of software suites by organisational teams to meet their demands in the past has been revolutionised by cloud-based software stacks. Suites provided an all-inclusive package of tools for a single cost. Unfortunately, the expansive nature of suites made them difficult to manage.  In comparison, SaaS products that are exclusively built to handle specific challenges provide a competitive edge in terms of focus. You can choose the SaaS offering you want "a la carte" without being forced to purchase the entire suite.
 
-# How to choose the best SaaS tech stack
+## How to choose the best SaaS tech stack
 
 The following factors are typically taken into consideration when choosing the optimal SaaS tech stack:
 
