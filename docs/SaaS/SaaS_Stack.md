@@ -8,11 +8,11 @@ parent: SaaS
 
 # Why you need to manage your tech stack
 
-As businesses expand, it is not surprising to observe that there are more SaaS in use and that more money is spent on SaaS.
+As businesses expand, it is not surprising to observe that there are more software licenses in use and that more money is spent on purchasing them.
 
-Larger firms tend to use more total apps, i.e., bloatware but a smaller number of unique apps per person.
+Larger firms tend to use more total apps, i.e., bloatware but use only a smaller number of unique apps per person.
 
-This leads to a growing reliance on centralised IT and governance; as companies expand, they might tighten up different regulations and procedures and have more room to hire IT specialists internally. The SaaS subscriptions need to be closely monitored, and the centralised management of them defines which apps are accessible to employees.
+This leads to a growing reliance on centralised IT and governance. The SaaS subscriptions need to be closely monitored, and the centralised management of them defines which apps are accessible to employees.
 
 SaaS waste is a word for subscriptions that are no longer in use. As businesses fail to cancel subscriptions or set up multiple subscriptions for the same app or category, SaaS waste is increasing.
 
