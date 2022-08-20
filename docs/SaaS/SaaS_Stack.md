@@ -6,7 +6,7 @@ parent: SaaS
 
 # Understanding the SaaS stack for your company
 
-# Why you need to manage your tech stack?
+# Why you need to manage your tech stack
 
 As businesses expand, it is not surprising to observe that there are more SaaS in use and that more money is spent on SaaS.
 
