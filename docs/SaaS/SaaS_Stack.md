@@ -27,7 +27,6 @@ The use of software suites by organisational teams to meet their demands in the 
 The following factors are typically taken into consideration when choosing the optimal SaaS tech stack:
 
 - Be sure you comprehend the project's requirements before deciding on a tech stack. Does your app need real-time features like live chat or a chatbot? Is your frontend UI full of complex interactions?
-- The predominant current developers' language at your company.
 - An active community of developers: To interact and improve a platform or piece of software they are using; developers need a sizable community.
 - Less steep learning curve: You do not want to hear the comment "the tech stack is difficult to use." You might want to ask the questions like, how easy is it for an engineer to learn? How easy it to hire developers to match your SaaS tech stack **(Critical).**
 - Maintenance cost: The real work startsafter the first iteration of product development is finished. Consider the cost of maintenance and upgrades.
