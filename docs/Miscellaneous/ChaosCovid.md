@@ -9,11 +9,14 @@ Chaos has become a strangely attractive word that you might be interested in thi
 
 You talk about chaos when there is some change that is happening excluding changes that can be described by classical physics.
 
-### How do you describe occurrence or the spread of an epidemic?
+### Describing the occurence of an epidemic as a chaotic system
+
+
+The essential feature of chaotic systems is that their long-time behavior is unpredictable, i.e., if we change the initial conditions marginally , the outcome will be nowhere near the former one.
 
 _Unstable and Aperiodic_ — happens more than once but never repeats itself over certain intervals and the impact varies so much that it is impossible to predict the effects accurately.
 
-The essential feature of chaotic systems is that their long-time behavior is unpredictable, i.e., if we change the initial conditions marginally , the outcome will be nowhere near the former one. The following anecdote mentioned in "Introducing Chaos” by Ziauddin Sardar about Edward Lorenz and weather forecasting will highlight the importance of the above statement.
+ The following anecdote mentioned in "Introducing Chaos” by Ziauddin Sardar about Edward Lorenz and weather forecasting will highlight the importance of the above statement.
 
 Lorenz on a fine day in the year 1961 while working with his weather machine wanted to regenerate the previous weather prediction in a longer sequence . He supposedly took a short cut by restarting the sequence half-way through instead of doing it from the beginning. He manually tapped the number 0.506 rounded off from the previous computer reading value of 0.506127.
 
