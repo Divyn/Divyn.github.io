@@ -3,6 +3,10 @@ layout: default
 title: Chaos Theory on  COVID-19
 parent: Miscellaneous
 ---
+# Wait a minute... There's research on Chaos Theory and the COVID-19
+
+Chaos has become a strangely attractive word that you might be interested in this subject even if you hate mathematics.
+
 You talk about chaos when there is some change that is happening excluding changes that can be described by classical physics.
 
 How do you describe occurrence or the spread of an epidemic?
@@ -11,13 +15,15 @@ _Unstable and Aperiodic_ — happens more than once but never repeats itself ove
 
 The essential feature of chaotic systems is that their long-time behavior is unpredictable, i.e., if we change the initial conditions marginally , the outcome will be nowhere near the former one. The following anecdote mentioned in "Introducing Chaos” by Ziauddin Sardar about Edward Lorenz and weather forecasting will highlight the importance of the above statement.
 
-Lorenz on a fine day in the year 1961 while working with his weather machine wanted to regenerate the previous weather prediction in a longer sequence . He supposedly took a short cut by restarting the sequence half-way through instead of doing it from the beginning. He manually tapped the number 0.506 rounded of from the previous computer reading value of 0.506127.
+Lorenz on a fine day in the year 1961 while working with his weather machine wanted to regenerate the previous weather prediction in a longer sequence . He supposedly took a short cut by restarting the sequence half-way through instead of doing it from the beginning. He manually tapped the number 0.506 rounded off from the previous computer reading value of 0.506127.
 
 The output that came out while he went to get a coffee was completely different from the original reading that he exclaimed it looked like the prediction for a different system.
 
 What we know today as the “Butterfly Effect” had its origins here.
 
-### Lorenz System: A mathematical example (PS: You can skip this part :P )
+### Lorenz System: A mathematical example
+
+###### (PS: You can skip this part )
 
 Although a system described by a set of nonlinear difference equations can exhibit chaos even for one degree of freedom, _a system described by a continuous set of differential equations cannot exhibit chaotic behavior with less than three degrees of freedom._ The Lorenz equations are probably the simplest and most widely known examples of a continuous system that does exhibit chaos and are given by
 
@@ -47,6 +53,40 @@ Different diseases are represented by different compartmental models. Compartmen
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22be5718-ebb2-4a5f-80c7-f36685a19def_1307x396.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22be5718-ebb2-4a5f-80c7-f36685a19def_1307x396.png)
 
+Source: https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html
+
+The population sample N to be analyzed is defined by
+
+> N = S + E + I + R.
+> 
+> _S_ represents the class of susceptible individuals, the disease can be transmitted from any infected individual to any susceptible one.
+> 
+> _E_ is composed of individuals who are directly exposed to the infected disease but are not contagious.
+> 
+> _I_ defines the class of infectious individuals, and by definition, any infectious person can transmit the disease.
+> 
+> R Anyone who was previously infectious and is no longer infectious (recovered or dead)
+
+> _β_ —> controls the rate of spread which represents the probability of transmitting disease between a susceptible and an infectious individual
+> 
+> γ —> is the transition rate at which and infected individual moves to the recovered class
+> 
+> σ —> is the rate at which exposed individuals become infectious and
+> 
+> _ξ_ —> is the rate which recovered individuals return to the susceptible state due to loss of immunity.
+
+### Signature of Chaos and considerations for SEIR
+
+A distinguishing characteristic of chaotic systems is their sensitive dependence on initial conditions – infinitesimally small changes at the start lead to bigger changes later. This behavior is described as the _signature_ of chaos.
+
+Therefore any mathematical model built to analyse epidemics must take clearly state the assumptions and the initial conditions considered.
+
+#### Fractional order SEIR
+
+The fractional-order differential equations of the SEIR model are defined as
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3dd8b5fd-fbba-4222-a3f7-684054fcc9bd_563x228.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3dd8b5fd-fbba-4222-a3f7-684054fcc9bd_563x228.png)
+
 _a_, _b_, _c_, _d_ ∈ (0,2].
 
 ### How to study the spread using this model?
@@ -54,20 +94,11 @@ _a_, _b_, _c_, _d_ ∈ (0,2].
 We are interested in how the number of infections is influenced by the number of susceptible (S), exposed(E), and removed (R) individuals.
 
 -   In order to study the chaotic contribution of the number of susceptible individuals in the number of infected ones, we adjust the parameter _**a**_
-    
 -   If we are interested in the chaotic contribution of the number of exposed individuals on the number of infected ones, we have to adjust the parameter _**b**_.
-    
 -   The number of recovered individuals _R_ in the system, is independent on the first three equations, therefore _**d**_ variations have no influence over _I_.
-    
 
 #### Sources where you can read more about it
 
 -   [COVID-19 pandemic and chaos theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7532837/)
-    
 -   [Chaos theory applied to the outbreak of COVID-19: an ancillary approach to decision making in pandemic context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7231667/)
-    
 -   [Polynomial search and global modeling: Two algorithms for modeling chaos](https://pubmed.ncbi.nlm.nih.gov/23214661/)
-    
-    [BuyMeACoffee](https://www.buymeacoffee.com/Ellipsis)
-    
-    If you liked this post you might also like [Mahabharata and Game Theory](https://threedotsinarow.substack.com/p/mahabharata-a-game-bigger-than-a)
