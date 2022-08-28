@@ -5,7 +5,7 @@ parent: Miscellaneous
 ---
 # Wait a minute... There's research on Chaos Theory and the COVID-19
 
-You talk about chaos when there is some change that is happening excluding changes that can be described by classical physics.
+The term chaos is used when there is some change taking place that cannot be explained by classical physics.
 Chaos has become a strangely attractive word that you might be interested in this subject even if you hate mathematics.
 
 ### Describing the occurence of an epidemic as a chaotic system
