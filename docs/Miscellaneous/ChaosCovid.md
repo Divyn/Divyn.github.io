@@ -9,7 +9,7 @@ Chaos has become a strangely attractive word that you might be interested in thi
 
 You talk about chaos when there is some change that is happening excluding changes that can be described by classical physics.
 
-How do you describe occurrence or the spread of an epidemic?
+### How do you describe occurrence or the spread of an epidemic?
 
 _Unstable and Aperiodic_ — happens more than once but never repeats itself over certain intervals and the impact varies so much that it is impossible to predict the effects accurately.
 
