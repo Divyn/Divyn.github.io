@@ -8,11 +8,11 @@ parent: Miscellaneous
 
  A major portion of world’s population now has Internet access with the number of devices connected currently in billions. The decline in the cost of hardware resources, especially the cost of storage devices is one factor that enables organisations  to  store  every  bit  of  data  leading  to  the accumulation of data in volumes unimaginable.Here traditional network  perimeter  defence  systems  become  ineffective  in resisting targeted attacks as they are not scalable to the size of organizational networks.
 
-## I. INTRODUCTION
+## INTRODUCTION
 
 The operating system(OS) manages resources within the system. It determines the allocation of these resources to the multiple tasks and allow them access in an orderly manner.An OS is large and  having complex programs therefore security issues will be present.Security issues include the external environment of the system and  the need to protect it from unauthorized access and malicious modification or destruction and inconsistency in operation.The OS must protect itself from security breaches including denial of service, memory- access violations, stack overflow violations, the launching of programs with too many privileges and many others. Having the right tools to organise and interpret data  is also important.By collecting data about users’ and hosts’ activities within the organization’s network collected by firewalls, web proxies, domain controllers, intrusion detection systems and Virtual Private Network (VPN) servers’ which contain information about system behaviour in various situations that can be used for detecting stealthy attacks.Big data not only helps to make data visible only to authorized entities but also offers the transmission of data at higher rate due to the advanced type of distributed file system. Internet connected sensors and devices let to massive increase in number of streams.Cloud computing provides external scalable processing capabilities and vast amounts of storage required for big data.
 
-## Ⅱ.BIG DATA IN AUTONOMIC COMPUTING
+## BIG DATA IN AUTONOMIC COMPUTING
 
 As far as computing world is concerned systems are being  programmed to become self-managing ,i.e. move towards autonomic computing. The system makes decisions on its own, using high-level policies; it will constantly check and optimize its status and automatically adapt itself to changing conditions. An autonomic application should be able to detect suboptimal processes and optimize itself to improve its execution.
 
@@ -20,13 +20,13 @@ Big data plays a major role in these requirements.The  technological advances in
 
 Advanced Persistent Threats(APT) occur in multiple stages .Therefore each action by the attacker provides an opportunity to detect behavioural deviations from the ideal. Correlating these apparently independent events can reveal evidence of the intrusion and expose stealthy attacks that could not be identified using the previous methods.  After seperation into clusters,big data as such does not reveal anything.A human analyst still has to interpret any result.For example, malicious domains tend to last for a short time, whereas good domains last much longer and resolve to many geographically-distributed Internet Protocol (IP) addresses’.The data derived from domain names including Domain Name Server responses (also called resource records) should be collected. Then, classification techniques can be used to identify infected hosts and malicious domains. This can be combined with the malicious sites identified from Internet Service provider data set .The incorporation of meaningful meta-data attributes into semi-structured data and unstructured content for big data makes these data assets more valuable whereby irrelevant information can be dismissed during the search process[8].
 
-## Ⅲ.METADATA IN ANALYTICS
+## METADATA IN ANALYTICS
 
 When we apply search algorithms to meta data, we will be able to create high level confidence results. This is particularly beneficial in analysing the problems related to the operating system since unwanted information need not be stored. With this meta data association, big data scientists can quickly locate the right information despite the vast amount of content stored  in  these  repositories.Utilizing  these  additional capabilities can lead to improved data handling and overall big data - meta data efficiency.Information about source of data and how it has been processed helps determine the authencity and quality of data (provenance).Whenever big data changes state, provenance information that is received is recorded as meta data.
 
 
 
-## Ⅳ.THEORY AND BIG DATA
+## THEORY AND BIG DATA
 
 Batch processing(offline processing) involves processing data in batches when large quantities of data are involved.It is implemented using MapReduce algorithms.The downside of using big data is that  it may introduce new problems like multiple comparisons. John Ioannidis well known for his paper  "[Why Most Published Research Findings Are False ](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)" talks about essentially the same effect: when many researchers process a big amount of scientific data although not with big data technology,the likelihood of a "significant" result being actually false grows fast .
 
@@ -37,11 +37,11 @@ The Southern California Earthquake Center developed a very large-scale simulatio
 
 Big data analysis blends traditional statistical analysis approaches with computational ones. Once diagnostic analysis using statistical methods is executed computational techniques in big data can be applied.Big data can shift from batch processing to real time processing.In the long run,an organisation will operate its big data analysis at two levels:processing streaming data as it arrives and performing batch analysis of data as it accumulates to look for patterns and trends.
 
-## Ⅴ.BIG DATA AND SECURITY
+## BIG DATA AND SECURITY
 
 It cannot be denied that managing Big Data systems  involves various security issues. New resource management and scheduling mechanisms are also needed to utilize the tools including the need to create  platform layers. Several open source and proprietary solutions have been proposed to address these requirements.But its employability for data accumulation rate outweigh the liabilities. It can be used to correlate events across time and space. Reporting and visualization of predicted outcomes can be done effectively.Big data analysis systems, such as MapReduce and Spark, address the computational needs in security analysis as they are highly resistant to failure. Since security events generate so much data, there is a risk of overwhelming analysts and also limits their ability to discern key events. Useful big data tools frame data in the context of users, devices and events.Big data analytics will collect data from any device that is connected to an IP network via the Internet. This includes anything from laptops and smartphones to Internet of Things devices. In addition to physical devices and virtual servers, big data security analytics can attend to software-related security. 
 
-## Ⅵ.CONCLUSION
+## CONCLUSION
 
 We can assess our network, scan it for vulnerabilities, prioritize the measures to understand how things are configured and then discover where the error occurs.
 
