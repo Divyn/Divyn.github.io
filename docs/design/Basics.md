@@ -1,8 +1,9 @@
 ---
 layout: default
-title: basics of Design Research
+title: Basics of Design Research
 parent: DesignThinking
 ---
+# Basics of Design Research
 
 - The study of consumer behavior is one of the most common examples of research in design.
 -  *Context* is understanding everything relevant to a design problem. It's a general awareness of the user, their needs, wants, and motivations. And also their environment, what it looks like, sounds like, feels like, and more. Without some degree of accurate information, your solution will be nothing more than a best guess. 
