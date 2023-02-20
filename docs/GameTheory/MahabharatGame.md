@@ -117,7 +117,7 @@ Assuming that Duryodhana had agreed to return their land back after Pandavas exi
 
 Krishna had by then convinced Pandavas that their duty on earth was to establish _Dharma_ for _Kali Yuga._ Dhridhirashtra was the rightful ruler of Hasthinapur.
 
-In an alternate story line, after Pandavas reestablish Indraprastha, they can decide wage war against Hasthinapur but with actual power and higher chances of winning.
+In an alternate story line, after Pandavas reestablish Indraprastha, they can decide to wage war against Hasthinapur but with actual power and higher chances of winning.
 
 Thus by refusing negotiation the 1st time, Duryodhana has given Hasthinapur the upper hand.
 
