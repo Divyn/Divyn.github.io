@@ -1,0 +1,28 @@
+{
+  "id": "Personal Blog/Kubernetes/Resources",
+  "title": "Resources",
+  "description": "The Scheduler that decides which node a part goes to.",
+  "source": "@site/docs/Personal Blog/Kubernetes/Resources.md",
+  "sourceDirName": "Personal Blog/Kubernetes",
+  "slug": "/Personal Blog/Kubernetes/Resources",
+  "permalink": "/docs/Personal Blog/Kubernetes/Resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Kubernetes/Resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Resources",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Node Selection",
+    "permalink": "/docs/Personal Blog/Kubernetes/NodeSelectors"
+  },
+  "next": {
+    "title": "Scheduling",
+    "permalink": "/docs/Personal Blog/Kubernetes/Scheduling"
+  }
+}

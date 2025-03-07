@@ -1,0 +1,28 @@
+{
+  "id": "Personal Blog/Kubernetes/ServicesCoreConcepts",
+  "title": "Services",
+  "description": "Single-point entry to access one/more pods because",
+  "source": "@site/docs/Personal Blog/Kubernetes/ServicesCoreConcepts.md",
+  "sourceDirName": "Personal Blog/Kubernetes",
+  "slug": "/Personal Blog/Kubernetes/ServicesCoreConcepts",
+  "permalink": "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Kubernetes/ServicesCoreConcepts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Services",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Context",
+    "permalink": "/docs/Personal Blog/Kubernetes/SecurityContext"
+  },
+  "next": {
+    "title": "Deployment and StatefulSet",
+    "permalink": "/docs/Personal Blog/Kubernetes/StatefulSets"
+  }
+}

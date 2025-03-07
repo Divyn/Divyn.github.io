@@ -18,11 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Basics of Design Research",
-    "permalink": "/docs/design/Basics"
-  },
-  "next": {
-    "title": "code-samples",
-    "permalink": "/docs/featured-work/code-samples"
+    "title": "Understanding SaaS stack for your company",
+    "permalink": "/docs/Personal Blog/SaaS/SaaS_Stack"
   }
 }

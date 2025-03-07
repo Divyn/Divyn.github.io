@@ -49,13 +49,13 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-7f0": {
+  "/docs-fb6": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---workaba-922"
     }
   },
-  "/docs-37c": {
+  "/docs-6a9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
@@ -75,28 +75,56 @@
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-pods-28-d-492"
   },
-  "/docs-7fa": {
+  "/docs-70c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/crm-bbc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-crm-0-c-9-d73"
   },
+  "/docs/category/crm-1-120": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-crm-1-f-0-d-de4"
+  },
   "/docs/category/design-research-462": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-design-research-185-068"
+  },
+  "/docs/category/design-research-1-5ab": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-design-research-1-b-63-28f"
+  },
+  "/docs/category/featured-work-754": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-featured-work-105-3b0"
   },
   "/docs/category/game-theory-0c5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-game-theory-09-b-07a"
   },
+  "/docs/category/game-theory-1-758": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-game-theory-1-bf-9-92a"
+  },
   "/docs/category/kubernetes-af5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-kubernetes-60-a-67e"
   },
+  "/docs/category/kubernetes-1-513": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-kubernetes-19-d-7-915"
+  },
   "/docs/category/miscellaneous-dba": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-miscellaneous-298-c31"
+  },
+  "/docs/category/miscellaneous-1-2d5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-miscellaneous-13-fd-06c"
+  },
+  "/docs/category/personal-blog-b33": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-personal-blog-937-d17"
   },
   "/docs/CRM/SalesAutomation-f95": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -217,6 +245,90 @@
   "/docs/Miscellaneous/QuantumComputing-144": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---work-miscellaneous-quantum-computinge-50-617"
+  },
+  "/docs/Personal Blog/CRM/SalesAutomation-d40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-crm-sales-automationf-5-b-d48"
+  },
+  "/docs/Personal Blog/design/Basics-405": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-design-basicsb-12-f54"
+  },
+  "/docs/Personal Blog/GameTheory/MahabharatGame-a68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-game-theory-mahabharat-game-69-f-25d"
+  },
+  "/docs/Personal Blog/Kubernetes/BasicCommandsOverview-be6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-basic-commands-overview-4-d-2-90d"
+  },
+  "/docs/Personal Blog/Kubernetes/EditingaProd-ba5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-editinga-prodf-36-f01"
+  },
+  "/docs/Personal Blog/Kubernetes/MultiContainerPods-e8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-multi-container-pods-1-fb-8fe"
+  },
+  "/docs/Personal Blog/Kubernetes/NodeAffinity-2db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-node-affinity-037-d52"
+  },
+  "/docs/Personal Blog/Kubernetes/NodeSelectors-f92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-node-selectorseee-502"
+  },
+  "/docs/Personal Blog/Kubernetes/Resources-479": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-resources-0-ed-aac"
+  },
+  "/docs/Personal Blog/Kubernetes/Scheduling-6a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-scheduling-57-b-754"
+  },
+  "/docs/Personal Blog/Kubernetes/Secrets-e6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-secretsd-67-c4e"
+  },
+  "/docs/Personal Blog/Kubernetes/SecurityContext-f17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-security-context-845-c07"
+  },
+  "/docs/Personal Blog/Kubernetes/serviceAccounts-e41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-service-accounts-218-171"
+  },
+  "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts-4ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-services-core-concepts-884-219"
+  },
+  "/docs/Personal Blog/Kubernetes/StatefulSets-fd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-stateful-sets-602-f83"
+  },
+  "/docs/Personal Blog/Kubernetes/StorageClasses-523": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-storage-classesf-0-c-fd4"
+  },
+  "/docs/Personal Blog/Kubernetes/Taints&Tolerations-56c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-taints-tolerations-299-d7e"
+  },
+  "/docs/Personal Blog/Miscellaneous/BigData_OS_Security-f5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-big-data-os-securityf-6-e-f16"
+  },
+  "/docs/Personal Blog/Miscellaneous/ChaosCovid-ed4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-chaos-covid-085-c71"
+  },
+  "/docs/Personal Blog/Miscellaneous/QuantumComputing-4ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-quantum-computing-799-268"
+  },
+  "/docs/Personal Blog/SaaS/SaaS_Stack-cd3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-saa-s-saa-s-stack-28-b-1e3"
   },
   "/docs/SaaS/SaaS_Stack-959": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -16,5 +16,9 @@
   "previous": {
     "title": "product-newsletter",
     "permalink": "/docs/featured-work/product-newsletter"
+  },
+  "next": {
+    "title": "Personal Blog",
+    "permalink": "/docs/category/personal-blog"
   }
 }

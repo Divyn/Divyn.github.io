@@ -1,0 +1,28 @@
+{
+  "id": "Personal Blog/Kubernetes/MultiContainerPods",
+  "title": "Microservices",
+  "description": "At times you may need two micro services which were developed and deployed separately to work together such as a web server and a logging service. And that is why you have multi container pods that share the same lifecycle which means they are created together and destroyed together. They share the same network space which means they can refer to each other as local host and they have access to the same storage volumes.",
+  "source": "@site/docs/Personal Blog/Kubernetes/MultiContainerPods.md",
+  "sourceDirName": "Personal Blog/Kubernetes",
+  "slug": "/Personal Blog/Kubernetes/MultiContainerPods",
+  "permalink": "/docs/Personal Blog/Kubernetes/MultiContainerPods",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Kubernetes/MultiContainerPods.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Microservices",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit a POD",
+    "permalink": "/docs/Personal Blog/Kubernetes/EditingaProd"
+  },
+  "next": {
+    "title": "Node Affinity",
+    "permalink": "/docs/Personal Blog/Kubernetes/NodeAffinity"
+  }
+}
