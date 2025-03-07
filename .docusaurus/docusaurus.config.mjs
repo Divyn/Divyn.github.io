@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Divyasshree’s Portfolio",
-  "tagline": "Tech Storyteller & Problem Solver",
+  "tagline": "Tech Storyteller",
   "favicon": "img/favicon.ico",
   "url": "https://divyn.github.io",
   "baseUrl": "/",
@@ -28,7 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/sidebars.js",
-          "routeBasePath": "work",
+          "routeBasePath": "docs",
           "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/"
         },
         "blog": {
@@ -37,9 +37,17 @@ export default {
         },
         "theme": {
           "customCss": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/src/css/custom.css"
+        },
+        "sitemap": {
+          "changefreq": "daily",
+          "priority": 1,
+          "filename": "sitemap.xml"
         }
       }
     ]
+  ],
+  "plugins": [
+    "@docusaurus/plugin-sitemap"
   ],
   "themeConfig": {
     "image": "img/portfolio-banner.jpg",
@@ -51,18 +59,13 @@ export default {
       },
       "items": [
         {
-          "to": "/",
+          "to": "/docs/intro",
           "label": "Home",
           "position": "left"
         },
         {
-          "to": "/about",
-          "label": "About",
-          "position": "left"
-        },
-        {
-          "to": "/work",
-          "label": "Work",
+          "to": "/blog",
+          "label": "Blog",
           "position": "left"
         },
         {
@@ -82,27 +85,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Portfolio",
-          "items": [
-            {
-              "label": "About Me",
-              "to": "/about"
-            },
-            {
-              "label": "Work",
-              "to": "/work"
-            },
-            {
-              "label": "Blog",
-              "to": "/blog"
-            }
-          ]
-        },
-        {
           "title": "Follow Me",
           "items": [
             {
-              "label": "GitHub",
+              "label": "Second GitHub",
               "href": "https://github.com/divyn"
             },
             {
@@ -111,7 +97,7 @@ export default {
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/divyasshree/"
+              "href": "https://www.linkedin.com/in/divyasshree-n/"
             }
           ]
         }
@@ -367,7 +353,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

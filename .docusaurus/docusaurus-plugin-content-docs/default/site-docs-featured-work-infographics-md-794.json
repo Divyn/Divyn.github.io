@@ -1,0 +1,24 @@
+{
+  "id": "featured-work/infographics",
+  "title": "infographics",
+  "description": "",
+  "source": "@site/docs/featured-work/infographics.md",
+  "sourceDirName": "featured-work",
+  "slug": "/featured-work/infographics",
+  "permalink": "/docs/featured-work/infographics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/infographics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "events",
+    "permalink": "/docs/featured-work/events"
+  },
+  "next": {
+    "title": "investigation-videos",
+    "permalink": "/docs/featured-work/investigation-videos"
+  }
+}

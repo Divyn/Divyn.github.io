@@ -1,0 +1,20 @@
+{
+  "id": "featured-work/video-tutorials",
+  "title": "video-tutorials",
+  "description": "",
+  "source": "@site/docs/featured-work/video-tutorials.md",
+  "sourceDirName": "featured-work",
+  "slug": "/featured-work/video-tutorials",
+  "permalink": "/docs/featured-work/video-tutorials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/video-tutorials.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "product-newsletter",
+    "permalink": "/docs/featured-work/product-newsletter"
+  }
+}

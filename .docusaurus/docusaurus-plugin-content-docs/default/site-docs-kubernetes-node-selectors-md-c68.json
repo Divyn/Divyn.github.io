@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/NodeSelectors.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/NodeSelectors",
-  "permalink": "/work/Kubernetes/NodeSelectors",
+  "permalink": "/docs/Kubernetes/NodeSelectors",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/NodeSelectors.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Node Affinity",
-    "permalink": "/work/Kubernetes/NodeAffinity"
+    "permalink": "/docs/Kubernetes/NodeAffinity"
   },
   "next": {
     "title": "Resources",
-    "permalink": "/work/Kubernetes/Resources"
+    "permalink": "/docs/Kubernetes/Resources"
   }
 }

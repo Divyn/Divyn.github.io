@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/NodeAffinity.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/NodeAffinity",
-  "permalink": "/work/Kubernetes/NodeAffinity",
+  "permalink": "/docs/Kubernetes/NodeAffinity",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/NodeAffinity.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Microservices",
-    "permalink": "/work/Kubernetes/MultiContainerPods"
+    "permalink": "/docs/Kubernetes/MultiContainerPods"
   },
   "next": {
     "title": "Node Selection",
-    "permalink": "/work/Kubernetes/NodeSelectors"
+    "permalink": "/docs/Kubernetes/NodeSelectors"
   }
 }

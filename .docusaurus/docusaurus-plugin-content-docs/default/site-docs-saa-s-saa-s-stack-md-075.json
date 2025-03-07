@@ -5,7 +5,7 @@
   "source": "@site/docs/SaaS/SaaS_Stack.md",
   "sourceDirName": "SaaS",
   "slug": "/SaaS/SaaS_Stack",
-  "permalink": "/work/SaaS/SaaS_Stack",
+  "permalink": "/docs/SaaS/SaaS_Stack",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/SaaS/SaaS_Stack.md",
@@ -19,6 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basics of Design Research",
-    "permalink": "/work/design/Basics"
+    "permalink": "/docs/design/Basics"
+  },
+  "next": {
+    "title": "code-samples",
+    "permalink": "/docs/featured-work/code-samples"
   }
 }

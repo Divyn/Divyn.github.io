@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Divyasshree’s Portfolio",
-  tagline: "Tech Storyteller & Problem Solver",
+  tagline: "Tech Storyteller",
   favicon: "img/favicon.ico",
 
   url: "https://divyn.github.io",
@@ -28,7 +28,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          routeBasePath: "work", // Makes '/work' the section for your projects/blogs
+          routeBasePath: "docs", // ✅ Ensures your docs are served at /docs/
           editUrl: "https://github.com/divyn/divyn.github.io/edit/main/",
         },
         blog: {
@@ -38,9 +38,15 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "daily",
+          priority: 1,
+          filename: "sitemap.xml",
+        },
       },
     ],
   ],
+  plugins: ["@docusaurus/plugin-sitemap"],
 
   themeConfig: {
     image: "img/portfolio-banner.jpg", // Replace with your portfolio banner
@@ -51,10 +57,8 @@ const config = {
         src: "img/logo.svg", // Replace with your logo
       },
       items: [
-        { to: "/", label: "Home", position: "left" },
-        { to: "/about", label: "About", position: "left" },
-        { to: "/work", label: "Work", position: "left" }, // Links to your Docs section
-     
+        { to: "/docs/intro", label: "Home", position: "left" }, // ✅ Links Home to the Docs section correctly
+        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/divyasshree-BQ",
           label: "GitHub",
@@ -71,18 +75,10 @@ const config = {
       style: "dark",
       links: [
         {
-          title: "Portfolio",
-          items: [
-            { label: "About Me", to: "/about" },
-            { label: "Work", to: "/work" },
-            { label: "Blog", to: "/blog" },
-          ],
-        },
-        {
           title: "Follow Me",
           items: [
             {
-              label: "GitHub",
+              label: "Second GitHub",
               href: "https://github.com/divyn",
             },
             {
@@ -91,7 +87,7 @@ const config = {
             },
             {
               label: "LinkedIn",
-              href: "https://www.linkedin.com/in/divyasshree/",
+              href: "https://www.linkedin.com/in/divyasshree-n/",
             },
           ],
         },

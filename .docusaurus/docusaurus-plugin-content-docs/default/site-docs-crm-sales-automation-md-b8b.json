@@ -5,7 +5,7 @@
   "source": "@site/docs/CRM/SalesAutomation.md",
   "sourceDirName": "CRM",
   "slug": "/CRM/SalesAutomation",
-  "permalink": "/work/CRM/SalesAutomation",
+  "permalink": "/docs/CRM/SalesAutomation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/CRM/SalesAutomation.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CRM",
-    "permalink": "/work/category/crm"
+    "permalink": "/docs/category/crm"
   },
   "next": {
     "title": "Game Theory",
-    "permalink": "/work/category/game-theory"
+    "permalink": "/docs/category/game-theory"
   }
 }

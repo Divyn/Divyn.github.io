@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/StorageClasses.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/StorageClasses",
-  "permalink": "/work/Kubernetes/StorageClasses",
+  "permalink": "/docs/Kubernetes/StorageClasses",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/StorageClasses.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deployment and StatefulSet",
-    "permalink": "/work/Kubernetes/StatefulSets"
+    "permalink": "/docs/Kubernetes/StatefulSets"
   },
   "next": {
     "title": "Taints and Tolerations",
-    "permalink": "/work/Kubernetes/Taints&Tolerations"
+    "permalink": "/docs/Kubernetes/Taints&Tolerations"
   }
 }

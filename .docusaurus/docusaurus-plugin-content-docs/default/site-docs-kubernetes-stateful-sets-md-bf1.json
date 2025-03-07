@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/StatefulSets.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/StatefulSets",
-  "permalink": "/work/Kubernetes/StatefulSets",
+  "permalink": "/docs/Kubernetes/StatefulSets",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/StatefulSets.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Services",
-    "permalink": "/work/Kubernetes/ServicesCoreConcepts"
+    "permalink": "/docs/Kubernetes/ServicesCoreConcepts"
   },
   "next": {
     "title": "Storage Classes",
-    "permalink": "/work/Kubernetes/StorageClasses"
+    "permalink": "/docs/Kubernetes/StorageClasses"
   }
 }

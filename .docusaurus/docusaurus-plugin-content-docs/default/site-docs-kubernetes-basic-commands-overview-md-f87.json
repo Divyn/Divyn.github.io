@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/BasicCommandsOverview.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/BasicCommandsOverview",
-  "permalink": "/work/Kubernetes/BasicCommandsOverview",
+  "permalink": "/docs/Kubernetes/BasicCommandsOverview",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/BasicCommandsOverview.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kubernetes",
-    "permalink": "/work/category/kubernetes"
+    "permalink": "/docs/category/kubernetes"
   },
   "next": {
     "title": "Edit a POD",
-    "permalink": "/work/Kubernetes/EditingaProd"
+    "permalink": "/docs/Kubernetes/EditingaProd"
   }
 }

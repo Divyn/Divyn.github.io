@@ -1,11 +1,11 @@
 {
   "id": "intro",
   "title": "Divyasshree",
-  "description": "",
+  "description": "Hello",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/work/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/intro.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "CRM",
-    "permalink": "/work/category/crm"
+    "permalink": "/docs/category/crm"
   }
 }

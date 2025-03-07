@@ -43,196 +43,250 @@ export default [
     exact: true
   },
   {
-    path: '/work',
-    component: ComponentCreator('/work', '931'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '7f0'),
     routes: [
       {
-        path: '/work',
-        component: ComponentCreator('/work', '36f'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '37c'),
         routes: [
           {
-            path: '/work/tags',
-            component: ComponentCreator('/work/tags', 'd69'),
+            path: '/docs/tags',
+            component: ComponentCreator('/docs/tags', 'fce'),
             exact: true
           },
           {
-            path: '/work/tags/editing',
-            component: ComponentCreator('/work/tags/editing', 'eb6'),
+            path: '/docs/tags/editing',
+            component: ComponentCreator('/docs/tags/editing', 'f84'),
             exact: true
           },
           {
-            path: '/work/tags/kubernetes',
-            component: ComponentCreator('/work/tags/kubernetes', 'fcc'),
+            path: '/docs/tags/kubernetes',
+            component: ComponentCreator('/docs/tags/kubernetes', 'a8b'),
             exact: true
           },
           {
-            path: '/work/tags/pods',
-            component: ComponentCreator('/work/tags/pods', '489'),
+            path: '/docs/tags/pods',
+            component: ComponentCreator('/docs/tags/pods', '867'),
             exact: true
           },
           {
-            path: '/work',
-            component: ComponentCreator('/work', 'c26'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '7fa'),
             routes: [
               {
-                path: '/work/category/crm',
-                component: ComponentCreator('/work/category/crm', 'bcf'),
+                path: '/docs/category/crm',
+                component: ComponentCreator('/docs/category/crm', 'bbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/category/design-research',
-                component: ComponentCreator('/work/category/design-research', 'fd0'),
+                path: '/docs/category/design-research',
+                component: ComponentCreator('/docs/category/design-research', '462'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/category/game-theory',
-                component: ComponentCreator('/work/category/game-theory', '6d5'),
+                path: '/docs/category/game-theory',
+                component: ComponentCreator('/docs/category/game-theory', '0c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/category/kubernetes',
-                component: ComponentCreator('/work/category/kubernetes', '49b'),
+                path: '/docs/category/kubernetes',
+                component: ComponentCreator('/docs/category/kubernetes', 'af5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/category/miscellaneous',
-                component: ComponentCreator('/work/category/miscellaneous', '1f1'),
+                path: '/docs/category/miscellaneous',
+                component: ComponentCreator('/docs/category/miscellaneous', 'dba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/CRM/SalesAutomation',
-                component: ComponentCreator('/work/CRM/SalesAutomation', '373'),
+                path: '/docs/CRM/SalesAutomation',
+                component: ComponentCreator('/docs/CRM/SalesAutomation', 'f95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/design/Basics',
-                component: ComponentCreator('/work/design/Basics', 'ff7'),
+                path: '/docs/design/Basics',
+                component: ComponentCreator('/docs/design/Basics', '7b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/GameTheory/MahabharatGame',
-                component: ComponentCreator('/work/GameTheory/MahabharatGame', '0f4'),
+                path: '/docs/featured-work/code-samples',
+                component: ComponentCreator('/docs/featured-work/code-samples', '3cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/intro',
-                component: ComponentCreator('/work/intro', '0ac'),
+                path: '/docs/featured-work/digital-products',
+                component: ComponentCreator('/docs/featured-work/digital-products', '901'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/BasicCommandsOverview',
-                component: ComponentCreator('/work/Kubernetes/BasicCommandsOverview', '6a0'),
+                path: '/docs/featured-work/events',
+                component: ComponentCreator('/docs/featured-work/events', '9bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/EditingaProd',
-                component: ComponentCreator('/work/Kubernetes/EditingaProd', '225'),
+                path: '/docs/featured-work/infographics',
+                component: ComponentCreator('/docs/featured-work/infographics', 'afe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/MultiContainerPods',
-                component: ComponentCreator('/work/Kubernetes/MultiContainerPods', '83f'),
+                path: '/docs/featured-work/investigation-videos',
+                component: ComponentCreator('/docs/featured-work/investigation-videos', 'c17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/NodeAffinity',
-                component: ComponentCreator('/work/Kubernetes/NodeAffinity', '08f'),
+                path: '/docs/featured-work/long-form-articles',
+                component: ComponentCreator('/docs/featured-work/long-form-articles', 'd22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/NodeSelectors',
-                component: ComponentCreator('/work/Kubernetes/NodeSelectors', 'd16'),
+                path: '/docs/featured-work/product-documentation',
+                component: ComponentCreator('/docs/featured-work/product-documentation', '467'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/Resources',
-                component: ComponentCreator('/work/Kubernetes/Resources', '6ae'),
+                path: '/docs/featured-work/product-newsletter',
+                component: ComponentCreator('/docs/featured-work/product-newsletter', 'dd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/Scheduling',
-                component: ComponentCreator('/work/Kubernetes/Scheduling', '774'),
+                path: '/docs/featured-work/video-tutorials',
+                component: ComponentCreator('/docs/featured-work/video-tutorials', '058'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/Secrets',
-                component: ComponentCreator('/work/Kubernetes/Secrets', '8bd'),
+                path: '/docs/GameTheory/MahabharatGame',
+                component: ComponentCreator('/docs/GameTheory/MahabharatGame', '676'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/SecurityContext',
-                component: ComponentCreator('/work/Kubernetes/SecurityContext', '6c3'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/serviceAccounts',
-                component: ComponentCreator('/work/Kubernetes/serviceAccounts', '8be'),
+                path: '/docs/Kubernetes/BasicCommandsOverview',
+                component: ComponentCreator('/docs/Kubernetes/BasicCommandsOverview', '7f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/ServicesCoreConcepts',
-                component: ComponentCreator('/work/Kubernetes/ServicesCoreConcepts', '5dd'),
+                path: '/docs/Kubernetes/EditingaProd',
+                component: ComponentCreator('/docs/Kubernetes/EditingaProd', '639'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/StatefulSets',
-                component: ComponentCreator('/work/Kubernetes/StatefulSets', '85a'),
+                path: '/docs/Kubernetes/MultiContainerPods',
+                component: ComponentCreator('/docs/Kubernetes/MultiContainerPods', '9f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/StorageClasses',
-                component: ComponentCreator('/work/Kubernetes/StorageClasses', '971'),
+                path: '/docs/Kubernetes/NodeAffinity',
+                component: ComponentCreator('/docs/Kubernetes/NodeAffinity', 'f1f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Kubernetes/Taints&Tolerations',
-                component: ComponentCreator('/work/Kubernetes/Taints&Tolerations', 'feb'),
+                path: '/docs/Kubernetes/NodeSelectors',
+                component: ComponentCreator('/docs/Kubernetes/NodeSelectors', '30f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Miscellaneous/BigData_OS_Security',
-                component: ComponentCreator('/work/Miscellaneous/BigData_OS_Security', '951'),
+                path: '/docs/Kubernetes/Resources',
+                component: ComponentCreator('/docs/Kubernetes/Resources', 'cfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Miscellaneous/ChaosCovid',
-                component: ComponentCreator('/work/Miscellaneous/ChaosCovid', '8bc'),
+                path: '/docs/Kubernetes/Scheduling',
+                component: ComponentCreator('/docs/Kubernetes/Scheduling', 'ed1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/Miscellaneous/QuantumComputing',
-                component: ComponentCreator('/work/Miscellaneous/QuantumComputing', '4db'),
+                path: '/docs/Kubernetes/Secrets',
+                component: ComponentCreator('/docs/Kubernetes/Secrets', '6ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/work/SaaS/SaaS_Stack',
-                component: ComponentCreator('/work/SaaS/SaaS_Stack', '4c1'),
+                path: '/docs/Kubernetes/SecurityContext',
+                component: ComponentCreator('/docs/Kubernetes/SecurityContext', '36e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Kubernetes/serviceAccounts',
+                component: ComponentCreator('/docs/Kubernetes/serviceAccounts', '9e1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Kubernetes/ServicesCoreConcepts',
+                component: ComponentCreator('/docs/Kubernetes/ServicesCoreConcepts', '05b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Kubernetes/StatefulSets',
+                component: ComponentCreator('/docs/Kubernetes/StatefulSets', '5f3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Kubernetes/StorageClasses',
+                component: ComponentCreator('/docs/Kubernetes/StorageClasses', '738'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Kubernetes/Taints&Tolerations',
+                component: ComponentCreator('/docs/Kubernetes/Taints&Tolerations', 'da9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Miscellaneous/BigData_OS_Security',
+                component: ComponentCreator('/docs/Miscellaneous/BigData_OS_Security', '9a5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Miscellaneous/ChaosCovid',
+                component: ComponentCreator('/docs/Miscellaneous/ChaosCovid', 'b95'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Miscellaneous/QuantumComputing',
+                component: ComponentCreator('/docs/Miscellaneous/QuantumComputing', '144'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/SaaS/SaaS_Stack',
+                component: ComponentCreator('/docs/SaaS/SaaS_Stack', '959'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

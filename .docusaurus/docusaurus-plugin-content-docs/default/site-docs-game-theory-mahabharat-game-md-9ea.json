@@ -5,7 +5,7 @@
   "source": "@site/docs/GameTheory/MahabharatGame.md",
   "sourceDirName": "GameTheory",
   "slug": "/GameTheory/MahabharatGame",
-  "permalink": "/work/GameTheory/MahabharatGame",
+  "permalink": "/docs/GameTheory/MahabharatGame",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/GameTheory/MahabharatGame.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Game Theory",
-    "permalink": "/work/category/game-theory"
+    "permalink": "/docs/category/game-theory"
   },
   "next": {
     "title": "Kubernetes",
-    "permalink": "/work/category/kubernetes"
+    "permalink": "/docs/category/kubernetes"
   }
 }

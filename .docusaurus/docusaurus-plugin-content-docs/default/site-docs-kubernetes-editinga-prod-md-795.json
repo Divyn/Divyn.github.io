@@ -5,7 +5,7 @@
   "source": "@site/docs/Kubernetes/EditingaProd.md",
   "sourceDirName": "Kubernetes",
   "slug": "/Kubernetes/EditingaProd",
-  "permalink": "/work/Kubernetes/EditingaProd",
+  "permalink": "/docs/Kubernetes/EditingaProd",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Kubernetes/EditingaProd.md",
@@ -13,17 +13,17 @@
     {
       "inline": true,
       "label": "Kubernetes",
-      "permalink": "/work/tags/kubernetes"
+      "permalink": "/docs/tags/kubernetes"
     },
     {
       "inline": true,
       "label": "Editing",
-      "permalink": "/work/tags/editing"
+      "permalink": "/docs/tags/editing"
     },
     {
       "inline": true,
       "label": "Pods",
-      "permalink": "/work/tags/pods"
+      "permalink": "/docs/tags/pods"
     }
   ],
   "version": "current",
@@ -45,10 +45,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basic Commands",
-    "permalink": "/work/Kubernetes/BasicCommandsOverview"
+    "permalink": "/docs/Kubernetes/BasicCommandsOverview"
   },
   "next": {
     "title": "Microservices",
-    "permalink": "/work/Kubernetes/MultiContainerPods"
+    "permalink": "/docs/Kubernetes/MultiContainerPods"
   }
 }
