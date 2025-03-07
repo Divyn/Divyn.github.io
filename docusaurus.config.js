@@ -13,7 +13,7 @@ const config = {
   organizationName: "divyn", // GitHub username
   projectName: "divyn.github.io", // GitHub Pages repo
   deploymentBranch: "gh-pages", // Branch for GitHub Pages deployment
-
+trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
