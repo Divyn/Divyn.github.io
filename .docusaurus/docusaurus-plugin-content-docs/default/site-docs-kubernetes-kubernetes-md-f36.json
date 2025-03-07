@@ -1,0 +1,30 @@
+{
+  "id": "Kubernetes/Kubernetes",
+  "title": "Kubernetes",
+  "description": "{: .no_toc }",
+  "source": "@site/docs/Kubernetes/Kubernetes.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/",
+  "permalink": "/docs/Kubernetes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/Kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Kubernetes",
+    "nav_order": 4,
+    "has_children": true,
+    "permalink": "docs/Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit a POD",
+    "permalink": "/docs/Kubernetes/EditingaProd"
+  },
+  "next": {
+    "title": "Microservices",
+    "permalink": "/docs/Kubernetes/MultiContainerPods"
+  }
+}

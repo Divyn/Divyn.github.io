@@ -1,0 +1,28 @@
+{
+  "id": "Kubernetes/BasicCommandsOverview",
+  "title": "Basic Commands",
+  "description": "150 Command Scenarios by Bhargav Bachina",
+  "source": "@site/docs/Kubernetes/BasicCommandsOverview.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/BasicCommandsOverview",
+  "permalink": "/docs/Kubernetes/BasicCommandsOverview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/BasicCommandsOverview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Basic Commands",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes",
+    "permalink": "/docs/category/kubernetes"
+  },
+  "next": {
+    "title": "Edit a POD",
+    "permalink": "/docs/Kubernetes/EditingaProd"
+  }
+}

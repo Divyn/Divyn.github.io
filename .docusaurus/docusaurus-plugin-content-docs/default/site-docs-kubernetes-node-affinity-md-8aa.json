@@ -1,0 +1,28 @@
+{
+  "id": "Kubernetes/NodeAffinity",
+  "title": "Node Affinity",
+  "description": "nodeSelector provides a very simple way to constrain pods to nodes with particular labels.",
+  "source": "@site/docs/Kubernetes/NodeAffinity.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/NodeAffinity",
+  "permalink": "/docs/Kubernetes/NodeAffinity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/NodeAffinity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Node Affinity",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservices",
+    "permalink": "/docs/Kubernetes/MultiContainerPods"
+  },
+  "next": {
+    "title": "Node Selection",
+    "permalink": "/docs/Kubernetes/NodeSelectors"
+  }
+}

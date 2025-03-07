@@ -1,0 +1,28 @@
+{
+  "id": "Kubernetes/StatefulSets",
+  "title": "Deployment and StatefulSet",
+  "description": "Similarities and Differences",
+  "source": "@site/docs/Kubernetes/StatefulSets.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/StatefulSets",
+  "permalink": "/docs/Kubernetes/StatefulSets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/StatefulSets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Deployment and StatefulSet",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/docs/Kubernetes/ServicesCoreConcepts"
+  },
+  "next": {
+    "title": "Storage Classes",
+    "permalink": "/docs/Kubernetes/StorageClasses"
+  }
+}

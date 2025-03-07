@@ -1,0 +1,28 @@
+{
+  "id": "CRM/SalesAutomation",
+  "title": "Sales Automation- An Intro",
+  "description": "Generating leads for your company is the first stage of the sales cycle. Any product improvements may have prompted several leads to visit your website. Others may have quickly skimmed your website to see whether you are providing what they need. You'll save a lot of time if you can swiftly collect the lead information when they visit your product website or landing pages.",
+  "source": "@site/docs/CRM/SalesAutomation.md",
+  "sourceDirName": "CRM",
+  "slug": "/CRM/SalesAutomation",
+  "permalink": "/docs/CRM/SalesAutomation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CRM/SalesAutomation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Sales Automation- An Intro",
+    "parent": "CRM"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CRM",
+    "permalink": "/docs/category/crm"
+  },
+  "next": {
+    "title": "Game Theory",
+    "permalink": "/docs/category/game-theory"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "design/Basics",
+  "title": "Basics of Design Research",
+  "description": "- The study of consumer behavior is one of the most common examples of research in design.",
+  "source": "@site/docs/design/Basics.md",
+  "sourceDirName": "design",
+  "slug": "/design/Basics",
+  "permalink": "/docs/design/Basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/design/Basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Basics of Design Research",
+    "parent": "DesignThinking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Research",
+    "permalink": "/docs/category/design-research"
+  },
+  "next": {
+    "title": "Understanding SaaS stack for your company",
+    "permalink": "/docs/SaaS/SaaS_Stack"
+  }
+}

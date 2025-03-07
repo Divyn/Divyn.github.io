@@ -1,0 +1,30 @@
+{
+  "id": "GameTheory/GameTheory",
+  "title": "GameTheory",
+  "description": "{: .no_toc }",
+  "source": "@site/docs/GameTheory/GameTheory.md",
+  "sourceDirName": "GameTheory",
+  "slug": "/GameTheory/",
+  "permalink": "/docs/GameTheory/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/GameTheory/GameTheory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "GameTheory",
+    "nav_order": 3,
+    "has_children": true,
+    "permalink": "docs/GameTheory"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Game Theory",
+    "permalink": "/docs/category/game-theory"
+  },
+  "next": {
+    "title": "Mahabharata -  A  Game bigger than a Game of Dice",
+    "permalink": "/docs/GameTheory/MahabharatGame"
+  }
+}

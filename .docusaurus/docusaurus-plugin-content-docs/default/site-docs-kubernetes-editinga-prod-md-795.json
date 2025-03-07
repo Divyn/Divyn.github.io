@@ -1,0 +1,54 @@
+{
+  "id": "Kubernetes/EditingaProd",
+  "title": "Edit a POD",
+  "description": "Remember, you CANNOT edit specifications of an existing POD other than the fields below:",
+  "source": "@site/docs/Kubernetes/EditingaProd.md",
+  "sourceDirName": "Kubernetes",
+  "slug": "/Kubernetes/EditingaProd",
+  "permalink": "/docs/Kubernetes/EditingaProd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes/EditingaProd.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Kubernetes",
+      "permalink": "/docs/tags/kubernetes"
+    },
+    {
+      "inline": true,
+      "label": "Editing",
+      "permalink": "/docs/tags/editing"
+    },
+    {
+      "inline": true,
+      "label": "Pods",
+      "permalink": "/docs/tags/pods"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "layout": "post",
+    "title": "Edit a POD",
+    "parent": "Kubernetes",
+    "date": "2025-03-07T00:00:00.000Z",
+    "categories": [
+      "Kubernetes",
+      "Pods"
+    ],
+    "tags": [
+      "Kubernetes",
+      "Editing",
+      "Pods"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Commands",
+    "permalink": "/docs/Kubernetes/BasicCommandsOverview"
+  },
+  "next": {
+    "title": "Microservices",
+    "permalink": "/docs/Kubernetes/MultiContainerPods"
+  }
+}

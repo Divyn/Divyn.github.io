@@ -1,0 +1,24 @@
+{
+  "id": "SaaS/SaaS_Stack",
+  "title": "Understanding SaaS stack for your company",
+  "description": "Why you need to manage your tech stack",
+  "source": "@site/docs/SaaS/SaaS_Stack.md",
+  "sourceDirName": "SaaS",
+  "slug": "/SaaS/SaaS_Stack",
+  "permalink": "/docs/SaaS/SaaS_Stack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SaaS/SaaS_Stack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Understanding SaaS stack for your company",
+    "parent": "SaaS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics of Design Research",
+    "permalink": "/docs/design/Basics"
+  }
+}

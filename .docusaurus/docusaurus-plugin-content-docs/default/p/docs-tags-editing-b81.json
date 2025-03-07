@@ -1,0 +1,1 @@
+{"tag":{"label":"Editing","permalink":"/docs/tags/editing","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Kubernetes/EditingaProd","title":"Edit a POD","description":"Remember, you CANNOT edit specifications of an existing POD other than the fields below:","permalink":"/docs/Kubernetes/EditingaProd"}],"unlisted":false}}

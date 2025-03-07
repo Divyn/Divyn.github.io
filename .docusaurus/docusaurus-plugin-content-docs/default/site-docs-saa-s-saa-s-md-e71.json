@@ -1,0 +1,30 @@
+{
+  "id": "SaaS/SaaS",
+  "title": "SaaS",
+  "description": "{: .no_toc }",
+  "source": "@site/docs/SaaS/SaaS.md",
+  "sourceDirName": "SaaS",
+  "slug": "/SaaS/",
+  "permalink": "/docs/SaaS/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SaaS/SaaS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "SaaS",
+    "nav_order": 5,
+    "has_children": true,
+    "permalink": "docs/SaaS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Understanding SaaS stack for your company",
+    "permalink": "/docs/SaaS/SaaS_Stack"
+  }
+}

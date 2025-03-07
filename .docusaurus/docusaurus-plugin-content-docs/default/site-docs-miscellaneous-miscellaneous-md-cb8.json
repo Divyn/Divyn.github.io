@@ -1,0 +1,30 @@
+{
+  "id": "Miscellaneous/Miscellaneous",
+  "title": "Miscellaneous",
+  "description": "{: .no_toc }",
+  "source": "@site/docs/Miscellaneous/Miscellaneous.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/Miscellaneous/",
+  "permalink": "/docs/Miscellaneous/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Miscellaneous.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Miscellaneous",
+    "nav_order": 5,
+    "has_children": true,
+    "permalink": "docs/Miscellaneous"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chaos Theory on  COVID-19",
+    "permalink": "/docs/Miscellaneous/ChaosCovid"
+  },
+  "next": {
+    "title": "One Step Closer to Achieving 2030 Sustainability Goals",
+    "permalink": "/docs/Miscellaneous/QuantumComputing"
+  }
+}
