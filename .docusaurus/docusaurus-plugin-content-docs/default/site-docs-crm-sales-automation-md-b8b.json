@@ -5,10 +5,10 @@
   "source": "@site/docs/CRM/SalesAutomation.md",
   "sourceDirName": "CRM",
   "slug": "/CRM/SalesAutomation",
-  "permalink": "/docs/CRM/SalesAutomation",
+  "permalink": "/work/CRM/SalesAutomation",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CRM/SalesAutomation.md",
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/CRM/SalesAutomation.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CRM",
-    "permalink": "/docs/category/crm"
+    "permalink": "/work/category/crm"
   },
   "next": {
     "title": "Game Theory",
-    "permalink": "/docs/category/game-theory"
+    "permalink": "/work/category/game-theory"
   }
 }

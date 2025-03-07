@@ -1,148 +1,148 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/work",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/work",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "CRM/SalesAutomation",
-              "path": "/docs/CRM/SalesAutomation",
+              "path": "/work/CRM/SalesAutomation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/Basics",
-              "path": "/docs/design/Basics",
+              "path": "/work/design/Basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "GameTheory/MahabharatGame",
-              "path": "/docs/GameTheory/MahabharatGame",
+              "path": "/work/GameTheory/MahabharatGame",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/work/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/BasicCommandsOverview",
-              "path": "/docs/Kubernetes/BasicCommandsOverview",
+              "path": "/work/Kubernetes/BasicCommandsOverview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/EditingaProd",
-              "path": "/docs/Kubernetes/EditingaProd",
+              "path": "/work/Kubernetes/EditingaProd",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/MultiContainerPods",
-              "path": "/docs/Kubernetes/MultiContainerPods",
+              "path": "/work/Kubernetes/MultiContainerPods",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/NodeAffinity",
-              "path": "/docs/Kubernetes/NodeAffinity",
+              "path": "/work/Kubernetes/NodeAffinity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/NodeSelectors",
-              "path": "/docs/Kubernetes/NodeSelectors",
+              "path": "/work/Kubernetes/NodeSelectors",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/Resources",
-              "path": "/docs/Kubernetes/Resources",
+              "path": "/work/Kubernetes/Resources",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/Scheduling",
-              "path": "/docs/Kubernetes/Scheduling",
+              "path": "/work/Kubernetes/Scheduling",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/Secrets",
-              "path": "/docs/Kubernetes/Secrets",
+              "path": "/work/Kubernetes/Secrets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/SecurityContext",
-              "path": "/docs/Kubernetes/SecurityContext",
+              "path": "/work/Kubernetes/SecurityContext",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/serviceAccounts",
-              "path": "/docs/Kubernetes/serviceAccounts",
+              "path": "/work/Kubernetes/serviceAccounts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/ServicesCoreConcepts",
-              "path": "/docs/Kubernetes/ServicesCoreConcepts",
+              "path": "/work/Kubernetes/ServicesCoreConcepts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/StatefulSets",
-              "path": "/docs/Kubernetes/StatefulSets",
+              "path": "/work/Kubernetes/StatefulSets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/StorageClasses",
-              "path": "/docs/Kubernetes/StorageClasses",
+              "path": "/work/Kubernetes/StorageClasses",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Kubernetes/Taints&Tolerations",
-              "path": "/docs/Kubernetes/Taints&Tolerations",
+              "path": "/work/Kubernetes/Taints&Tolerations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Miscellaneous/BigData_OS_Security",
-              "path": "/docs/Miscellaneous/BigData_OS_Security",
+              "path": "/work/Miscellaneous/BigData_OS_Security",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Miscellaneous/ChaosCovid",
-              "path": "/docs/Miscellaneous/ChaosCovid",
+              "path": "/work/Miscellaneous/ChaosCovid",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Miscellaneous/QuantumComputing",
-              "path": "/docs/Miscellaneous/QuantumComputing",
+              "path": "/work/Miscellaneous/QuantumComputing",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SaaS/SaaS_Stack",
-              "path": "/docs/SaaS/SaaS_Stack",
+              "path": "/work/SaaS/SaaS_Stack",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/crm",
-              "path": "/docs/category/crm",
+              "path": "/work/category/crm",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/game-theory",
-              "path": "/docs/category/game-theory",
+              "path": "/work/category/game-theory",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/kubernetes",
-              "path": "/docs/category/kubernetes",
+              "path": "/work/category/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "path": "/work/category/miscellaneous",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/design-research",
-              "path": "/docs/category/design-research",
+              "path": "/work/category/design-research",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -150,7 +150,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/work/intro",
                 "label": "intro"
               }
             }

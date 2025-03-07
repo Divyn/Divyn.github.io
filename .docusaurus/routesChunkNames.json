@@ -42,206 +42,6 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-b2f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "__props": "__props---blogc-15-573"
-  },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "__props": "__props---blog-archivef-81-229"
-  },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
-  },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
-  },
-  "/blog/authors/yangshun-a68": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
-  },
-  "/blog/first-blog-post-89a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
-  },
-  "/blog/long-blog-post-9ad": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
-  },
-  "/blog/mdx-blog-post-e9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
-  },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
-  },
-  "/blog/tags/docusaurus-704": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
-  },
-  "/blog/tags/facebook-858": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      }
-    ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
-  },
-  "/blog/tags/hello-299": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blog-871-381"
-      }
-    ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
-  },
-  "/blog/tags/hola-00d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-925-e00"
-      }
-    ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
-  },
-  "/blog/welcome-d2b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
-  },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -249,140 +49,140 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-06b": {
+  "/work-931": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c77": {
+  "/work-36f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---workb-36-de6"
   },
-  "/docs/tags-fce": {
+  "/work/tags-d69": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---docs-tags-898-65c"
+    "__props": "__props---work-tags-437-478"
   },
-  "/docs/tags/editing-f84": {
+  "/work/tags/editing-eb6": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-editing-1-c-7-57c"
+    "__props": "__props---work-tags-editingc-8-e-696"
   },
-  "/docs/tags/kubernetes-a8b": {
+  "/work/tags/kubernetes-fcc": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-kubernetes-100-afc"
+    "__props": "__props---work-tags-kubernetes-153-60d"
   },
-  "/docs/tags/pods-867": {
+  "/work/tags/pods-489": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---docs-tags-pods-28-d-492"
+    "__props": "__props---work-tags-podsae-5-d30"
   },
-  "/docs-b07": {
+  "/work-c26": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/crm-bbc": {
+  "/work/category/crm-bcf": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-crm-0-c-9-d73"
+    "__props": "__props---work-category-crmc-10-c84"
   },
-  "/docs/category/design-research-462": {
+  "/work/category/design-research-fd0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-design-research-185-068"
+    "__props": "__props---work-category-design-researchfce-dd7"
   },
-  "/docs/category/game-theory-0c5": {
+  "/work/category/game-theory-6d5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-game-theory-09-b-07a"
+    "__props": "__props---work-category-game-theory-55-b-671"
   },
-  "/docs/category/kubernetes-af5": {
+  "/work/category/kubernetes-49b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-kubernetes-60-a-67e"
+    "__props": "__props---work-category-kubernetes-1-f-6-c8a"
   },
-  "/docs/category/miscellaneous-dba": {
+  "/work/category/miscellaneous-1f1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-miscellaneous-298-c31"
+    "__props": "__props---work-category-miscellaneous-397-946"
   },
-  "/docs/CRM/SalesAutomation-f95": {
+  "/work/CRM/SalesAutomation-373": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-crm-sales-automationb-8-b-1fe"
   },
-  "/docs/design/Basics-7b5": {
+  "/work/design/Basics-ff7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-design-basicsa-5-f-052"
   },
-  "/docs/GameTheory/MahabharatGame-676": {
+  "/work/GameTheory/MahabharatGame-0f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-game-theory-mahabharat-game-9-ea-302"
   },
-  "/docs/intro-61d": {
+  "/work/intro-0ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/Kubernetes/BasicCommandsOverview-7f5": {
+  "/work/Kubernetes/BasicCommandsOverview-6a0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-basic-commands-overviewf-87-d54"
   },
-  "/docs/Kubernetes/EditingaProd-639": {
+  "/work/Kubernetes/EditingaProd-225": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-editinga-prod-795-694"
   },
-  "/docs/Kubernetes/MultiContainerPods-9f4": {
+  "/work/Kubernetes/MultiContainerPods-83f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-multi-container-pods-0-d-6-a24"
   },
-  "/docs/Kubernetes/NodeAffinity-f1f": {
+  "/work/Kubernetes/NodeAffinity-08f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-node-affinity-8-aa-458"
   },
-  "/docs/Kubernetes/NodeSelectors-30f": {
+  "/work/Kubernetes/NodeSelectors-d16": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-node-selectorsc-68-0ae"
   },
-  "/docs/Kubernetes/Resources-cfa": {
+  "/work/Kubernetes/Resources-6ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-resources-9-ee-210"
   },
-  "/docs/Kubernetes/Scheduling-ed1": {
+  "/work/Kubernetes/Scheduling-774": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-schedulingcde-d6d"
   },
-  "/docs/Kubernetes/Secrets-6ed": {
+  "/work/Kubernetes/Secrets-8bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-secrets-300-f33"
   },
-  "/docs/Kubernetes/SecurityContext-36e": {
+  "/work/Kubernetes/SecurityContext-6c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-security-contextf-29-60b"
   },
-  "/docs/Kubernetes/serviceAccounts-9e1": {
+  "/work/Kubernetes/serviceAccounts-8be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-service-accounts-310-33c"
   },
-  "/docs/Kubernetes/ServicesCoreConcepts-05b": {
+  "/work/Kubernetes/ServicesCoreConcepts-5dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-services-core-conceptsffc-41d"
   },
-  "/docs/Kubernetes/StatefulSets-5f3": {
+  "/work/Kubernetes/StatefulSets-85a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-stateful-setsbf-1-199"
   },
-  "/docs/Kubernetes/StorageClasses-738": {
+  "/work/Kubernetes/StorageClasses-971": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-storage-classes-9-b-4-b61"
   },
-  "/docs/Kubernetes/Taints&Tolerations-da9": {
+  "/work/Kubernetes/Taints&Tolerations-feb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-kubernetes-taints-tolerations-66-c-583"
   },
-  "/docs/Miscellaneous/BigData_OS_Security-9a5": {
+  "/work/Miscellaneous/BigData_OS_Security-951": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-miscellaneous-big-data-os-securityfc-9-77e"
   },
-  "/docs/Miscellaneous/ChaosCovid-b95": {
+  "/work/Miscellaneous/ChaosCovid-8bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-miscellaneous-chaos-covid-551-ff4"
   },
-  "/docs/Miscellaneous/QuantumComputing-144": {
+  "/work/Miscellaneous/QuantumComputing-4db": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-miscellaneous-quantum-computinge-50-86c"
   },
-  "/docs/SaaS/SaaS_Stack-959": {
+  "/work/SaaS/SaaS_Stack-4c1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-saa-s-saa-s-stack-075-7d0"
   },

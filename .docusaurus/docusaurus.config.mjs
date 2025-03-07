@@ -4,13 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Divyasshree’s Portfolio",
+  "tagline": "Tech Storyteller & Problem Solver",
   "favicon": "img/favicon.ico",
   "url": "https://divyn.github.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "divyn",
+  "projectName": "divyn.github.io",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,52 +27,52 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/sidebars.js",
+          "routeBasePath": "work",
+          "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/"
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/portfolio-banner.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Divyasshree’s Portfolio",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Divyasshree Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/",
+          "label": "Home",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "to": "/about",
+          "label": "About",
+          "position": "left"
+        },
+        {
+          "to": "/work",
+          "label": "Work",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/divyasshree-BQ",
           "label": "GitHub",
+          "position": "right"
+        },
+        {
+          "href": "https://x.com/divyasshree_",
+          "label": "Twitter",
           "position": "right"
         }
       ],
@@ -81,46 +82,41 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Portfolio",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "About Me",
+              "to": "/about"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Work",
+              "to": "/work"
             },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
             {
               "label": "Blog",
               "to": "/blog"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Follow Me",
+          "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/divyn"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://x.com/divyasshree_"
+            },
+            {
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/in/divyasshree/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Divyasshree. Built with Docusaurus."
     },
     "prism": {
       "theme": {
