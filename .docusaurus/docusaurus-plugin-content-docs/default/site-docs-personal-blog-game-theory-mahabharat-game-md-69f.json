@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Game Theory",
-    "permalink": "/docs/category/game-theory-1"
+    "permalink": "/docs/category/game-theory"
   },
   "next": {
     "title": "Kubernetes",
-    "permalink": "/docs/category/kubernetes-1"
+    "permalink": "/docs/category/kubernetes"
   }
 }

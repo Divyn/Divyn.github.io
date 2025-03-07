@@ -19,7 +19,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kubernetes",
-    "permalink": "/docs/category/kubernetes-1"
+    "permalink": "/docs/category/kubernetes"
   },
   "next": {
     "title": "Edit a POD",

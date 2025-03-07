@@ -46,9 +46,6 @@ export default {
       }
     ]
   ],
-  "plugins": [
-    "@docusaurus/plugin-sitemap"
-  ],
   "themeConfig": {
     "image": "img/portfolio-banner.jpg",
     "navbar": {
@@ -61,11 +58,6 @@ export default {
         {
           "to": "/docs/intro",
           "label": "Home",
-          "position": "left"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
           "position": "left"
         },
         {
@@ -353,6 +345,7 @@ export default {
     "static"
   ],
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

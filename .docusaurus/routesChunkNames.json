@@ -49,13 +49,13 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-fb6": {
+  "/docs-b30": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---workaba-922"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-6a9": {
+  "/docs-ca3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
@@ -75,24 +75,16 @@
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---docs-tags-pods-28-d-492"
   },
-  "/docs-70c": {
+  "/docs-110": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/crm-bbc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-crm-0-c-9-d73"
   },
-  "/docs/category/crm-1-120": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-crm-1-f-0-d-de4"
-  },
   "/docs/category/design-research-462": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-design-research-185-068"
-  },
-  "/docs/category/design-research-1-5ab": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-design-research-1-b-63-28f"
   },
   "/docs/category/featured-work-754": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -102,149 +94,57 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-game-theory-09-b-07a"
   },
-  "/docs/category/game-theory-1-758": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-game-theory-1-bf-9-92a"
-  },
   "/docs/category/kubernetes-af5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-kubernetes-60-a-67e"
-  },
-  "/docs/category/kubernetes-1-513": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-kubernetes-19-d-7-915"
   },
   "/docs/category/miscellaneous-dba": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-miscellaneous-298-c31"
   },
-  "/docs/category/miscellaneous-1-2d5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-miscellaneous-13-fd-06c"
-  },
   "/docs/category/personal-blog-b33": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-personal-blog-937-d17"
   },
-  "/docs/CRM/SalesAutomation-f95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-crm-sales-automationb-8-b-c3e"
-  },
-  "/docs/design/Basics-7b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-design-basicsa-5-f-60f"
-  },
   "/docs/featured-work/code-samples-3cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-code-samples-4-bf-54c"
+    "content": "content---docs-featured-work-code-samples-4-bf-3ed"
   },
   "/docs/featured-work/digital-products-901": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-digital-productsf-55-02c"
+    "content": "content---docs-featured-work-digital-productsf-55-1ed"
   },
   "/docs/featured-work/events-9bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-eventsa-05-996"
+    "content": "content---docs-featured-work-eventsa-05-64f"
   },
   "/docs/featured-work/infographics-afe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-infographics-794-0cf"
+    "content": "content---docs-featured-work-infographics-794-a55"
   },
   "/docs/featured-work/investigation-videos-c17": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-investigation-videos-6-b-3-0fb"
+    "content": "content---docs-featured-work-investigation-videos-6-b-3-a11"
   },
   "/docs/featured-work/long-form-articles-d22": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-long-form-articles-3-ca-72c"
+    "content": "content---docs-featured-work-long-form-articles-3-ca-964"
   },
   "/docs/featured-work/product-documentation-467": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-product-documentation-880-717"
+    "content": "content---docs-featured-work-product-documentation-880-245"
   },
   "/docs/featured-work/product-newsletter-dd9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-product-newsletter-7-bc-5be"
+    "content": "content---docs-featured-work-product-newsletter-7-bc-f98"
   },
   "/docs/featured-work/video-tutorials-058": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-featured-work-video-tutorials-77-f-2d0"
-  },
-  "/docs/GameTheory/MahabharatGame-676": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-game-theory-mahabharat-game-9-ea-eb0"
+    "content": "content---docs-featured-work-video-tutorials-77-f-46f"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-intro-0-e-3-456"
-  },
-  "/docs/Kubernetes/BasicCommandsOverview-7f5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-basic-commands-overviewf-87-2c4"
-  },
-  "/docs/Kubernetes/EditingaProd-639": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-editinga-prod-795-bd1"
-  },
-  "/docs/Kubernetes/MultiContainerPods-9f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-multi-container-pods-0-d-6-0e8"
-  },
-  "/docs/Kubernetes/NodeAffinity-f1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-node-affinity-8-aa-4bb"
-  },
-  "/docs/Kubernetes/NodeSelectors-30f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-node-selectorsc-68-3af"
-  },
-  "/docs/Kubernetes/Resources-cfa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-resources-9-ee-ad0"
-  },
-  "/docs/Kubernetes/Scheduling-ed1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-schedulingcde-6d0"
-  },
-  "/docs/Kubernetes/Secrets-6ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-secrets-300-f06"
-  },
-  "/docs/Kubernetes/SecurityContext-36e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-security-contextf-29-15b"
-  },
-  "/docs/Kubernetes/serviceAccounts-9e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-service-accounts-310-4d5"
-  },
-  "/docs/Kubernetes/ServicesCoreConcepts-05b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-services-core-conceptsffc-971"
-  },
-  "/docs/Kubernetes/StatefulSets-5f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-stateful-setsbf-1-5e2"
-  },
-  "/docs/Kubernetes/StorageClasses-738": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-storage-classes-9-b-4-858"
-  },
-  "/docs/Kubernetes/Taints&Tolerations-da9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-kubernetes-taints-tolerations-66-c-f34"
-  },
-  "/docs/Miscellaneous/BigData_OS_Security-9a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-miscellaneous-big-data-os-securityfc-9-684"
-  },
-  "/docs/Miscellaneous/ChaosCovid-b95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-miscellaneous-chaos-covid-551-7d0"
-  },
-  "/docs/Miscellaneous/QuantumComputing-144": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-miscellaneous-quantum-computinge-50-617"
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/Personal Blog/CRM/SalesAutomation-d40": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -329,10 +229,6 @@
   "/docs/Personal Blog/SaaS/SaaS_Stack-cd3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-personal-blog-saa-s-saa-s-stack-28-b-1e3"
-  },
-  "/docs/SaaS/SaaS_Stack-959": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---work-saa-s-saa-s-stack-075-4ed"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

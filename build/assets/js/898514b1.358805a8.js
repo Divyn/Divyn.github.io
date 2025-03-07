@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdivyasshree_portfolio=self.webpackChunkdivyasshree_portfolio||[]).push([[9067],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"Kubernetes","permalink":"/docs/tags/kubernetes","count":1},{"label":"Editing","permalink":"/docs/tags/editing","count":1},{"label":"Pods","permalink":"/docs/tags/pods","count":1}]}')}}]);

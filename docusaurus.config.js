@@ -46,8 +46,6 @@ const config = {
       },
     ],
   ],
-  plugins: ["@docusaurus/plugin-sitemap"],
-
   themeConfig: {
     image: "img/portfolio-banner.jpg", // Replace with your portfolio banner
     navbar: {
@@ -58,7 +56,7 @@ const config = {
       },
       items: [
         { to: "/docs/intro", label: "Home", position: "left" }, // ✅ Links Home to the Docs section correctly
-        { to: "/blog", label: "Blog", position: "left" },
+    
         {
           href: "https://github.com/divyasshree-BQ",
           label: "GitHub",

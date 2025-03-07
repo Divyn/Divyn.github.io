@@ -31,11 +31,6 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "3.7.0"
-    },
-    "docusaurus-plugin-sitemap": {
-      "type": "package",
-      "name": "@docusaurus/plugin-sitemap",
-      "version": "3.7.0"
     }
   }
 }
