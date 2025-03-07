@@ -12,6 +12,7 @@ export default {
   "organizationName": "divyn",
   "projectName": "divyn.github.io",
   "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
