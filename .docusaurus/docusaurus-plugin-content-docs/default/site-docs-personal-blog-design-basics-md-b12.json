@@ -5,7 +5,7 @@
   "source": "@site/docs/Personal Blog/design/Basics.md",
   "sourceDirName": "Personal Blog/design",
   "slug": "/Personal Blog/design/Basics",
-  "permalink": "/docs/Personal Blog/design/Basics",
+  "permalink": "/divyn.github.io/docs/Personal Blog/design/Basics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/design/Basics.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Design Research",
-    "permalink": "/docs/category/design-research"
+    "permalink": "/divyn.github.io/docs/category/design-research"
   },
   "next": {
     "title": "Understanding SaaS stack for your company",
-    "permalink": "/docs/Personal Blog/SaaS/SaaS_Stack"
+    "permalink": "/divyn.github.io/docs/Personal Blog/SaaS/SaaS_Stack"
   }
 }

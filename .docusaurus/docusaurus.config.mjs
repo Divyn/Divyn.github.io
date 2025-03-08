@@ -8,7 +8,7 @@ export default {
   "tagline": "Tech Storyteller",
   "favicon": "img/favicon.ico",
   "url": "https://divyn.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/divyn.github.io/",
   "organizationName": "divyn",
   "projectName": "divyn.github.io",
   "deploymentBranch": "gh-pages",

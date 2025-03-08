@@ -5,7 +5,7 @@
   "source": "@site/docs/Personal Blog/Kubernetes/MultiContainerPods.md",
   "sourceDirName": "Personal Blog/Kubernetes",
   "slug": "/Personal Blog/Kubernetes/MultiContainerPods",
-  "permalink": "/docs/Personal Blog/Kubernetes/MultiContainerPods",
+  "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/MultiContainerPods",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Kubernetes/MultiContainerPods.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Edit a POD",
-    "permalink": "/docs/Personal Blog/Kubernetes/EditingaProd"
+    "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/EditingaProd"
   },
   "next": {
     "title": "Node Affinity",
-    "permalink": "/docs/Personal Blog/Kubernetes/NodeAffinity"
+    "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeAffinity"
   }
 }

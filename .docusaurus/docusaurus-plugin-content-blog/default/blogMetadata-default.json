@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/blog",
+  "blogBasePath": "/divyn.github.io/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/blog/authors"
+  "authorsListPath": "/divyn.github.io/blog/authors"
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/Personal Blog/Miscellaneous/QuantumComputing.md",
   "sourceDirName": "Personal Blog/Miscellaneous",
   "slug": "/Personal Blog/Miscellaneous/QuantumComputing",
-  "permalink": "/docs/Personal Blog/Miscellaneous/QuantumComputing",
+  "permalink": "/divyn.github.io/docs/Personal Blog/Miscellaneous/QuantumComputing",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Miscellaneous/QuantumComputing.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chaos Theory on  COVID-19",
-    "permalink": "/docs/Personal Blog/Miscellaneous/ChaosCovid"
+    "permalink": "/divyn.github.io/docs/Personal Blog/Miscellaneous/ChaosCovid"
   },
   "next": {
     "title": "Design Research",
-    "permalink": "/docs/category/design-research"
+    "permalink": "/divyn.github.io/docs/category/design-research"
   }
 }

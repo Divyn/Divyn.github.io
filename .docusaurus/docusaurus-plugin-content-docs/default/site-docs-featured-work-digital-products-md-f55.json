@@ -5,7 +5,7 @@
   "source": "@site/docs/featured-work/digital-products.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/digital-products",
-  "permalink": "/docs/featured-work/digital-products",
+  "permalink": "/divyn.github.io/docs/featured-work/digital-products",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/digital-products.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "code-samples",
-    "permalink": "/docs/featured-work/code-samples"
+    "permalink": "/divyn.github.io/docs/featured-work/code-samples"
   },
   "next": {
     "title": "events",
-    "permalink": "/docs/featured-work/events"
+    "permalink": "/divyn.github.io/docs/featured-work/events"
   }
 }

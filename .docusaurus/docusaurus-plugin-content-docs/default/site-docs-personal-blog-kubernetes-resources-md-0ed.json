@@ -5,7 +5,7 @@
   "source": "@site/docs/Personal Blog/Kubernetes/Resources.md",
   "sourceDirName": "Personal Blog/Kubernetes",
   "slug": "/Personal Blog/Kubernetes/Resources",
-  "permalink": "/docs/Personal Blog/Kubernetes/Resources",
+  "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/Resources",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/Kubernetes/Resources.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Node Selection",
-    "permalink": "/docs/Personal Blog/Kubernetes/NodeSelectors"
+    "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeSelectors"
   },
   "next": {
     "title": "Scheduling",
-    "permalink": "/docs/Personal Blog/Kubernetes/Scheduling"
+    "permalink": "/divyn.github.io/docs/Personal Blog/Kubernetes/Scheduling"
   }
 }
