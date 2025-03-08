@@ -8,7 +8,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://divyn.github.io",
-  baseUrl: "/",
+  baseUrl: "/divyn.github.io/",
 
   organizationName: "divyn", // GitHub username
   projectName: "divyn.github.io", // GitHub Pages repo
