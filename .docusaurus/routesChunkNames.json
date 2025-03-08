@@ -1,193 +1,193 @@
 {
-  "/divyn.github.io/markdown-page-67e": {
+  "/markdown-page-3d7": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/divyn.github.io/docs-83a": {
+  "/docs-b30": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/divyn.github.io/docs-f81": {
+  "/docs-ca3": {
     "__comp": "a7bd4aaa",
-    "__props": "27acf338"
+    "__props": "0058b4c6"
   },
-  "/divyn.github.io/docs/tags-bd6": {
+  "/docs/tags-fce": {
     "__comp": "3720c009",
-    "__props": "e4da02d4"
+    "__props": "898514b1"
   },
-  "/divyn.github.io/docs/tags/editing-57a": {
+  "/docs/tags/editing-f84": {
     "__comp": "df203c0f",
-    "__props": "35e32ffb"
+    "__props": "1c7fbca6"
   },
-  "/divyn.github.io/docs/tags/kubernetes-f37": {
+  "/docs/tags/kubernetes-a8b": {
     "__comp": "df203c0f",
-    "__props": "9a3b62ec"
+    "__props": "10091836"
   },
-  "/divyn.github.io/docs/tags/pods-f21": {
+  "/docs/tags/pods-867": {
     "__comp": "df203c0f",
-    "__props": "a0ea7c42"
+    "__props": "28d80fa9"
   },
-  "/divyn.github.io/docs-64f": {
+  "/docs-110": {
     "__comp": "a94703ab"
   },
-  "/divyn.github.io/docs/category/crm-fe1": {
+  "/docs/category/crm-bbc": {
     "__comp": "14eb3368",
-    "__props": "d35a22da"
+    "__props": "0c97df75"
   },
-  "/divyn.github.io/docs/category/design-research-934": {
+  "/docs/category/design-research-462": {
     "__comp": "14eb3368",
-    "__props": "5204deef"
+    "__props": "18506d4e"
   },
-  "/divyn.github.io/docs/category/featured-work-9e3": {
+  "/docs/category/featured-work-754": {
     "__comp": "14eb3368",
-    "__props": "af72ce18"
+    "__props": "10535974"
   },
-  "/divyn.github.io/docs/category/game-theory-ca3": {
+  "/docs/category/game-theory-0c5": {
     "__comp": "14eb3368",
-    "__props": "0ba50e0b"
+    "__props": "09b2f754"
   },
-  "/divyn.github.io/docs/category/kubernetes-9b2": {
+  "/docs/category/kubernetes-af5": {
     "__comp": "14eb3368",
-    "__props": "108c46cd"
+    "__props": "60adb665"
   },
-  "/divyn.github.io/docs/category/miscellaneous-c9b": {
+  "/docs/category/miscellaneous-dba": {
     "__comp": "14eb3368",
-    "__props": "f247f39f"
+    "__props": "298defe3"
   },
-  "/divyn.github.io/docs/category/personal-blog-58d": {
+  "/docs/category/personal-blog-b33": {
     "__comp": "14eb3368",
-    "__props": "5d9319fa"
+    "__props": "937b3cea"
   },
-  "/divyn.github.io/docs/featured-work/code-samples-bcb": {
+  "/docs/featured-work/code-samples-3cd": {
     "__comp": "17896441",
     "content": "4bfbb8e0"
   },
-  "/divyn.github.io/docs/featured-work/digital-products-0b7": {
+  "/docs/featured-work/digital-products-901": {
     "__comp": "17896441",
     "content": "f550e0c1"
   },
-  "/divyn.github.io/docs/featured-work/events-33b": {
+  "/docs/featured-work/events-9bd": {
     "__comp": "17896441",
     "content": "a05acee0"
   },
-  "/divyn.github.io/docs/featured-work/infographics-cc2": {
+  "/docs/featured-work/infographics-afe": {
     "__comp": "17896441",
     "content": "7945fcef"
   },
-  "/divyn.github.io/docs/featured-work/investigation-videos-049": {
+  "/docs/featured-work/investigation-videos-c17": {
     "__comp": "17896441",
     "content": "6b38bc69"
   },
-  "/divyn.github.io/docs/featured-work/long-form-articles-d70": {
+  "/docs/featured-work/long-form-articles-d22": {
     "__comp": "17896441",
     "content": "3ca760b4"
   },
-  "/divyn.github.io/docs/featured-work/product-documentation-647": {
+  "/docs/featured-work/product-documentation-467": {
     "__comp": "17896441",
     "content": "880664e3"
   },
-  "/divyn.github.io/docs/featured-work/product-newsletter-045": {
+  "/docs/featured-work/product-newsletter-dd9": {
     "__comp": "17896441",
     "content": "7bce5d08"
   },
-  "/divyn.github.io/docs/featured-work/video-tutorials-f7d": {
+  "/docs/featured-work/video-tutorials-058": {
     "__comp": "17896441",
     "content": "77f81785"
   },
-  "/divyn.github.io/docs/intro-0af": {
+  "/docs/intro-61d": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/divyn.github.io/docs/Personal Blog/CRM/SalesAutomation-a93": {
+  "/docs/Personal Blog/CRM/SalesAutomation-d40": {
     "__comp": "17896441",
     "content": "f5bd8618"
   },
-  "/divyn.github.io/docs/Personal Blog/design/Basics-bfe": {
+  "/docs/Personal Blog/design/Basics-405": {
     "__comp": "17896441",
     "content": "b1298491"
   },
-  "/divyn.github.io/docs/Personal Blog/GameTheory/MahabharatGame-6a9": {
+  "/docs/Personal Blog/GameTheory/MahabharatGame-a68": {
     "__comp": "17896441",
     "content": "69f01cc5"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/BasicCommandsOverview-7f0": {
+  "/docs/Personal Blog/Kubernetes/BasicCommandsOverview-be6": {
     "__comp": "17896441",
     "content": "4d21883d"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/EditingaProd-fd6": {
+  "/docs/Personal Blog/Kubernetes/EditingaProd-ba5": {
     "__comp": "17896441",
     "content": "f36bd0cc"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/MultiContainerPods-092": {
+  "/docs/Personal Blog/Kubernetes/MultiContainerPods-e8d": {
     "__comp": "17896441",
     "content": "1fb9f370"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeAffinity-a7f": {
+  "/docs/Personal Blog/Kubernetes/NodeAffinity-2db": {
     "__comp": "17896441",
     "content": "0372f0e4"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeSelectors-53f": {
+  "/docs/Personal Blog/Kubernetes/NodeSelectors-f92": {
     "__comp": "17896441",
     "content": "eee54648"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/Resources-668": {
+  "/docs/Personal Blog/Kubernetes/Resources-479": {
     "__comp": "17896441",
     "content": "0edbc937"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/Scheduling-a1e": {
+  "/docs/Personal Blog/Kubernetes/Scheduling-6a5": {
     "__comp": "17896441",
     "content": "57bacb1a"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/Secrets-3c8": {
+  "/docs/Personal Blog/Kubernetes/Secrets-e6b": {
     "__comp": "17896441",
     "content": "d674b089"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/SecurityContext-949": {
+  "/docs/Personal Blog/Kubernetes/SecurityContext-f17": {
     "__comp": "17896441",
     "content": "8451a047"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/serviceAccounts-dac": {
+  "/docs/Personal Blog/Kubernetes/serviceAccounts-e41": {
     "__comp": "17896441",
     "content": "2184c84a"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/ServicesCoreConcepts-3e9": {
+  "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts-4ff": {
     "__comp": "17896441",
     "content": "884262bd"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/StatefulSets-135": {
+  "/docs/Personal Blog/Kubernetes/StatefulSets-fd5": {
     "__comp": "17896441",
     "content": "602fe7ff"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/StorageClasses-8a3": {
+  "/docs/Personal Blog/Kubernetes/StorageClasses-523": {
     "__comp": "17896441",
     "content": "f0c63138"
   },
-  "/divyn.github.io/docs/Personal Blog/Kubernetes/Taints&Tolerations-634": {
+  "/docs/Personal Blog/Kubernetes/Taints&Tolerations-56c": {
     "__comp": "17896441",
     "content": "2992d93b"
   },
-  "/divyn.github.io/docs/Personal Blog/Miscellaneous/BigData_OS_Security-a48": {
+  "/docs/Personal Blog/Miscellaneous/BigData_OS_Security-f5c": {
     "__comp": "17896441",
     "content": "f6ed6362"
   },
-  "/divyn.github.io/docs/Personal Blog/Miscellaneous/ChaosCovid-f8f": {
+  "/docs/Personal Blog/Miscellaneous/ChaosCovid-ed4": {
     "__comp": "17896441",
     "content": "0852a8f9"
   },
-  "/divyn.github.io/docs/Personal Blog/Miscellaneous/QuantumComputing-044": {
+  "/docs/Personal Blog/Miscellaneous/QuantumComputing-4ae": {
     "__comp": "17896441",
     "content": "799b6ce3"
   },
-  "/divyn.github.io/docs/Personal Blog/SaaS/SaaS_Stack-a8a": {
+  "/docs/Personal Blog/SaaS/SaaS_Stack-cd3": {
     "__comp": "17896441",
     "content": "28b65938"
   },
-  "/divyn.github.io/-9a9": {
+  "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

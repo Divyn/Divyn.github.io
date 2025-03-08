@@ -5,7 +5,7 @@
   "source": "@site/docs/Personal Blog/CRM/SalesAutomation.md",
   "sourceDirName": "Personal Blog/CRM",
   "slug": "/Personal Blog/CRM/SalesAutomation",
-  "permalink": "/divyn.github.io/docs/Personal Blog/CRM/SalesAutomation",
+  "permalink": "/docs/Personal Blog/CRM/SalesAutomation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal Blog/CRM/SalesAutomation.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CRM",
-    "permalink": "/divyn.github.io/docs/category/crm"
+    "permalink": "/docs/category/crm"
   },
   "next": {
     "title": "Game Theory",
-    "permalink": "/divyn.github.io/docs/category/game-theory"
+    "permalink": "/docs/category/game-theory"
   }
 }

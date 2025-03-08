@@ -5,7 +5,7 @@
   "source": "@site/docs/featured-work/product-newsletter.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/product-newsletter",
-  "permalink": "/divyn.github.io/docs/featured-work/product-newsletter",
+  "permalink": "/docs/featured-work/product-newsletter",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/product-newsletter.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "product-documentation",
-    "permalink": "/divyn.github.io/docs/featured-work/product-documentation"
+    "permalink": "/docs/featured-work/product-documentation"
   },
   "next": {
     "title": "video-tutorials",
-    "permalink": "/divyn.github.io/docs/featured-work/video-tutorials"
+    "permalink": "/docs/featured-work/video-tutorials"
   }
 }

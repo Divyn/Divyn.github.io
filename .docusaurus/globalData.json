@@ -1,203 +1,203 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/divyn.github.io/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/divyn.github.io/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "featured-work/code-samples",
-              "path": "/divyn.github.io/docs/featured-work/code-samples",
+              "path": "/docs/featured-work/code-samples",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/digital-products",
-              "path": "/divyn.github.io/docs/featured-work/digital-products",
+              "path": "/docs/featured-work/digital-products",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/events",
-              "path": "/divyn.github.io/docs/featured-work/events",
+              "path": "/docs/featured-work/events",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/infographics",
-              "path": "/divyn.github.io/docs/featured-work/infographics",
+              "path": "/docs/featured-work/infographics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/investigation-videos",
-              "path": "/divyn.github.io/docs/featured-work/investigation-videos",
+              "path": "/docs/featured-work/investigation-videos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/long-form-articles",
-              "path": "/divyn.github.io/docs/featured-work/long-form-articles",
+              "path": "/docs/featured-work/long-form-articles",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/product-documentation",
-              "path": "/divyn.github.io/docs/featured-work/product-documentation",
+              "path": "/docs/featured-work/product-documentation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/product-newsletter",
-              "path": "/divyn.github.io/docs/featured-work/product-newsletter",
+              "path": "/docs/featured-work/product-newsletter",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "featured-work/video-tutorials",
-              "path": "/divyn.github.io/docs/featured-work/video-tutorials",
+              "path": "/docs/featured-work/video-tutorials",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/divyn.github.io/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/CRM/SalesAutomation",
-              "path": "/divyn.github.io/docs/Personal Blog/CRM/SalesAutomation",
+              "path": "/docs/Personal Blog/CRM/SalesAutomation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/design/Basics",
-              "path": "/divyn.github.io/docs/Personal Blog/design/Basics",
+              "path": "/docs/Personal Blog/design/Basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/GameTheory/MahabharatGame",
-              "path": "/divyn.github.io/docs/Personal Blog/GameTheory/MahabharatGame",
+              "path": "/docs/Personal Blog/GameTheory/MahabharatGame",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/BasicCommandsOverview",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/BasicCommandsOverview",
+              "path": "/docs/Personal Blog/Kubernetes/BasicCommandsOverview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/EditingaProd",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/EditingaProd",
+              "path": "/docs/Personal Blog/Kubernetes/EditingaProd",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/MultiContainerPods",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/MultiContainerPods",
+              "path": "/docs/Personal Blog/Kubernetes/MultiContainerPods",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/NodeAffinity",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeAffinity",
+              "path": "/docs/Personal Blog/Kubernetes/NodeAffinity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/NodeSelectors",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/NodeSelectors",
+              "path": "/docs/Personal Blog/Kubernetes/NodeSelectors",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/Resources",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/Resources",
+              "path": "/docs/Personal Blog/Kubernetes/Resources",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/Scheduling",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/Scheduling",
+              "path": "/docs/Personal Blog/Kubernetes/Scheduling",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/Secrets",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/Secrets",
+              "path": "/docs/Personal Blog/Kubernetes/Secrets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/SecurityContext",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/SecurityContext",
+              "path": "/docs/Personal Blog/Kubernetes/SecurityContext",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/serviceAccounts",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/serviceAccounts",
+              "path": "/docs/Personal Blog/Kubernetes/serviceAccounts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/ServicesCoreConcepts",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/ServicesCoreConcepts",
+              "path": "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/StatefulSets",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/StatefulSets",
+              "path": "/docs/Personal Blog/Kubernetes/StatefulSets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/StorageClasses",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/StorageClasses",
+              "path": "/docs/Personal Blog/Kubernetes/StorageClasses",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Kubernetes/Taints&Tolerations",
-              "path": "/divyn.github.io/docs/Personal Blog/Kubernetes/Taints&Tolerations",
+              "path": "/docs/Personal Blog/Kubernetes/Taints&Tolerations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Miscellaneous/BigData_OS_Security",
-              "path": "/divyn.github.io/docs/Personal Blog/Miscellaneous/BigData_OS_Security",
+              "path": "/docs/Personal Blog/Miscellaneous/BigData_OS_Security",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Miscellaneous/ChaosCovid",
-              "path": "/divyn.github.io/docs/Personal Blog/Miscellaneous/ChaosCovid",
+              "path": "/docs/Personal Blog/Miscellaneous/ChaosCovid",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/Miscellaneous/QuantumComputing",
-              "path": "/divyn.github.io/docs/Personal Blog/Miscellaneous/QuantumComputing",
+              "path": "/docs/Personal Blog/Miscellaneous/QuantumComputing",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Personal Blog/SaaS/SaaS_Stack",
-              "path": "/divyn.github.io/docs/Personal Blog/SaaS/SaaS_Stack",
+              "path": "/docs/Personal Blog/SaaS/SaaS_Stack",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/featured-work",
-              "path": "/divyn.github.io/docs/category/featured-work",
+              "path": "/docs/category/featured-work",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/personal-blog",
-              "path": "/divyn.github.io/docs/category/personal-blog",
+              "path": "/docs/category/personal-blog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/crm",
-              "path": "/divyn.github.io/docs/category/crm",
+              "path": "/docs/category/crm",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/game-theory",
-              "path": "/divyn.github.io/docs/category/game-theory",
+              "path": "/docs/category/game-theory",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/kubernetes",
-              "path": "/divyn.github.io/docs/category/kubernetes",
+              "path": "/docs/category/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/miscellaneous",
-              "path": "/divyn.github.io/docs/category/miscellaneous",
+              "path": "/docs/category/miscellaneous",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/design-research",
-              "path": "/divyn.github.io/docs/category/design-research",
+              "path": "/docs/category/design-research",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -205,7 +205,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/divyn.github.io/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

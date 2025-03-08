@@ -5,7 +5,7 @@
   "source": "@site/docs/featured-work/long-form-articles.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/long-form-articles",
-  "permalink": "/divyn.github.io/docs/featured-work/long-form-articles",
+  "permalink": "/docs/featured-work/long-form-articles",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/long-form-articles.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "investigation-videos",
-    "permalink": "/divyn.github.io/docs/featured-work/investigation-videos"
+    "permalink": "/docs/featured-work/investigation-videos"
   },
   "next": {
     "title": "product-documentation",
-    "permalink": "/divyn.github.io/docs/featured-work/product-documentation"
+    "permalink": "/docs/featured-work/product-documentation"
   }
 }

@@ -3,267 +3,267 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/divyn.github.io/markdown-page',
-    component: ComponentCreator('/divyn.github.io/markdown-page', '67e'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
-    path: '/divyn.github.io/docs',
-    component: ComponentCreator('/divyn.github.io/docs', '83a'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'b30'),
     routes: [
       {
-        path: '/divyn.github.io/docs',
-        component: ComponentCreator('/divyn.github.io/docs', 'f81'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'ca3'),
         routes: [
           {
-            path: '/divyn.github.io/docs/tags',
-            component: ComponentCreator('/divyn.github.io/docs/tags', 'bd6'),
+            path: '/docs/tags',
+            component: ComponentCreator('/docs/tags', 'fce'),
             exact: true
           },
           {
-            path: '/divyn.github.io/docs/tags/editing',
-            component: ComponentCreator('/divyn.github.io/docs/tags/editing', '57a'),
+            path: '/docs/tags/editing',
+            component: ComponentCreator('/docs/tags/editing', 'f84'),
             exact: true
           },
           {
-            path: '/divyn.github.io/docs/tags/kubernetes',
-            component: ComponentCreator('/divyn.github.io/docs/tags/kubernetes', 'f37'),
+            path: '/docs/tags/kubernetes',
+            component: ComponentCreator('/docs/tags/kubernetes', 'a8b'),
             exact: true
           },
           {
-            path: '/divyn.github.io/docs/tags/pods',
-            component: ComponentCreator('/divyn.github.io/docs/tags/pods', 'f21'),
+            path: '/docs/tags/pods',
+            component: ComponentCreator('/docs/tags/pods', '867'),
             exact: true
           },
           {
-            path: '/divyn.github.io/docs',
-            component: ComponentCreator('/divyn.github.io/docs', '64f'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '110'),
             routes: [
               {
-                path: '/divyn.github.io/docs/category/crm',
-                component: ComponentCreator('/divyn.github.io/docs/category/crm', 'fe1'),
+                path: '/docs/category/crm',
+                component: ComponentCreator('/docs/category/crm', 'bbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/design-research',
-                component: ComponentCreator('/divyn.github.io/docs/category/design-research', '934'),
+                path: '/docs/category/design-research',
+                component: ComponentCreator('/docs/category/design-research', '462'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/featured-work',
-                component: ComponentCreator('/divyn.github.io/docs/category/featured-work', '9e3'),
+                path: '/docs/category/featured-work',
+                component: ComponentCreator('/docs/category/featured-work', '754'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/game-theory',
-                component: ComponentCreator('/divyn.github.io/docs/category/game-theory', 'ca3'),
+                path: '/docs/category/game-theory',
+                component: ComponentCreator('/docs/category/game-theory', '0c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/kubernetes',
-                component: ComponentCreator('/divyn.github.io/docs/category/kubernetes', '9b2'),
+                path: '/docs/category/kubernetes',
+                component: ComponentCreator('/docs/category/kubernetes', 'af5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/miscellaneous',
-                component: ComponentCreator('/divyn.github.io/docs/category/miscellaneous', 'c9b'),
+                path: '/docs/category/miscellaneous',
+                component: ComponentCreator('/docs/category/miscellaneous', 'dba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/category/personal-blog',
-                component: ComponentCreator('/divyn.github.io/docs/category/personal-blog', '58d'),
+                path: '/docs/category/personal-blog',
+                component: ComponentCreator('/docs/category/personal-blog', 'b33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/code-samples',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/code-samples', 'bcb'),
+                path: '/docs/featured-work/code-samples',
+                component: ComponentCreator('/docs/featured-work/code-samples', '3cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/digital-products',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/digital-products', '0b7'),
+                path: '/docs/featured-work/digital-products',
+                component: ComponentCreator('/docs/featured-work/digital-products', '901'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/events',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/events', '33b'),
+                path: '/docs/featured-work/events',
+                component: ComponentCreator('/docs/featured-work/events', '9bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/infographics',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/infographics', 'cc2'),
+                path: '/docs/featured-work/infographics',
+                component: ComponentCreator('/docs/featured-work/infographics', 'afe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/investigation-videos',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/investigation-videos', '049'),
+                path: '/docs/featured-work/investigation-videos',
+                component: ComponentCreator('/docs/featured-work/investigation-videos', 'c17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/long-form-articles',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/long-form-articles', 'd70'),
+                path: '/docs/featured-work/long-form-articles',
+                component: ComponentCreator('/docs/featured-work/long-form-articles', 'd22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/product-documentation',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/product-documentation', '647'),
+                path: '/docs/featured-work/product-documentation',
+                component: ComponentCreator('/docs/featured-work/product-documentation', '467'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/product-newsletter',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/product-newsletter', '045'),
+                path: '/docs/featured-work/product-newsletter',
+                component: ComponentCreator('/docs/featured-work/product-newsletter', 'dd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/featured-work/video-tutorials',
-                component: ComponentCreator('/divyn.github.io/docs/featured-work/video-tutorials', 'f7d'),
+                path: '/docs/featured-work/video-tutorials',
+                component: ComponentCreator('/docs/featured-work/video-tutorials', '058'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/intro',
-                component: ComponentCreator('/divyn.github.io/docs/intro', '0af'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/CRM/SalesAutomation',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/CRM/SalesAutomation', 'a93'),
+                path: '/docs/Personal Blog/CRM/SalesAutomation',
+                component: ComponentCreator('/docs/Personal Blog/CRM/SalesAutomation', 'd40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/design/Basics',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/design/Basics', 'bfe'),
+                path: '/docs/Personal Blog/design/Basics',
+                component: ComponentCreator('/docs/Personal Blog/design/Basics', '405'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/GameTheory/MahabharatGame',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/GameTheory/MahabharatGame', '6a9'),
+                path: '/docs/Personal Blog/GameTheory/MahabharatGame',
+                component: ComponentCreator('/docs/Personal Blog/GameTheory/MahabharatGame', 'a68'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/BasicCommandsOverview',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/BasicCommandsOverview', '7f0'),
+                path: '/docs/Personal Blog/Kubernetes/BasicCommandsOverview',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/BasicCommandsOverview', 'be6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/EditingaProd',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/EditingaProd', 'fd6'),
+                path: '/docs/Personal Blog/Kubernetes/EditingaProd',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/EditingaProd', 'ba5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/MultiContainerPods',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/MultiContainerPods', '092'),
+                path: '/docs/Personal Blog/Kubernetes/MultiContainerPods',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/MultiContainerPods', 'e8d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/NodeAffinity',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/NodeAffinity', 'a7f'),
+                path: '/docs/Personal Blog/Kubernetes/NodeAffinity',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/NodeAffinity', '2db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/NodeSelectors',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/NodeSelectors', '53f'),
+                path: '/docs/Personal Blog/Kubernetes/NodeSelectors',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/NodeSelectors', 'f92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/Resources',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/Resources', '668'),
+                path: '/docs/Personal Blog/Kubernetes/Resources',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Resources', '479'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/Scheduling',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/Scheduling', 'a1e'),
+                path: '/docs/Personal Blog/Kubernetes/Scheduling',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Scheduling', '6a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/Secrets',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/Secrets', '3c8'),
+                path: '/docs/Personal Blog/Kubernetes/Secrets',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Secrets', 'e6b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/SecurityContext',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/SecurityContext', '949'),
+                path: '/docs/Personal Blog/Kubernetes/SecurityContext',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/SecurityContext', 'f17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/serviceAccounts',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/serviceAccounts', 'dac'),
+                path: '/docs/Personal Blog/Kubernetes/serviceAccounts',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/serviceAccounts', 'e41'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/ServicesCoreConcepts',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/ServicesCoreConcepts', '3e9'),
+                path: '/docs/Personal Blog/Kubernetes/ServicesCoreConcepts',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/ServicesCoreConcepts', '4ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/StatefulSets',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/StatefulSets', '135'),
+                path: '/docs/Personal Blog/Kubernetes/StatefulSets',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/StatefulSets', 'fd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/StorageClasses',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/StorageClasses', '8a3'),
+                path: '/docs/Personal Blog/Kubernetes/StorageClasses',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/StorageClasses', '523'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Kubernetes/Taints&Tolerations',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Kubernetes/Taints&Tolerations', '634'),
+                path: '/docs/Personal Blog/Kubernetes/Taints&Tolerations',
+                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Taints&Tolerations', '56c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Miscellaneous/BigData_OS_Security',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Miscellaneous/BigData_OS_Security', 'a48'),
+                path: '/docs/Personal Blog/Miscellaneous/BigData_OS_Security',
+                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/BigData_OS_Security', 'f5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Miscellaneous/ChaosCovid',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Miscellaneous/ChaosCovid', 'f8f'),
+                path: '/docs/Personal Blog/Miscellaneous/ChaosCovid',
+                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/ChaosCovid', 'ed4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/Miscellaneous/QuantumComputing',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/Miscellaneous/QuantumComputing', '044'),
+                path: '/docs/Personal Blog/Miscellaneous/QuantumComputing',
+                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/QuantumComputing', '4ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/divyn.github.io/docs/Personal Blog/SaaS/SaaS_Stack',
-                component: ComponentCreator('/divyn.github.io/docs/Personal Blog/SaaS/SaaS_Stack', 'a8a'),
+                path: '/docs/Personal Blog/SaaS/SaaS_Stack',
+                component: ComponentCreator('/docs/Personal Blog/SaaS/SaaS_Stack', 'cd3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -274,8 +274,8 @@ export default [
     ]
   },
   {
-    path: '/divyn.github.io/',
-    component: ComponentCreator('/divyn.github.io/', '9a9'),
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {
