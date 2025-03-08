@@ -8,12 +8,12 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://divyn.github.io",
-  baseUrl: "/divyn.github.io/",
+  baseUrl: "/divyasshree-profile/",
 
   organizationName: "divyn", // GitHub username
-  projectName: "divyn.github.io", // GitHub Pages repo
+  projectName: "divyasshree-profile", // GitHub Pages repo
   deploymentBranch: "gh-pages", // Branch for GitHub Pages deployment
-trailingSlash: false,
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
