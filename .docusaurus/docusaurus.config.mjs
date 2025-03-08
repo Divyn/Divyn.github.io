@@ -10,7 +10,7 @@ export default {
   "url": "https://divyn.github.io",
   "baseUrl": "/",
   "organizationName": "divyn",
-  "projectName": "divyasshree-profile",
+  "projectName": "divyasshree-portfolio",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
