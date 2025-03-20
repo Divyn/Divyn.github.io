@@ -11,7 +11,7 @@ const config = {
   baseUrl: "/",
 
   organizationName: "divyn", // GitHub username
-  projectName: "divyasshree-portfolio", // GitHub Pages repo
+  projectName: "divyn.github.io", // GitHub Pages repo
   deploymentBranch: "gh-pages", // Branch for GitHub Pages deployment
   trailingSlash: false,
   onBrokenLinks: "throw",

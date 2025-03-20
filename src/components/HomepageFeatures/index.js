@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Developer Relations & Technical Writing',
+    Svg: require('@site/static/img/undraw_cooking.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       I tinker with technical content, API docs, and developer advocacy. 
+       I've put together some guides, videos, and demos—hopefully making it a bit easier for developers to navigate blockchain data on AWS, Kafka, Snowflake, and Supabase!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Software Development',
+    Svg: require('@site/static/img/undraw_writing-down-ideas.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+I've dabbled in a few interesting projects across different areas—enterprise CRM, blockchain data APIs, and on-chain intelligence apps. Somehow, they worked out!      </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Community & Growth',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       As a Lead Developer Relations Engineer at Bitquery, I help developers, try to answer their questions, help solve problems (or at least attempt to), gather feedback, and brainstorm ways to get more people to actually use our product!
       </>
     ),
   },
