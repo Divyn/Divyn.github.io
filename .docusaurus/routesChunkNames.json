@@ -1,197 +1,240 @@
 {
-  "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "content": "393be207"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
   },
   "/docs-b30": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-ca3": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs/tags-fce": {
-    "__comp": "3720c009",
-    "__props": "898514b1"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
   },
   "/docs/tags/editing-f84": {
-    "__comp": "df203c0f",
-    "__props": "1c7fbca6"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-editing-1-c-7-57c"
   },
   "/docs/tags/kubernetes-a8b": {
-    "__comp": "df203c0f",
-    "__props": "10091836"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-kubernetes-100-afc"
   },
   "/docs/tags/pods-867": {
-    "__comp": "df203c0f",
-    "__props": "28d80fa9"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-pods-28-d-492"
   },
   "/docs-110": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/crm-bbc": {
-    "__comp": "14eb3368",
-    "__props": "0c97df75"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-crm-0-c-9-d73"
   },
   "/docs/category/design-research-462": {
-    "__comp": "14eb3368",
-    "__props": "18506d4e"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-design-research-185-068"
   },
   "/docs/category/featured-work-754": {
-    "__comp": "14eb3368",
-    "__props": "10535974"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-featured-work-105-3b0"
   },
   "/docs/category/game-theory-0c5": {
-    "__comp": "14eb3368",
-    "__props": "09b2f754"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-game-theory-09-b-07a"
   },
   "/docs/category/kubernetes-af5": {
-    "__comp": "14eb3368",
-    "__props": "60adb665"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-kubernetes-60-a-67e"
   },
   "/docs/category/miscellaneous-dba": {
-    "__comp": "14eb3368",
-    "__props": "298defe3"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-miscellaneous-298-c31"
   },
   "/docs/category/personal-blog-b33": {
-    "__comp": "14eb3368",
-    "__props": "937b3cea"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-personal-blog-937-d17"
   },
   "/docs/featured-work/code-samples-3cd": {
-    "__comp": "17896441",
-    "content": "4bfbb8e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-code-samples-4-bf-3ed"
   },
   "/docs/featured-work/digital-products-901": {
-    "__comp": "17896441",
-    "content": "f550e0c1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-digital-productsf-55-1ed"
   },
   "/docs/featured-work/events-9bd": {
-    "__comp": "17896441",
-    "content": "a05acee0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-eventsa-05-64f"
   },
   "/docs/featured-work/infographics-afe": {
-    "__comp": "17896441",
-    "content": "7945fcef"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-infographics-794-a55"
   },
   "/docs/featured-work/investigation-videos-c17": {
-    "__comp": "17896441",
-    "content": "6b38bc69"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-investigation-videos-6-b-3-a11"
   },
   "/docs/featured-work/long-form-articles-d22": {
-    "__comp": "17896441",
-    "content": "3ca760b4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-long-form-articles-3-ca-964"
   },
   "/docs/featured-work/product-documentation-467": {
-    "__comp": "17896441",
-    "content": "880664e3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-product-documentation-880-245"
   },
   "/docs/featured-work/product-newsletter-dd9": {
-    "__comp": "17896441",
-    "content": "7bce5d08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-product-newsletter-7-bc-f98"
   },
   "/docs/featured-work/video-tutorials-058": {
-    "__comp": "17896441",
-    "content": "77f81785"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-featured-work-video-tutorials-77-f-46f"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/Personal Blog/CRM/SalesAutomation-d40": {
-    "__comp": "17896441",
-    "content": "f5bd8618"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-crm-sales-automationf-5-b-d48"
   },
   "/docs/Personal Blog/design/Basics-405": {
-    "__comp": "17896441",
-    "content": "b1298491"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-design-basicsb-12-f54"
   },
   "/docs/Personal Blog/GameTheory/MahabharatGame-a68": {
-    "__comp": "17896441",
-    "content": "69f01cc5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-game-theory-mahabharat-game-69-f-25d"
   },
   "/docs/Personal Blog/Kubernetes/BasicCommandsOverview-be6": {
-    "__comp": "17896441",
-    "content": "4d21883d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-basic-commands-overview-4-d-2-90d"
   },
   "/docs/Personal Blog/Kubernetes/EditingaProd-ba5": {
-    "__comp": "17896441",
-    "content": "f36bd0cc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-editinga-prodf-36-f01"
   },
   "/docs/Personal Blog/Kubernetes/MultiContainerPods-e8d": {
-    "__comp": "17896441",
-    "content": "1fb9f370"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-multi-container-pods-1-fb-8fe"
   },
   "/docs/Personal Blog/Kubernetes/NodeAffinity-2db": {
-    "__comp": "17896441",
-    "content": "0372f0e4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-node-affinity-037-d52"
   },
   "/docs/Personal Blog/Kubernetes/NodeSelectors-f92": {
-    "__comp": "17896441",
-    "content": "eee54648"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-node-selectorseee-502"
   },
   "/docs/Personal Blog/Kubernetes/Resources-479": {
-    "__comp": "17896441",
-    "content": "0edbc937"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-resources-0-ed-aac"
   },
   "/docs/Personal Blog/Kubernetes/Scheduling-6a5": {
-    "__comp": "17896441",
-    "content": "57bacb1a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-scheduling-57-b-754"
   },
   "/docs/Personal Blog/Kubernetes/Secrets-e6b": {
-    "__comp": "17896441",
-    "content": "d674b089"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-secretsd-67-c4e"
   },
   "/docs/Personal Blog/Kubernetes/SecurityContext-f17": {
-    "__comp": "17896441",
-    "content": "8451a047"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-security-context-845-c07"
   },
   "/docs/Personal Blog/Kubernetes/serviceAccounts-e41": {
-    "__comp": "17896441",
-    "content": "2184c84a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-service-accounts-218-171"
   },
   "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts-4ff": {
-    "__comp": "17896441",
-    "content": "884262bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-services-core-concepts-884-219"
   },
   "/docs/Personal Blog/Kubernetes/StatefulSets-fd5": {
-    "__comp": "17896441",
-    "content": "602fe7ff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-stateful-sets-602-f83"
   },
   "/docs/Personal Blog/Kubernetes/StorageClasses-523": {
-    "__comp": "17896441",
-    "content": "f0c63138"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-storage-classesf-0-c-fd4"
   },
   "/docs/Personal Blog/Kubernetes/Taints&Tolerations-56c": {
-    "__comp": "17896441",
-    "content": "2992d93b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-kubernetes-taints-tolerations-299-d7e"
   },
   "/docs/Personal Blog/Miscellaneous/BigData_OS_Security-f5c": {
-    "__comp": "17896441",
-    "content": "f6ed6362"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-big-data-os-securityf-6-e-f16"
   },
   "/docs/Personal Blog/Miscellaneous/ChaosCovid-ed4": {
-    "__comp": "17896441",
-    "content": "0852a8f9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-chaos-covid-085-c71"
   },
   "/docs/Personal Blog/Miscellaneous/QuantumComputing-4ae": {
-    "__comp": "17896441",
-    "content": "799b6ce3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-miscellaneous-quantum-computing-799-268"
   },
   "/docs/Personal Blog/SaaS/SaaS_Stack-cd3": {
-    "__comp": "17896441",
-    "content": "28b65938"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-blog-saa-s-saa-s-stack-28-b-1e3"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

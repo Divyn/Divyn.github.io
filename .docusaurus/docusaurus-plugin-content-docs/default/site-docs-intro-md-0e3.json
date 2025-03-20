@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Divyasshree",
-  "description": "Hello",
+  "description": "Welcome to My Portfolio!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

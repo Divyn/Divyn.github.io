@@ -1,7 +1,7 @@
 {
   "id": "featured-work/product-documentation",
-  "title": "product-documentation",
-  "description": "",
+  "title": "Product Documentation",
+  "description": "Tutorial | Data streaming platform",
   "source": "@site/docs/featured-work/product-documentation.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/product-documentation",
