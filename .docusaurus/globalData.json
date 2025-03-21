@@ -166,6 +166,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+              "path": "/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/featured-work",
               "path": "/docs/category/featured-work",
               "sidebar": "tutorialSidebar"
@@ -173,11 +178,6 @@
             {
               "id": "/category/personal-blog",
               "path": "/docs/category/personal-blog",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/crm",
-              "path": "/docs/category/crm",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -191,13 +191,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/web3",
+              "path": "/docs/category/web3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/crm",
+              "path": "/docs/category/crm",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/design-research",
               "path": "/docs/category/design-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/miscellaneous",
+              "path": "/docs/category/miscellaneous",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -44,11 +44,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b30'),
+    component: ComponentCreator('/docs', '3e4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ca3'),
+        component: ComponentCreator('/docs', '402'),
         routes: [
           {
             path: '/docs/tags',
@@ -72,7 +72,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '110'),
+            component: ComponentCreator('/docs', '233'),
             routes: [
               {
                 path: '/docs/category/crm',
@@ -113,6 +113,12 @@ export default [
               {
                 path: '/docs/category/personal-blog',
                 component: ComponentCreator('/docs/category/personal-blog', 'b33'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/web3',
+                component: ComponentCreator('/docs/category/web3', 'eb8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -299,6 +305,12 @@ export default [
               {
                 path: '/docs/Personal Blog/SaaS/SaaS_Stack',
                 component: ComponentCreator('/docs/Personal Blog/SaaS/SaaS_Stack', 'cd3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum',
+                component: ComponentCreator('/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum', '47b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
