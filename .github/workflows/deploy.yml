@@ -24,8 +24,16 @@ jobs:
       - name: Build Docusaurus
         run: npm run build
 
+      - name: Set Git user
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions@github.com"
+
       - name: Deploy to GitHub Pages
         env:
-          GIT_USER: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USER: "github-actions[bot]"
+          USE_SSH: false
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/divyn/divyn.github.io.git
           npm run deploy
