@@ -3,7 +3,7 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main  # Deploy when pushing to main
+      - main
 
 jobs:
   deploy:
@@ -29,10 +29,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
 
+      - name: Fix Git remote URL for deploy
+        run: git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/divyn/divyn.github.io.git
+
       - name: Deploy to GitHub Pages
         env:
-          GIT_USER: github-actions[bot]  # Required by Docusaurus
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Your fine-grained token stored in GitHub secrets
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/divyn/divyn.github.io.git
-          npm run deploy
+          GIT_USER: github-actions[bot]
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: npm run deploy
