@@ -1,7 +1,7 @@
 {
   "id": "featured-work/digital-products",
-  "title": "digital-products",
-  "description": "",
+  "title": "Digital Products",
+  "description": "How to Get Started with the Basics.png",
   "source": "@site/docs/featured-work/digital-products.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/digital-products",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "code-samples",
+    "title": "Code Samples",
     "permalink": "/docs/featured-work/code-samples"
   },
   "next": {

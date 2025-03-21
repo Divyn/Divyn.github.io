@@ -1,7 +1,7 @@
 {
   "id": "featured-work/code-samples",
-  "title": "code-samples",
-  "description": "",
+  "title": "Code Samples",
+  "description": "Here are a few code samples I've built. There are plenty more, and I’ve had the privilege of sitting in on some pretty smart solution team meetings. My \"expertise\" (if you can call it that) goes beyond just these.",
   "source": "@site/docs/featured-work/code-samples.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/code-samples",
@@ -18,7 +18,7 @@
     "permalink": "/docs/featured-work/long-form-articles"
   },
   "next": {
-    "title": "digital-products",
+    "title": "Digital Products",
     "permalink": "/docs/featured-work/digital-products"
   }
 }
