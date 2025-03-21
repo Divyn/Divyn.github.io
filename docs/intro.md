@@ -29,7 +29,7 @@ A major portion of my professional foundation was built during this role.
 ### **Exploring Beyond Development**
 After **2.5 years**, I felt the urge to explore. I quit my job and transitioned into **technical content writing** as a freelancer. 
 
-During this phase, I took up various **technical content gigs**, including writing sales copies for a company. This experience gave me a fresh perspective on **developer communication, marketing, and storytelling**.
+During this phase, I took up various **content gigs**, including writing sales copies for an advertising company. 
 
 ---
 
@@ -40,11 +40,11 @@ Next came an exciting shift—I joined **Bitquery** as a **Developer Relations E
 
 **Blockchain?** At the time, I knew very little beyond my personal interest in crypto. But I took on the challenge, and this role taught me **everything**:
 
-- Writing clear and precise **technical documentation**
+- Writing good **technical documentation**
 - Supporting and engaging **developer communities**
 - Understanding **how blockchain networks function**  
-- Analyzing on-chain data and **market trends**
-- Exploring smart contracts and building on different blockchains  
+- Analyzing **on-chain data**
+- Picking up new stuff in a day or two,for example, **publishing a data listing on Snowflake**
 
 I can now look at blockchain data and **tell exactly what’s happening across multiple chains**. I understand the infrastructure, data structures, use cases, and how different networks operate.
 

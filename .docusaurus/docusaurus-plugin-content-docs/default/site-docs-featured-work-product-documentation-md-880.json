@@ -1,7 +1,7 @@
 {
   "id": "featured-work/product-documentation",
   "title": "Product Documentation",
-  "description": "Tutorial | Data streaming platform",
+  "description": "- Tutorial | Blockchain Data Platform (V1)",
   "source": "@site/docs/featured-work/product-documentation.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/product-documentation",
@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/product-documentation.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "long-form-articles",
-    "permalink": "/docs/featured-work/long-form-articles"
+    "title": "Featured Work",
+    "permalink": "/docs/category/featured-work"
   },
   "next": {
-    "title": "product-newsletter",
-    "permalink": "/docs/featured-work/product-newsletter"
+    "title": "📝 Long-form Articles",
+    "permalink": "/docs/featured-work/long-form-articles"
   }
 }

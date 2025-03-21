@@ -1,7 +1,7 @@
 {
   "id": "featured-work/long-form-articles",
-  "title": "long-form-articles",
-  "description": "",
+  "title": "📝 Long-form Articles",
+  "description": "Here are a few long-form articles where I’ve been the sole contributor. I manage the entire content pipeline at Bitquery, so while only a handful are listed here, all pieces on bitquery.io/blog have been shaped by my work—whether it’s through outlining, editing, or setting the overall content direction and vision.",
   "source": "@site/docs/featured-work/long-form-articles.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/long-form-articles",
@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/long-form-articles.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "investigation-videos",
-    "permalink": "/docs/featured-work/investigation-videos"
-  },
-  "next": {
     "title": "Product Documentation",
     "permalink": "/docs/featured-work/product-documentation"
+  },
+  "next": {
+    "title": "code-samples",
+    "permalink": "/docs/featured-work/code-samples"
   }
 }
