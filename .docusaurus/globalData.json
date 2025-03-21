@@ -166,6 +166,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Personal Blog/Web3/hedgey-exploit-6-months",
+              "path": "/docs/Personal Blog/Web3/hedgey-exploit-6-months",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
               "path": "/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
               "sidebar": "tutorialSidebar"

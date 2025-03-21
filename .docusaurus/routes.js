@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3e4'),
+    component: ComponentCreator('/docs', '706'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '402'),
+        component: ComponentCreator('/docs', 'eb6'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,7 +37,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '233'),
+            component: ComponentCreator('/docs', '3b9'),
             routes: [
               {
                 path: '/docs/category/crm',
@@ -270,6 +270,12 @@ export default [
               {
                 path: '/docs/Personal Blog/SaaS/SaaS_Stack',
                 component: ComponentCreator('/docs/Personal Blog/SaaS/SaaS_Stack', 'cd3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Personal Blog/Web3/hedgey-exploit-6-months',
+                component: ComponentCreator('/docs/Personal Blog/Web3/hedgey-exploit-6-months', '1de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
