@@ -15,6 +15,7 @@ Here are a few long-form articles where I’ve been the sole contributor. I mana
 - [Tracking Commingled Funds Simplified with Bitquery - Bitquery](https://bitquery.io/blog/tracking-commingled-funds-simplified-bitquery)
 - [Bitquery's New Streaming API is Changing Web3 Infrastructure Space – Sponsored Bitcoin News](https://news.bitcoin.com/bitquerys-new-streaming-api-is-changing-web3-infrastructure-space/)
 - [What to do if you've fallen victim to a crypto scam](https://community.bitquery.io/t/what-to-do-if-youve-fallen-victim-to-a-crypto-scam/1389?u=divya)
+- [How to Avoid Falling Victim to USDT Scams on WhatsApp: A Case Study and Recovery Guide](https://coinpedia.org/information/avoid-usdt-scams-whatsapp-bitquery-recovery/)
 
 ### 🟩 LambdaTest | #softwaretesting
 
