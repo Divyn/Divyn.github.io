@@ -1,0 +1,24 @@
+{
+  "id": "featured-work/investigation-videos",
+  "title": "Crypto Investigation Videos",
+  "description": "In this page I have some of the crypto investigatioan and tracing I did as a part of my documentaitona nd dev efoorts targeting crypto compiance.",
+  "source": "@site/docs/featured-work/investigation-videos.mdx",
+  "sourceDirName": "featured-work",
+  "slug": "/featured-work/investigation-videos",
+  "permalink": "/docs/featured-work/investigation-videos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/investigation-videos.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infographics",
+    "permalink": "/docs/featured-work/infographics"
+  },
+  "next": {
+    "title": "product-newsletter",
+    "permalink": "/docs/featured-work/product-newsletter"
+  }
+}

@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '706'),
+    component: ComponentCreator('/docs', 'a2e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'eb6'),
+        component: ComponentCreator('/docs', '55b'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,7 +37,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '3b9'),
+            component: ComponentCreator('/docs', '465'),
             routes: [
               {
                 path: '/docs/category/crm',
@@ -113,7 +113,7 @@ export default [
               },
               {
                 path: '/docs/featured-work/investigation-videos',
-                component: ComponentCreator('/docs/featured-work/investigation-videos', 'c17'),
+                component: ComponentCreator('/docs/featured-work/investigation-videos', '828'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

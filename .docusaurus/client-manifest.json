@@ -6,6 +6,10 @@
     "3042": [
       3042
     ],
+    "4132": [
+      6651,
+      4132
+    ],
     "6733": [
       1869,
       6061,
@@ -121,11 +125,12 @@
     "69f01cc5": [
       1030
     ],
-    "6b38bc69": [
-      6380
-    ],
     "77f81785": [
       7262
+    ],
+    "78ffbc39": [
+      4132,
+      6651
     ],
     "7945fcef": [
       182
@@ -205,6 +210,48 @@
     "f6ed6362": [
       4177
     ],
+    "reactPlayerYouTube": [
+      8446
+    ],
+    "reactPlayerSoundCloud": [
+      9979
+    ],
+    "reactPlayerVimeo": [
+      6173
+    ],
+    "reactPlayerMux": [
+      2723
+    ],
+    "reactPlayerFacebook": [
+      6887
+    ],
+    "reactPlayerStreamable": [
+      7627
+    ],
+    "reactPlayerWistia": [
+      9340
+    ],
+    "reactPlayerTwitch": [
+      2042
+    ],
+    "reactPlayerDailyMotion": [
+      6328
+    ],
+    "reactPlayerMixcloud": [
+      7570
+    ],
+    "reactPlayerVidyard": [
+      3392
+    ],
+    "reactPlayerKaltura": [
+      6463
+    ],
+    "reactPlayerFilePlayer": [
+      7458
+    ],
+    "reactPlayerPreview": [
+      6353
+    ],
     "styles": [
       2634,
       4279,
@@ -223,18 +270,18 @@
     "182": {
       "js": [
         {
-          "file": "assets/js/7945fcef.2b29b327.js",
-          "hash": "ca8eb3cf3d11e4df",
-          "publicPath": "/assets/js/7945fcef.2b29b327.js"
+          "file": "assets/js/7945fcef.abda64fa.js",
+          "hash": "2bd49ebd89da14ee",
+          "publicPath": "/assets/js/7945fcef.abda64fa.js"
         }
       ]
     },
     "849": {
       "js": [
         {
-          "file": "assets/js/0058b4c6.7d122dfe.js",
-          "hash": "19e3312fefe13166",
-          "publicPath": "/assets/js/0058b4c6.7d122dfe.js"
+          "file": "assets/js/0058b4c6.c2344257.js",
+          "hash": "5e796116500df729",
+          "publicPath": "/assets/js/0058b4c6.c2344257.js"
         }
       ]
     },
@@ -310,6 +357,15 @@
         }
       ]
     },
+    "2042": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerTwitch.44c8e262.js",
+          "hash": "2d3d56efa579beda",
+          "publicPath": "/assets/js/reactPlayerTwitch.44c8e262.js"
+        }
+      ]
+    },
     "2109": {
       "js": [
         {
@@ -355,6 +411,15 @@
         }
       ]
     },
+    "2723": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerMux.44338e06.js",
+          "hash": "1c58ebdd5c18aadd",
+          "publicPath": "/assets/js/reactPlayerMux.44338e06.js"
+        }
+      ]
+    },
     "2925": {
       "js": [
         {
@@ -379,6 +444,15 @@
           "file": "assets/js/4d21883d.87434de1.js",
           "hash": "e627334b1d9cdf06",
           "publicPath": "/assets/js/4d21883d.87434de1.js"
+        }
+      ]
+    },
+    "3392": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerVidyard.554e4aab.js",
+          "hash": "947f6b3909856a4d",
+          "publicPath": "/assets/js/reactPlayerVidyard.554e4aab.js"
         }
       ]
     },
@@ -412,9 +486,18 @@
     "3985": {
       "js": [
         {
-          "file": "assets/js/3ca760b4.8b9b72a3.js",
-          "hash": "380236b32927eb27",
-          "publicPath": "/assets/js/3ca760b4.8b9b72a3.js"
+          "file": "assets/js/3ca760b4.a9a15a48.js",
+          "hash": "937a35e81635cd49",
+          "publicPath": "/assets/js/3ca760b4.a9a15a48.js"
+        }
+      ]
+    },
+    "4132": {
+      "js": [
+        {
+          "file": "assets/js/4132.22c21782.js",
+          "hash": "d24514f999020ddd",
+          "publicPath": "/assets/js/4132.22c21782.js"
         }
       ]
     },
@@ -493,9 +576,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.44417c7b.js",
-          "hash": "5b1f66dfd3eaf966",
-          "publicPath": "/assets/js/runtime~main.44417c7b.js"
+          "file": "assets/js/runtime~main.2830e56b.js",
+          "hash": "5c470264ae8ee4df",
+          "publicPath": "/assets/js/runtime~main.2830e56b.js"
         }
       ]
     },
@@ -562,6 +645,24 @@
         }
       ]
     },
+    "6173": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerVimeo.cbe3612b.js",
+          "hash": "aed1def3bc1377c2",
+          "publicPath": "/assets/js/reactPlayerVimeo.cbe3612b.js"
+        }
+      ]
+    },
+    "6328": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerDailyMotion.5ec10482.js",
+          "hash": "2b49f4a2f9d408a4",
+          "publicPath": "/assets/js/reactPlayerDailyMotion.5ec10482.js"
+        }
+      ]
+    },
     "6332": {
       "js": [
         {
@@ -571,12 +672,30 @@
         }
       ]
     },
-    "6380": {
+    "6353": {
       "js": [
         {
-          "file": "assets/js/6b38bc69.995ce07f.js",
-          "hash": "de5d4a644ab8307c",
-          "publicPath": "/assets/js/6b38bc69.995ce07f.js"
+          "file": "assets/js/reactPlayerPreview.6fbd249f.js",
+          "hash": "9f37e20b14f0699f",
+          "publicPath": "/assets/js/reactPlayerPreview.6fbd249f.js"
+        }
+      ]
+    },
+    "6463": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerKaltura.50e69653.js",
+          "hash": "6758ef7a72ea5fda",
+          "publicPath": "/assets/js/reactPlayerKaltura.50e69653.js"
+        }
+      ]
+    },
+    "6651": {
+      "js": [
+        {
+          "file": "assets/js/78ffbc39.51bf639a.js",
+          "hash": "138147b5c9e1ae55",
+          "publicPath": "/assets/js/78ffbc39.51bf639a.js"
         }
       ]
     },
@@ -595,6 +714,15 @@
           "file": "assets/js/799b6ce3.ef1c252a.js",
           "hash": "6b9d242c2070fc0b",
           "publicPath": "/assets/js/799b6ce3.ef1c252a.js"
+        }
+      ]
+    },
+    "6887": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerFacebook.f2f762e9.js",
+          "hash": "d9a481ddef840416",
+          "publicPath": "/assets/js/reactPlayerFacebook.f2f762e9.js"
         }
       ]
     },
@@ -670,6 +798,33 @@
         }
       ]
     },
+    "7458": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerFilePlayer.1d7ba038.js",
+          "hash": "c54a7566bc891172",
+          "publicPath": "/assets/js/reactPlayerFilePlayer.1d7ba038.js"
+        }
+      ]
+    },
+    "7570": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerMixcloud.ac10aedd.js",
+          "hash": "52de85a3b6c9e6d9",
+          "publicPath": "/assets/js/reactPlayerMixcloud.ac10aedd.js"
+        }
+      ]
+    },
+    "7627": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerStreamable.5ad31201.js",
+          "hash": "bd6cdd5a381ae075",
+          "publicPath": "/assets/js/reactPlayerStreamable.5ad31201.js"
+        }
+      ]
+    },
     "8189": {
       "js": [
         {
@@ -697,6 +852,15 @@
         }
       ]
     },
+    "8446": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerYouTube.4ce0039d.js",
+          "hash": "c45259edafe2d2a3",
+          "publicPath": "/assets/js/reactPlayerYouTube.4ce0039d.js"
+        }
+      ]
+    },
     "8490": {
       "js": [
         {
@@ -709,9 +873,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.865788af.js",
-          "hash": "a123af71a0f45728",
-          "publicPath": "/assets/js/main.865788af.js"
+          "file": "assets/js/main.6dd0ef8d.js",
+          "hash": "b382ecf7b3ed8124",
+          "publicPath": "/assets/js/main.6dd0ef8d.js"
         }
       ]
     },
@@ -745,9 +909,18 @@
     "9243": {
       "js": [
         {
-          "file": "assets/js/7bce5d08.391b9ff1.js",
-          "hash": "b982d8d9836be9a3",
-          "publicPath": "/assets/js/7bce5d08.391b9ff1.js"
+          "file": "assets/js/7bce5d08.dc0da465.js",
+          "hash": "b8414561acd06f39",
+          "publicPath": "/assets/js/7bce5d08.dc0da465.js"
+        }
+      ]
+    },
+    "9340": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerWistia.af225d0b.js",
+          "hash": "22193cf8fd73c41e",
+          "publicPath": "/assets/js/reactPlayerWistia.af225d0b.js"
         }
       ]
     },
@@ -784,6 +957,15 @@
           "file": "assets/js/5e95c892.066a4cfe.js",
           "hash": "3090c717e4490e88",
           "publicPath": "/assets/js/5e95c892.066a4cfe.js"
+        }
+      ]
+    },
+    "9979": {
+      "js": [
+        {
+          "file": "assets/js/reactPlayerSoundCloud.853999f9.js",
+          "hash": "c635a381a97be66d",
+          "publicPath": "/assets/js/reactPlayerSoundCloud.853999f9.js"
         }
       ]
     }
