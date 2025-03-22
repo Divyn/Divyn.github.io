@@ -46,11 +46,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "featured-work/product-newsletter",
-              "path": "/docs/featured-work/product-newsletter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "featured-work/video-tutorials",
               "path": "/docs/featured-work/video-tutorials",
               "sidebar": "tutorialSidebar"

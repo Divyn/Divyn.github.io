@@ -1,7 +1,7 @@
 {
   "id": "featured-work/infographics",
-  "title": "infographics",
-  "description": "",
+  "title": "Infographics",
+  "description": "Sample 1",
   "source": "@site/docs/featured-work/infographics.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/infographics",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "events",
+    "title": "Participating at Events",
     "permalink": "/docs/featured-work/events"
   },
   "next": {
