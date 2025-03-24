@@ -1,7 +1,7 @@
 {
   "id": "featured-work/video-tutorials",
-  "title": "video-tutorials",
-  "description": "",
+  "title": "Video Tutorials",
+  "description": "Here are some of the videos I've created at work;",
   "source": "@site/docs/featured-work/video-tutorials.md",
   "sourceDirName": "featured-work",
   "slug": "/featured-work/video-tutorials",

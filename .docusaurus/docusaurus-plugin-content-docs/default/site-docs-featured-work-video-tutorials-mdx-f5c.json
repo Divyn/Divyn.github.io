@@ -1,0 +1,24 @@
+{
+  "id": "featured-work/video-tutorials",
+  "title": "Video Tutorials",
+  "description": "Here are some of the videos I've created at work;",
+  "source": "@site/docs/featured-work/video-tutorials.mdx",
+  "sourceDirName": "featured-work",
+  "slug": "/featured-work/video-tutorials",
+  "permalink": "/docs/featured-work/video-tutorials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/video-tutorials.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Crypto Investigation Videos",
+    "permalink": "/docs/featured-work/investigation-videos"
+  },
+  "next": {
+    "title": "Personal Blog",
+    "permalink": "/docs/category/personal-blog"
+  }
+}
