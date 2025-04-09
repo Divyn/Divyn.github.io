@@ -17,6 +17,8 @@ Here are a few long-form articles where I’ve been the sole contributor. I mana
 - [What to do if you've fallen victim to a crypto scam](https://community.bitquery.io/t/what-to-do-if-youve-fallen-victim-to-a-crypto-scam/1389?u=divya)
 - [How to Avoid Falling Victim to USDT Scams on WhatsApp: A Case Study and Recovery Guide](https://coinpedia.org/information/avoid-usdt-scams-whatsapp-bitquery-recovery/)
 
+- [Scalable Balance Tracking for Custodians: A Better Alternative to Node-Based Reading](https://www.linkedin.com/pulse/scalable-balance-tracking-custodians-better-alternative-node-based-wiyuc)
+
 ### 🟩 LambdaTest | #softwaretesting
 
 - [Interview questions for QA tester position](https://testvox.com/interview-questions-to-onboard-a-qa/)
