@@ -67,6 +67,11 @@ const config = {
           label: "Twitter",
           position: "right",
         },
+        {
+          href: "https://www.youtube.com/@TechFictionist",
+          label: "My YouTube",
+          position: "right",
+        }
       ],
     },
     footer: {
