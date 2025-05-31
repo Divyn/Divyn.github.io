@@ -70,6 +70,11 @@ export default {
           "href": "https://x.com/divyasshree_",
           "label": "Twitter",
           "position": "right"
+        },
+        {
+          "href": "https://www.youtube.com/@TechFictionist",
+          "label": "My YouTube",
+          "position": "right"
         }
       ],
       "hideOnScroll": false

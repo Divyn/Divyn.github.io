@@ -1,0 +1,27 @@
+{
+  "id": "featured-work/packages",
+  "title": "Packages Published",
+  "description": "Python",
+  "source": "@site/docs/featured-work/packages.md",
+  "sourceDirName": "featured-work",
+  "slug": "/featured-work/packages",
+  "permalink": "/docs/featured-work/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/featured-work/packages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 Long-form Articles",
+    "permalink": "/docs/featured-work/long-form-articles"
+  },
+  "next": {
+    "title": "Code Samples",
+    "permalink": "/docs/featured-work/code-samples"
+  }
+}

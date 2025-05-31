@@ -6,13 +6,13 @@
     },
     "content": "393be207"
   },
-  "/docs-630": {
+  "/docs-69d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-210": {
+  "/docs-b23": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
@@ -32,7 +32,7 @@
     "__comp": "df203c0f",
     "__props": "28d80fa9"
   },
-  "/docs-42d": {
+  "/docs-62a": {
     "__comp": "a94703ab"
   },
   "/docs/category/crm-bbc": {
@@ -90,6 +90,10 @@
   "/docs/featured-work/long-form-articles-d22": {
     "__comp": "17896441",
     "content": "3ca760b4"
+  },
+  "/docs/featured-work/packages-19f": {
+    "__comp": "17896441",
+    "content": "4aa9084f"
   },
   "/docs/featured-work/product-documentation-467": {
     "__comp": "17896441",

@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '630'),
+    component: ComponentCreator('/docs', '69d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '210'),
+        component: ComponentCreator('/docs', 'b23'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,7 +37,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '42d'),
+            component: ComponentCreator('/docs', '62a'),
             routes: [
               {
                 path: '/docs/category/crm',
@@ -120,6 +120,12 @@ export default [
               {
                 path: '/docs/featured-work/long-form-articles',
                 component: ComponentCreator('/docs/featured-work/long-form-articles', 'd22'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/featured-work/packages',
+                component: ComponentCreator('/docs/featured-work/packages', '19f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

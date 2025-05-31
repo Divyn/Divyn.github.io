@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "featured-work/packages",
+              "path": "/docs/featured-work/packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "featured-work/product-documentation",
               "path": "/docs/featured-work/product-documentation",
               "sidebar": "tutorialSidebar"
