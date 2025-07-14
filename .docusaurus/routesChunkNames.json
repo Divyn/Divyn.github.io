@@ -6,13 +6,13 @@
     },
     "content": "393be207"
   },
-  "/docs-69d": {
+  "/docs-852": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-b23": {
+  "/docs-3d1": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
@@ -32,8 +32,12 @@
     "__comp": "df203c0f",
     "__props": "28d80fa9"
   },
-  "/docs-62a": {
+  "/docs-c5a": {
     "__comp": "a94703ab"
+  },
+  "/docs/category/chaos-theory-quantum-computing-random-concepts-47c": {
+    "__comp": "14eb3368",
+    "__props": "89a3ed9c"
   },
   "/docs/category/crm-bbc": {
     "__comp": "14eb3368",
@@ -55,13 +59,13 @@
     "__comp": "14eb3368",
     "__props": "60adb665"
   },
-  "/docs/category/miscellaneous-dba": {
-    "__comp": "14eb3368",
-    "__props": "298defe3"
-  },
   "/docs/category/personal-blog-b33": {
     "__comp": "14eb3368",
     "__props": "937b3cea"
+  },
+  "/docs/category/think-tank-8a4": {
+    "__comp": "14eb3368",
+    "__props": "5ae647a4"
   },
   "/docs/category/web3-eb8": {
     "__comp": "14eb3368",
@@ -107,97 +111,97 @@
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/Personal Blog/CRM/SalesAutomation-d40": {
+  "/docs/Personal_Blog/CRM/SalesAutomation-f55": {
     "__comp": "17896441",
-    "content": "f5bd8618"
+    "content": "a931c773"
   },
-  "/docs/Personal Blog/design/Basics-405": {
+  "/docs/Personal_Blog/design/Basics-132": {
     "__comp": "17896441",
-    "content": "b1298491"
+    "content": "755aec7f"
   },
-  "/docs/Personal Blog/GameTheory/MahabharatGame-a68": {
+  "/docs/Personal_Blog/GameTheory/MahabharatGame-941": {
     "__comp": "17896441",
-    "content": "69f01cc5"
+    "content": "db9fde0b"
   },
-  "/docs/Personal Blog/Kubernetes/BasicCommandsOverview-be6": {
+  "/docs/Personal_Blog/Kubernetes/BasicCommandsOverview-330": {
     "__comp": "17896441",
-    "content": "4d21883d"
+    "content": "42491c92"
   },
-  "/docs/Personal Blog/Kubernetes/EditingaProd-ba5": {
+  "/docs/Personal_Blog/Kubernetes/EditingaProd-f2c": {
     "__comp": "17896441",
-    "content": "f36bd0cc"
+    "content": "ae3a9f7f"
   },
-  "/docs/Personal Blog/Kubernetes/MultiContainerPods-e8d": {
+  "/docs/Personal_Blog/Kubernetes/MultiContainerPods-95b": {
     "__comp": "17896441",
-    "content": "1fb9f370"
+    "content": "7462b381"
   },
-  "/docs/Personal Blog/Kubernetes/NodeAffinity-2db": {
+  "/docs/Personal_Blog/Kubernetes/NodeAffinity-117": {
     "__comp": "17896441",
-    "content": "0372f0e4"
+    "content": "5795d7fb"
   },
-  "/docs/Personal Blog/Kubernetes/NodeSelectors-f92": {
+  "/docs/Personal_Blog/Kubernetes/NodeSelectors-d1a": {
     "__comp": "17896441",
-    "content": "eee54648"
+    "content": "7f666d96"
   },
-  "/docs/Personal Blog/Kubernetes/Resources-479": {
+  "/docs/Personal_Blog/Kubernetes/Resources-566": {
     "__comp": "17896441",
-    "content": "0edbc937"
+    "content": "cbff8233"
   },
-  "/docs/Personal Blog/Kubernetes/Scheduling-6a5": {
+  "/docs/Personal_Blog/Kubernetes/Scheduling-56e": {
     "__comp": "17896441",
-    "content": "57bacb1a"
+    "content": "0311a412"
   },
-  "/docs/Personal Blog/Kubernetes/Secrets-e6b": {
+  "/docs/Personal_Blog/Kubernetes/Secrets-742": {
     "__comp": "17896441",
-    "content": "d674b089"
+    "content": "5b6273c2"
   },
-  "/docs/Personal Blog/Kubernetes/SecurityContext-f17": {
+  "/docs/Personal_Blog/Kubernetes/SecurityContext-928": {
     "__comp": "17896441",
-    "content": "8451a047"
+    "content": "428e5996"
   },
-  "/docs/Personal Blog/Kubernetes/serviceAccounts-e41": {
+  "/docs/Personal_Blog/Kubernetes/serviceAccounts-481": {
     "__comp": "17896441",
-    "content": "2184c84a"
+    "content": "7c0175fa"
   },
-  "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts-4ff": {
+  "/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts-c78": {
     "__comp": "17896441",
-    "content": "884262bd"
+    "content": "2b737e34"
   },
-  "/docs/Personal Blog/Kubernetes/StatefulSets-fd5": {
+  "/docs/Personal_Blog/Kubernetes/StatefulSets-43f": {
     "__comp": "17896441",
-    "content": "602fe7ff"
+    "content": "ce95f7db"
   },
-  "/docs/Personal Blog/Kubernetes/StorageClasses-523": {
+  "/docs/Personal_Blog/Kubernetes/StorageClasses-ef9": {
     "__comp": "17896441",
-    "content": "f0c63138"
+    "content": "3e48b81a"
   },
-  "/docs/Personal Blog/Kubernetes/Taints&Tolerations-56c": {
+  "/docs/Personal_Blog/Kubernetes/Taints&Tolerations-d60": {
     "__comp": "17896441",
-    "content": "2992d93b"
+    "content": "9bbc827e"
   },
-  "/docs/Personal Blog/Miscellaneous/BigData_OS_Security-f5c": {
+  "/docs/Personal_Blog/Miscellaneous/BigData_OS_Security-6c1": {
     "__comp": "17896441",
-    "content": "f6ed6362"
+    "content": "ef19aac5"
   },
-  "/docs/Personal Blog/Miscellaneous/ChaosCovid-ed4": {
+  "/docs/Personal_Blog/Miscellaneous/ChaosCovid-3b3": {
     "__comp": "17896441",
-    "content": "0852a8f9"
+    "content": "2dd9f6c3"
   },
-  "/docs/Personal Blog/Miscellaneous/QuantumComputing-4ae": {
+  "/docs/Personal_Blog/Miscellaneous/QuantumComputing-310": {
     "__comp": "17896441",
-    "content": "799b6ce3"
+    "content": "e61d732c"
   },
-  "/docs/Personal Blog/SaaS/SaaS_Stack-cd3": {
+  "/docs/Personal_Blog/Think_Tank/detecting-AI-content-9b7": {
     "__comp": "17896441",
-    "content": "28b65938"
+    "content": "42f9cdda"
   },
-  "/docs/Personal Blog/Web3/hedgey-exploit-6-months-1de": {
+  "/docs/Personal_Blog/Web3/hedgey-exploit-6-months-0b9": {
     "__comp": "17896441",
-    "content": "dde06fd5"
+    "content": "b52fb840"
   },
-  "/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum-47b": {
+  "/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum-fd0": {
     "__comp": "17896441",
-    "content": "ce31e61c"
+    "content": "3785a73c"
   },
   "/-2e1": {
     "__comp": "c4f5d8e4",

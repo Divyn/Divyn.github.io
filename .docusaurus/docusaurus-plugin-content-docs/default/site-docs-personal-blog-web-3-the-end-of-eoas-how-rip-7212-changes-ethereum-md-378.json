@@ -1,0 +1,27 @@
+{
+  "id": "Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+  "title": "The End of EOAs? How RIP-7212 Changes Everything",
+  "description": "In this blog, we'll explore what this proposal is about, what problem it solves, why it matters, and its current status, among other details.",
+  "source": "@site/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum.md",
+  "sourceDirName": "Personal_Blog/Web3",
+  "slug": "/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+  "permalink": "/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web3",
+    "permalink": "/docs/category/web3"
+  },
+  "next": {
+    "title": "Hedgey Finance Exploit: Six Months Later, Lessons Learned, and Code Revamped",
+    "permalink": "/docs/Personal_Blog/Web3/hedgey-exploit-6-months"
+  }
+}

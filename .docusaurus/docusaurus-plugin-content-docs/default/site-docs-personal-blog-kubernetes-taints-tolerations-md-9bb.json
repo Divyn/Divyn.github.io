@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Kubernetes/Taints&Tolerations",
+  "title": "Taints and Tolerations",
+  "description": "Taints and tolerations are used to set restrictions on what pods can be shared.Taints and tolerations have nothing to do with security or intrusion on a cluster.",
+  "source": "@site/docs/Personal_Blog/Kubernetes/Taints&Tolerations.md",
+  "sourceDirName": "Personal_Blog/Kubernetes",
+  "slug": "/Personal_Blog/Kubernetes/Taints&Tolerations",
+  "permalink": "/docs/Personal_Blog/Kubernetes/Taints&Tolerations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Kubernetes/Taints&Tolerations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Taints and Tolerations",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Storage Classes",
+    "permalink": "/docs/Personal_Blog/Kubernetes/StorageClasses"
+  },
+  "next": {
+    "title": "Service Accounts",
+    "permalink": "/docs/Personal_Blog/Kubernetes/serviceAccounts"
+  }
+}

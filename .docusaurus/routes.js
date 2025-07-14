@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '69d'),
+    component: ComponentCreator('/docs', '852'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b23'),
+        component: ComponentCreator('/docs', '3d1'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,8 +37,14 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '62a'),
+            component: ComponentCreator('/docs', 'c5a'),
             routes: [
+              {
+                path: '/docs/category/chaos-theory-quantum-computing-random-concepts',
+                component: ComponentCreator('/docs/category/chaos-theory-quantum-computing-random-concepts', '47c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/crm',
                 component: ComponentCreator('/docs/category/crm', 'bbc'),
@@ -70,14 +76,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/miscellaneous',
-                component: ComponentCreator('/docs/category/miscellaneous', 'dba'),
+                path: '/docs/category/personal-blog',
+                component: ComponentCreator('/docs/category/personal-blog', 'b33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/personal-blog',
-                component: ComponentCreator('/docs/category/personal-blog', 'b33'),
+                path: '/docs/category/think-tank',
+                component: ComponentCreator('/docs/category/think-tank', '8a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -148,140 +154,140 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/CRM/SalesAutomation',
-                component: ComponentCreator('/docs/Personal Blog/CRM/SalesAutomation', 'd40'),
+                path: '/docs/Personal_Blog/CRM/SalesAutomation',
+                component: ComponentCreator('/docs/Personal_Blog/CRM/SalesAutomation', 'f55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/design/Basics',
-                component: ComponentCreator('/docs/Personal Blog/design/Basics', '405'),
+                path: '/docs/Personal_Blog/design/Basics',
+                component: ComponentCreator('/docs/Personal_Blog/design/Basics', '132'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/GameTheory/MahabharatGame',
-                component: ComponentCreator('/docs/Personal Blog/GameTheory/MahabharatGame', 'a68'),
+                path: '/docs/Personal_Blog/GameTheory/MahabharatGame',
+                component: ComponentCreator('/docs/Personal_Blog/GameTheory/MahabharatGame', '941'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/BasicCommandsOverview',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/BasicCommandsOverview', 'be6'),
+                path: '/docs/Personal_Blog/Kubernetes/BasicCommandsOverview',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/BasicCommandsOverview', '330'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/EditingaProd',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/EditingaProd', 'ba5'),
+                path: '/docs/Personal_Blog/Kubernetes/EditingaProd',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/EditingaProd', 'f2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/MultiContainerPods',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/MultiContainerPods', 'e8d'),
+                path: '/docs/Personal_Blog/Kubernetes/MultiContainerPods',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/MultiContainerPods', '95b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/NodeAffinity',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/NodeAffinity', '2db'),
+                path: '/docs/Personal_Blog/Kubernetes/NodeAffinity',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/NodeAffinity', '117'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/NodeSelectors',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/NodeSelectors', 'f92'),
+                path: '/docs/Personal_Blog/Kubernetes/NodeSelectors',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/NodeSelectors', 'd1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/Resources',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Resources', '479'),
+                path: '/docs/Personal_Blog/Kubernetes/Resources',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/Resources', '566'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/Scheduling',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Scheduling', '6a5'),
+                path: '/docs/Personal_Blog/Kubernetes/Scheduling',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/Scheduling', '56e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/Secrets',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Secrets', 'e6b'),
+                path: '/docs/Personal_Blog/Kubernetes/Secrets',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/Secrets', '742'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/SecurityContext',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/SecurityContext', 'f17'),
+                path: '/docs/Personal_Blog/Kubernetes/SecurityContext',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/SecurityContext', '928'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/serviceAccounts',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/serviceAccounts', 'e41'),
+                path: '/docs/Personal_Blog/Kubernetes/serviceAccounts',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/serviceAccounts', '481'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/ServicesCoreConcepts',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/ServicesCoreConcepts', '4ff'),
+                path: '/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts', 'c78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/StatefulSets',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/StatefulSets', 'fd5'),
+                path: '/docs/Personal_Blog/Kubernetes/StatefulSets',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/StatefulSets', '43f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/StorageClasses',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/StorageClasses', '523'),
+                path: '/docs/Personal_Blog/Kubernetes/StorageClasses',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/StorageClasses', 'ef9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Kubernetes/Taints&Tolerations',
-                component: ComponentCreator('/docs/Personal Blog/Kubernetes/Taints&Tolerations', '56c'),
+                path: '/docs/Personal_Blog/Kubernetes/Taints&Tolerations',
+                component: ComponentCreator('/docs/Personal_Blog/Kubernetes/Taints&Tolerations', 'd60'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Miscellaneous/BigData_OS_Security',
-                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/BigData_OS_Security', 'f5c'),
+                path: '/docs/Personal_Blog/Miscellaneous/BigData_OS_Security',
+                component: ComponentCreator('/docs/Personal_Blog/Miscellaneous/BigData_OS_Security', '6c1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Miscellaneous/ChaosCovid',
-                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/ChaosCovid', 'ed4'),
+                path: '/docs/Personal_Blog/Miscellaneous/ChaosCovid',
+                component: ComponentCreator('/docs/Personal_Blog/Miscellaneous/ChaosCovid', '3b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Miscellaneous/QuantumComputing',
-                component: ComponentCreator('/docs/Personal Blog/Miscellaneous/QuantumComputing', '4ae'),
+                path: '/docs/Personal_Blog/Miscellaneous/QuantumComputing',
+                component: ComponentCreator('/docs/Personal_Blog/Miscellaneous/QuantumComputing', '310'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/SaaS/SaaS_Stack',
-                component: ComponentCreator('/docs/Personal Blog/SaaS/SaaS_Stack', 'cd3'),
+                path: '/docs/Personal_Blog/Think_Tank/detecting-AI-content',
+                component: ComponentCreator('/docs/Personal_Blog/Think_Tank/detecting-AI-content', '9b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Web3/hedgey-exploit-6-months',
-                component: ComponentCreator('/docs/Personal Blog/Web3/hedgey-exploit-6-months', '1de'),
+                path: '/docs/Personal_Blog/Web3/hedgey-exploit-6-months',
+                component: ComponentCreator('/docs/Personal_Blog/Web3/hedgey-exploit-6-months', '0b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum',
-                component: ComponentCreator('/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum', '47b'),
+                path: '/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum',
+                component: ComponentCreator('/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum', 'fd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

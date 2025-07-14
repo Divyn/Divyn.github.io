@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/CRM/SalesAutomation",
+  "title": "Sales Automation- An Intro",
+  "description": "Generating leads for your company is the first stage of the sales cycle. Any product improvements may have prompted several leads to visit your website. Others may have quickly skimmed your website to see whether you are providing what they need. You'll save a lot of time if you can swiftly collect the lead information when they visit your product website or landing pages.",
+  "source": "@site/docs/Personal_Blog/CRM/SalesAutomation.md",
+  "sourceDirName": "Personal_Blog/CRM",
+  "slug": "/Personal_Blog/CRM/SalesAutomation",
+  "permalink": "/docs/Personal_Blog/CRM/SalesAutomation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/CRM/SalesAutomation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Sales Automation- An Intro",
+    "parent": "CRM"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CRM",
+    "permalink": "/docs/category/crm"
+  },
+  "next": {
+    "title": "Design Research",
+    "permalink": "/docs/category/design-research"
+  }
+}

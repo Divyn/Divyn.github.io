@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Miscellaneous/QuantumComputing",
+  "title": "One Step Closer to Achieving 2030 Sustainability Goals",
+  "description": "Introduction",
+  "source": "@site/docs/Personal_Blog/Miscellaneous/QuantumComputing.md",
+  "sourceDirName": "Personal_Blog/Miscellaneous",
+  "slug": "/Personal_Blog/Miscellaneous/QuantumComputing",
+  "permalink": "/docs/Personal_Blog/Miscellaneous/QuantumComputing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Miscellaneous/QuantumComputing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "One Step Closer to Achieving 2030 Sustainability Goals",
+    "parent": "Miscellaneous"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chaos Theory on  COVID-19",
+    "permalink": "/docs/Personal_Blog/Miscellaneous/ChaosCovid"
+  },
+  "next": {
+    "title": "Think Tank",
+    "permalink": "/docs/category/think-tank"
+  }
+}

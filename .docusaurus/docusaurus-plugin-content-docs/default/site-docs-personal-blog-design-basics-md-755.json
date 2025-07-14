@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/design/Basics",
+  "title": "Basics of Design Research",
+  "description": "- The study of consumer behavior is one of the most common examples of research in design.",
+  "source": "@site/docs/Personal_Blog/design/Basics.md",
+  "sourceDirName": "Personal_Blog/design",
+  "slug": "/Personal_Blog/design/Basics",
+  "permalink": "/docs/Personal_Blog/design/Basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/design/Basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Basics of Design Research",
+    "parent": "DesignThinking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Research",
+    "permalink": "/docs/category/design-research"
+  },
+  "next": {
+    "title": "Chaos Theory, Quantum Computing, Random Concepts",
+    "permalink": "/docs/category/chaos-theory-quantum-computing-random-concepts"
+  }
+}

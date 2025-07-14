@@ -1,0 +1,24 @@
+{
+  "id": "Personal_Blog/Think_Tank/detecting-AI-content",
+  "title": "Weighing in on AI Content Detection Tools - sorry, I don't believe them",
+  "description": "I was recently caught up in a scenario where people used AI detectors to prove the content was not human-written. Could it be true? Maybe, maybe not. Here's my 2 cents.",
+  "source": "@site/docs/Personal_Blog/Think_Tank/detecting-AI-content.md",
+  "sourceDirName": "Personal_Blog/Think_Tank",
+  "slug": "/Personal_Blog/Think_Tank/detecting-AI-content",
+  "permalink": "/docs/Personal_Blog/Think_Tank/detecting-AI-content",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Think_Tank/detecting-AI-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Weighing in on AI Content Detection Tools - sorry, I don't believe them",
+    "parent": "Think Tank"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Think Tank",
+    "permalink": "/docs/category/think-tank"
+  }
+}

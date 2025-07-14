@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Kubernetes/NodeAffinity",
+  "title": "Node Affinity",
+  "description": "nodeSelector provides a very simple way to constrain pods to nodes with particular labels.",
+  "source": "@site/docs/Personal_Blog/Kubernetes/NodeAffinity.md",
+  "sourceDirName": "Personal_Blog/Kubernetes",
+  "slug": "/Personal_Blog/Kubernetes/NodeAffinity",
+  "permalink": "/docs/Personal_Blog/Kubernetes/NodeAffinity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Kubernetes/NodeAffinity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Node Affinity",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservices",
+    "permalink": "/docs/Personal_Blog/Kubernetes/MultiContainerPods"
+  },
+  "next": {
+    "title": "Node Selection",
+    "permalink": "/docs/Personal_Blog/Kubernetes/NodeSelectors"
+  }
+}

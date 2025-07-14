@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Kubernetes/StatefulSets",
+  "title": "Deployment and StatefulSet",
+  "description": "Similarities and Differences",
+  "source": "@site/docs/Personal_Blog/Kubernetes/StatefulSets.md",
+  "sourceDirName": "Personal_Blog/Kubernetes",
+  "slug": "/Personal_Blog/Kubernetes/StatefulSets",
+  "permalink": "/docs/Personal_Blog/Kubernetes/StatefulSets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Kubernetes/StatefulSets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Deployment and StatefulSet",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts"
+  },
+  "next": {
+    "title": "Storage Classes",
+    "permalink": "/docs/Personal_Blog/Kubernetes/StorageClasses"
+  }
+}

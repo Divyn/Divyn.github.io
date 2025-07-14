@@ -43,6 +43,10 @@ const config = {
           priority: 1,
           filename: "sitemap.xml",
         },
+        gtag: {
+          trackingID: "G-4ETH1W6VRP",
+          anonymizeIP: true,
+        },
       },
     ],
   ],
@@ -56,7 +60,7 @@ const config = {
       },
       items: [
         { to: "/docs/intro", label: "Home", position: "left" }, // ✅ Links Home to the Docs section correctly
-    
+        { to: "/docs/category/featured-work", label: "Work Samples", position: "left" },
         {
           href: "https://github.com/divyasshree-BQ",
           label: "GitHub",

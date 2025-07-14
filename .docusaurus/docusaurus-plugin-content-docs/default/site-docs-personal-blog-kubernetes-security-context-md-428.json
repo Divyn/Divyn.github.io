@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Kubernetes/SecurityContext",
+  "title": "Security Context",
+  "description": "SecurityContext is one option to make sure that containers and pods don't request more than what it should request in terms of process privileges.",
+  "source": "@site/docs/Personal_Blog/Kubernetes/SecurityContext.md",
+  "sourceDirName": "Personal_Blog/Kubernetes",
+  "slug": "/Personal_Blog/Kubernetes/SecurityContext",
+  "permalink": "/docs/Personal_Blog/Kubernetes/SecurityContext",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Kubernetes/SecurityContext.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Security Context",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Secrets",
+    "permalink": "/docs/Personal_Blog/Kubernetes/Secrets"
+  },
+  "next": {
+    "title": "Services",
+    "permalink": "/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts"
+  }
+}

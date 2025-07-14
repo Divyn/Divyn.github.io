@@ -61,118 +61,118 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/CRM/SalesAutomation",
-              "path": "/docs/Personal Blog/CRM/SalesAutomation",
+              "id": "Personal_Blog/CRM/SalesAutomation",
+              "path": "/docs/Personal_Blog/CRM/SalesAutomation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/design/Basics",
-              "path": "/docs/Personal Blog/design/Basics",
+              "id": "Personal_Blog/design/Basics",
+              "path": "/docs/Personal_Blog/design/Basics",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/GameTheory/MahabharatGame",
-              "path": "/docs/Personal Blog/GameTheory/MahabharatGame",
+              "id": "Personal_Blog/GameTheory/MahabharatGame",
+              "path": "/docs/Personal_Blog/GameTheory/MahabharatGame",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/BasicCommandsOverview",
-              "path": "/docs/Personal Blog/Kubernetes/BasicCommandsOverview",
+              "id": "Personal_Blog/Kubernetes/BasicCommandsOverview",
+              "path": "/docs/Personal_Blog/Kubernetes/BasicCommandsOverview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/EditingaProd",
-              "path": "/docs/Personal Blog/Kubernetes/EditingaProd",
+              "id": "Personal_Blog/Kubernetes/EditingaProd",
+              "path": "/docs/Personal_Blog/Kubernetes/EditingaProd",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/MultiContainerPods",
-              "path": "/docs/Personal Blog/Kubernetes/MultiContainerPods",
+              "id": "Personal_Blog/Kubernetes/MultiContainerPods",
+              "path": "/docs/Personal_Blog/Kubernetes/MultiContainerPods",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/NodeAffinity",
-              "path": "/docs/Personal Blog/Kubernetes/NodeAffinity",
+              "id": "Personal_Blog/Kubernetes/NodeAffinity",
+              "path": "/docs/Personal_Blog/Kubernetes/NodeAffinity",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/NodeSelectors",
-              "path": "/docs/Personal Blog/Kubernetes/NodeSelectors",
+              "id": "Personal_Blog/Kubernetes/NodeSelectors",
+              "path": "/docs/Personal_Blog/Kubernetes/NodeSelectors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/Resources",
-              "path": "/docs/Personal Blog/Kubernetes/Resources",
+              "id": "Personal_Blog/Kubernetes/Resources",
+              "path": "/docs/Personal_Blog/Kubernetes/Resources",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/Scheduling",
-              "path": "/docs/Personal Blog/Kubernetes/Scheduling",
+              "id": "Personal_Blog/Kubernetes/Scheduling",
+              "path": "/docs/Personal_Blog/Kubernetes/Scheduling",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/Secrets",
-              "path": "/docs/Personal Blog/Kubernetes/Secrets",
+              "id": "Personal_Blog/Kubernetes/Secrets",
+              "path": "/docs/Personal_Blog/Kubernetes/Secrets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/SecurityContext",
-              "path": "/docs/Personal Blog/Kubernetes/SecurityContext",
+              "id": "Personal_Blog/Kubernetes/SecurityContext",
+              "path": "/docs/Personal_Blog/Kubernetes/SecurityContext",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/serviceAccounts",
-              "path": "/docs/Personal Blog/Kubernetes/serviceAccounts",
+              "id": "Personal_Blog/Kubernetes/serviceAccounts",
+              "path": "/docs/Personal_Blog/Kubernetes/serviceAccounts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/ServicesCoreConcepts",
-              "path": "/docs/Personal Blog/Kubernetes/ServicesCoreConcepts",
+              "id": "Personal_Blog/Kubernetes/ServicesCoreConcepts",
+              "path": "/docs/Personal_Blog/Kubernetes/ServicesCoreConcepts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/StatefulSets",
-              "path": "/docs/Personal Blog/Kubernetes/StatefulSets",
+              "id": "Personal_Blog/Kubernetes/StatefulSets",
+              "path": "/docs/Personal_Blog/Kubernetes/StatefulSets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/StorageClasses",
-              "path": "/docs/Personal Blog/Kubernetes/StorageClasses",
+              "id": "Personal_Blog/Kubernetes/StorageClasses",
+              "path": "/docs/Personal_Blog/Kubernetes/StorageClasses",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Kubernetes/Taints&Tolerations",
-              "path": "/docs/Personal Blog/Kubernetes/Taints&Tolerations",
+              "id": "Personal_Blog/Kubernetes/Taints&Tolerations",
+              "path": "/docs/Personal_Blog/Kubernetes/Taints&Tolerations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Miscellaneous/BigData_OS_Security",
-              "path": "/docs/Personal Blog/Miscellaneous/BigData_OS_Security",
+              "id": "Personal_Blog/Miscellaneous/BigData_OS_Security",
+              "path": "/docs/Personal_Blog/Miscellaneous/BigData_OS_Security",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Miscellaneous/ChaosCovid",
-              "path": "/docs/Personal Blog/Miscellaneous/ChaosCovid",
+              "id": "Personal_Blog/Miscellaneous/ChaosCovid",
+              "path": "/docs/Personal_Blog/Miscellaneous/ChaosCovid",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Miscellaneous/QuantumComputing",
-              "path": "/docs/Personal Blog/Miscellaneous/QuantumComputing",
+              "id": "Personal_Blog/Miscellaneous/QuantumComputing",
+              "path": "/docs/Personal_Blog/Miscellaneous/QuantumComputing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/SaaS/SaaS_Stack",
-              "path": "/docs/Personal Blog/SaaS/SaaS_Stack",
+              "id": "Personal_Blog/Think_Tank/detecting-AI-content",
+              "path": "/docs/Personal_Blog/Think_Tank/detecting-AI-content",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Web3/hedgey-exploit-6-months",
-              "path": "/docs/Personal Blog/Web3/hedgey-exploit-6-months",
+              "id": "Personal_Blog/Web3/hedgey-exploit-6-months",
+              "path": "/docs/Personal_Blog/Web3/hedgey-exploit-6-months",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
-              "path": "/docs/Personal Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+              "id": "Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
+              "path": "/docs/Personal_Blog/Web3/the-end-of-eoas-how-rip-7212-changes-ethereum",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -211,8 +211,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/chaos-theory-quantum-computing-random-concepts",
+              "path": "/docs/category/chaos-theory-quantum-computing-random-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/think-tank",
+              "path": "/docs/category/think-tank",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -228,6 +233,15 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-4ETH1W6VRP"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
     }
   }
 }

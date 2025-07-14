@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/Kubernetes/StorageClasses",
+  "title": "Storage Classes",
+  "description": "Volumes are used by pods to store data.",
+  "source": "@site/docs/Personal_Blog/Kubernetes/StorageClasses.md",
+  "sourceDirName": "Personal_Blog/Kubernetes",
+  "slug": "/Personal_Blog/Kubernetes/StorageClasses",
+  "permalink": "/docs/Personal_Blog/Kubernetes/StorageClasses",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Kubernetes/StorageClasses.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Storage Classes",
+    "parent": "Kubernetes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment and StatefulSet",
+    "permalink": "/docs/Personal_Blog/Kubernetes/StatefulSets"
+  },
+  "next": {
+    "title": "Taints and Tolerations",
+    "permalink": "/docs/Personal_Blog/Kubernetes/Taints&Tolerations"
+  }
+}

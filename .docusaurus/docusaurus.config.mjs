@@ -43,6 +43,10 @@ export default {
           "changefreq": "daily",
           "priority": 1,
           "filename": "sitemap.xml"
+        },
+        "gtag": {
+          "trackingID": "G-4ETH1W6VRP",
+          "anonymizeIP": true
         }
       }
     ]
@@ -59,6 +63,11 @@ export default {
         {
           "to": "/docs/intro",
           "label": "Home",
+          "position": "left"
+        },
+        {
+          "to": "/docs/category/featured-work",
+          "label": "Work Samples",
           "position": "left"
         },
         {

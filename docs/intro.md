@@ -47,7 +47,7 @@ Next came an exciting shift—I joined **Bitquery** as a **Developer Relations E
 - Supporting and engaging **developer communities**
 - Understanding **how blockchain networks function**
 - Analyzing **on-chain data**
-- Picking up new stuff in a day or two,for example, **publishing a data listing on Snowflake**
+- Picking up new stuff in a day or two,for example, **testing Kafka Streams** or **negotiating a partnership with another web3 team**
 
 I can now look at blockchain data and **tell exactly what’s happening across multiple chains**. I understand the infrastructure, data structures, use cases, and how different networks operate.
 

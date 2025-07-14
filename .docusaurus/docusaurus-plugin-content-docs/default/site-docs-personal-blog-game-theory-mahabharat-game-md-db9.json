@@ -1,0 +1,28 @@
+{
+  "id": "Personal_Blog/GameTheory/MahabharatGame",
+  "title": "Mahabharata -  A  Game bigger than a Game of Dice",
+  "description": "Introduction",
+  "source": "@site/docs/Personal_Blog/GameTheory/MahabharatGame.md",
+  "sourceDirName": "Personal_Blog/GameTheory",
+  "slug": "/Personal_Blog/GameTheory/MahabharatGame",
+  "permalink": "/docs/Personal_Blog/GameTheory/MahabharatGame",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/GameTheory/MahabharatGame.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "default",
+    "title": "Mahabharata -  A  Game bigger than a Game of Dice",
+    "parent": "GameTheory"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Game Theory",
+    "permalink": "/docs/category/game-theory"
+  },
+  "next": {
+    "title": "Kubernetes",
+    "permalink": "/docs/category/kubernetes"
+  }
+}
