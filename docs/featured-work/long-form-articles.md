@@ -10,6 +10,10 @@ Here are a few long-form articles where I’ve been the sole contributor. I mana
 
 ### 🟦 Bitquery | #blockchain
 
+- [Staking Arbitrage on Ethereum Worth $75M](https://www.linkedin.com/pulse/staking-arbitrage-ethereum-divyasshree-n-drfac/)
+
+- [Making $55 M on SOL arbitrage?](https://www.linkedin.com/pulse/making-55-m-sol-arbitrage-divyasshree-n-knvlc/)
+
 - [$4 Million Gone in Seconds - Bitquery](https://bitquery.io/blog/4-million-gone-in-seconds)
 - [Blockchain Data Warehousing: Challenges in Storing Blockchain Data - Bitquery](https://bitquery.io/blog/blockchain-data-warehousing)
 - [Tracking Commingled Funds Simplified with Bitquery - Bitquery](https://bitquery.io/blog/tracking-commingled-funds-simplified-bitquery)

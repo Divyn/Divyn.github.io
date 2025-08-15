@@ -61,16 +61,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Personal_Blog/CRM/SalesAutomation",
-              "path": "/docs/Personal_Blog/CRM/SalesAutomation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Personal_Blog/design/Basics",
-              "path": "/docs/Personal_Blog/design/Basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Personal_Blog/GameTheory/MahabharatGame",
               "path": "/docs/Personal_Blog/GameTheory/MahabharatGame",
               "sidebar": "tutorialSidebar"
@@ -166,6 +156,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
+              "path": "/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Personal_Blog/Web3/hedgey-exploit-6-months",
               "path": "/docs/Personal_Blog/Web3/hedgey-exploit-6-months",
               "sidebar": "tutorialSidebar"
@@ -198,16 +193,6 @@
             {
               "id": "/category/web3",
               "path": "/docs/category/web3",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/crm",
-              "path": "/docs/category/crm",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/design-research",
-              "path": "/docs/category/design-research",
               "sidebar": "tutorialSidebar"
             },
             {

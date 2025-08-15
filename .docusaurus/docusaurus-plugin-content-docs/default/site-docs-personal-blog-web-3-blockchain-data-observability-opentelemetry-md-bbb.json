@@ -1,0 +1,24 @@
+{
+  "id": "Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
+  "title": "Blockchain Data Observability: When Your Data Pipeline Goes Offline",
+  "description": "You're running a Solana trading bot that depends on real-time low-latency price feeds. Suddenly, your dashboard shows stale data from 5 minutes ago. Is it a network issue? An API problem? Your application crash? Or just Solana's network congestion? Without proper observability, you're flying blind which in crypto equals losing money.",
+  "source": "@site/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry.md",
+  "sourceDirName": "Personal_Blog/Web3",
+  "slug": "/Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
+  "permalink": "/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hedgey Finance Exploit: Six Months Later, Lessons Learned, and Code Revamped",
+    "permalink": "/docs/Personal_Blog/Web3/hedgey-exploit-6-months"
+  },
+  "next": {
+    "title": "Chaos Theory, Quantum Computing, Random Concepts",
+    "permalink": "/docs/category/chaos-theory-quantum-computing-random-concepts"
+  }
+}

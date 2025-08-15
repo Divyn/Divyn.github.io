@@ -6,13 +6,13 @@
     },
     "content": "393be207"
   },
-  "/docs-852": {
+  "/docs-7db": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-3d1": {
+  "/docs-7e3": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
@@ -32,20 +32,12 @@
     "__comp": "df203c0f",
     "__props": "28d80fa9"
   },
-  "/docs-c5a": {
+  "/docs-d37": {
     "__comp": "a94703ab"
   },
   "/docs/category/chaos-theory-quantum-computing-random-concepts-47c": {
     "__comp": "14eb3368",
     "__props": "89a3ed9c"
-  },
-  "/docs/category/crm-bbc": {
-    "__comp": "14eb3368",
-    "__props": "0c97df75"
-  },
-  "/docs/category/design-research-462": {
-    "__comp": "14eb3368",
-    "__props": "18506d4e"
   },
   "/docs/category/featured-work-754": {
     "__comp": "14eb3368",
@@ -110,14 +102,6 @@
   "/docs/intro-61d": {
     "__comp": "17896441",
     "content": "0e384e19"
-  },
-  "/docs/Personal_Blog/CRM/SalesAutomation-f55": {
-    "__comp": "17896441",
-    "content": "a931c773"
-  },
-  "/docs/Personal_Blog/design/Basics-132": {
-    "__comp": "17896441",
-    "content": "755aec7f"
   },
   "/docs/Personal_Blog/GameTheory/MahabharatGame-941": {
     "__comp": "17896441",
@@ -194,6 +178,10 @@
   "/docs/Personal_Blog/Think_Tank/detecting-AI-content-9b7": {
     "__comp": "17896441",
     "content": "42f9cdda"
+  },
+  "/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry-5e3": {
+    "__comp": "17896441",
+    "content": "bbbf3c3c"
   },
   "/docs/Personal_Blog/Web3/hedgey-exploit-6-months-0b9": {
     "__comp": "17896441",

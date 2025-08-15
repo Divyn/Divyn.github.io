@@ -12,7 +12,7 @@ Every job, every task I've taken up has taught me something new. Learning has be
 
 ## 🏢 From Salesforce Developer to Tech Storyteller
 
-### **Starting Out at VMware**
+### **Starting Out at VMware in 2020**
 
 My career began as a **Salesforce Developer at VMware**—my first job straight out of college. It was an incredible experience where I learned what it means to be a small cog in a large machine. More importantly, I discovered how **enterprise software** operates:
 
@@ -37,17 +37,17 @@ During this phase, I took up various **content gigs**, including writing sales c
 
 ## 🚀 Stepping Into Blockchain & Developer Relations
 
-### **Joining Bitquery**
+### **Joining Bitquery in 2023**
 
-Next came an exciting shift—I joined **Bitquery** as a **Developer Relations Engineer**.
+Next came an exciting shift—I joined **Bitquery** as an **early support/docs writer/polymath**.
 
 **Blockchain?** At the time, I knew very little beyond my personal interest in crypto. But I took on the challenge, and this role taught me **everything**:
 
-- Writing good **technical documentation**
-- Supporting and engaging **developer communities**
-- Understanding **how blockchain networks function**
+- Writing usable **technical documentation**
+- Supporting **any developer who comes with questions on using Bitquery**
 - Analyzing **on-chain data**
-- Picking up new stuff in a day or two,for example, **testing Kafka Streams** or **negotiating a partnership with another web3 team**
+- Getting Bitquery to #1 on Google search, ChatGPT for 100s of onchain/crypto API/stream keywords
+- Picking up new stuff in a day or two,for example, **building data pipelines with Kafka** or **negotiating a partnership with another web3 team**
 
 I can now look at blockchain data and **tell exactly what’s happening across multiple chains**. I understand the infrastructure, data structures, use cases, and how different networks operate.
 

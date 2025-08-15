@@ -2,6 +2,12 @@
 
 Here are a few code samples I've built. There are plenty more, and I’ve had the privilege of sitting in on some pretty smart solution team meetings. My "expertise" (if you can call it that) goes beyond just these.
 
+## Github URLs
+
+https://github.com/divyn
+
+http://github.com/divyasshree-BQ
+
 ### Bitquery
 
 Sniper Bot Sample
@@ -22,17 +28,17 @@ https://github.com/Divyn/pub-sub-pumpfun/tree/main
 
 Tradingview Advanced Charts with On-chain Data
 
-https://github.com/bitquery/Tradingview-Application
+https://github.com/bitquery/tradingview-subscription-realtime
 
 Telegram Bot
 
 https://github.com/divyasshree-BQ/telegram-bot
 
-P&L Calculator
+MCP + Blockchain Data
 
-https://github.com/divyasshree-BQ/P-L-Sample
+https://github.com/Divyn/crypto-trading-mcp
 
-Supabase
+Building with Supabase
 
 https://github.com/Divyn/supabase-bitquery
 

@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '852'),
+    component: ComponentCreator('/docs', '7db'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3d1'),
+        component: ComponentCreator('/docs', '7e3'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,23 +37,11 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c5a'),
+            component: ComponentCreator('/docs', 'd37'),
             routes: [
               {
                 path: '/docs/category/chaos-theory-quantum-computing-random-concepts',
                 component: ComponentCreator('/docs/category/chaos-theory-quantum-computing-random-concepts', '47c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/crm',
-                component: ComponentCreator('/docs/category/crm', 'bbc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/design-research',
-                component: ComponentCreator('/docs/category/design-research', '462'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -150,18 +138,6 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Personal_Blog/CRM/SalesAutomation',
-                component: ComponentCreator('/docs/Personal_Blog/CRM/SalesAutomation', 'f55'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Personal_Blog/design/Basics',
-                component: ComponentCreator('/docs/Personal_Blog/design/Basics', '132'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -276,6 +252,12 @@ export default [
               {
                 path: '/docs/Personal_Blog/Think_Tank/detecting-AI-content',
                 component: ComponentCreator('/docs/Personal_Blog/Think_Tank/detecting-AI-content', '9b7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry',
+                component: ComponentCreator('/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry', '5e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
