@@ -28,7 +28,7 @@ The commands needed to run the code are in the [readme file](https://github.com/
 
 **Observability bridges this gap, turning blind spots into actionable insights.**
 
-## Architecture Overview
+## Architecture Overview of Our Demo
 
 ![](/img/observability/flowchart.png)
 
@@ -51,10 +51,23 @@ The commands needed to run the code are in the [readme file](https://github.com/
 - Error spikes
 - Connection health
 
+<!-- What is Signoz? Whyare we doing this? What is OTLP?OTel Collector? need to add some context-->
+
 ## Setting up SigNoz
 
+### What is SigNoz, OTLP, and the OTel Collector?
+
+- **SigNoz**: Open-source observability backend for metrics, traces, and logs. It provides dashboards, queries, and alerting. In this walkthrough we focus on metrics.
+- **OpenTelemetry (OTel)**: Vendor-agnostic SDK used by the app to create counters/histograms and export telemetry.
+- **OTLP**: The OpenTelemetry Protocol (gRPC/HTTP) used to ship telemetry efficiently.
+- **OTel Collector**: A service you run that receives OTLP(OpenTelemetry Protocol) from your app, batches/retries/transforms it, and forwards it to backends like SigNoz or any other observability tool.
+
+Flow: App (OTel SDK) → OTLP/gRPC → OTel Collector → SigNoz (OTLP endpoint with ingestion key).
+
+### Steps
+
 1.  Sign up for [SigNoz](http://signoz.io/).
-2.  Obtain your **OTLP endpoint** and **`signoz-ingestion-key`** — this key uniquely tags the metrics your application emits.
+2.  Obtain your **OTLP endpoint** and **`signoz-ingestion-key`** — this key uniquely tags the metrics your application emits. Keep your `SIGNOZ_INGESTION_KEY` secret; inject via env vars or a secret manager.
 3.  Configure your OTel Collector to forward these metrics to SigNoz. Sample [config.yaml is here](https://github.com/Divyn/bitquery-observability-signoz/blob/main/otelcol-contrib/config_sample.yml)
 
 ## How it’s monitored (driven by the code)
