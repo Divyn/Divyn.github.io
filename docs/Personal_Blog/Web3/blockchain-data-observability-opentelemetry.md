@@ -1,8 +1,13 @@
 # Blockchain Data Observability: When Your Data Pipeline Goes Offline
 
-You're running a Solana trading bot that depends on real-time low-latency price feeds. Suddenly, your dashboard shows stale data from 5 minutes ago. Is it a network issue? An API problem? Your application crash? Or just Solana's network congestion? Without proper observability, you're flying blind which in crypto equals losing money.
+You're running a Solana trading bot that depends on real-time, low-latency price feeds. Suddenly, your dashboard shows stale data from 5 minutes ago. Is it a network issue? An API problem? Did your application crash? Or is it just Solana's network congestion? Without proper insight into what happened or where everything went wrong, you're flying blind — which, in crypto, equals losing money. What's more, you need to make sure that you are notified if this issue repeats itself.
 
 Most blockchain developers running their own nodes either to trade, to build onchain data or sell it as service need extensive monitoring.Their business depends on guaranteed uptime SLAs, data accuracy, and operational resilience.
+
+Traditional monitoring doesn’t cover this problem well. That’s where an observability pipeline comes in. **Observability means building your system in a way that exposes enough signals (metrics, logs, traces) so you can tell what’s happening inside just by looking at the outputs.**
+
+- Monitoring tells you “is the server up?” or “is CPU > 80%?”
+- Observability tells you “why is my Solana feed five minutes behind?” or “did I miss messages during that network spike?”
 
 ![](/img/observability/question.png)
 
@@ -28,7 +33,45 @@ The commands needed to run the code are in the [readme file](https://github.com/
 
 **Observability bridges this gap, turning blind spots into actionable insights.**
 
-## Architecture Overview of Our Demo
+### The Three Pillars of Observability: Metrics, Traces, and Logs
+
+To understand observability and break it down into actionable tasks, you need to understand 3 things.
+
+- Metrics:
+  - Metrics are numbers that quantify system performance and behavior over time
+  - In this scenario it would be:
+    - API response time (how long it takes to get price data)
+    - Data freshness (how old the latest price update is)
+    - Network latency to Solana RPC endpoints
+    - Number of failed API calls per minute
+    - Trading bot execution time per cycle
+- Traces:
+  - Traces are detailed records of how requests flow through your system, showing the path and timing of each step
+  - In this scenario it would be:
+    - Request flow: User query → API call → Solana RPC → Price calculation → Dashboard update
+    - Each step shows timing and any errors
+    - Helps identify exactly where the 5-minute delay occurred
+    - Shows if the bottleneck is in API calls, network, or your application logic
+- Logs:
+  - Logs are text records of events, errors, and activities that happen in your system
+  - In this scenario it would be:
+    - "API call to Solana RPC failed: connection timeout"
+    - "Price data received: SOL=$98.45 at 14:30:15"
+    - "Dashboard update completed in 2.3 seconds"
+    - "Network congestion detected: 150ms latency increase"
+
+## What is SigNoz, OTLP, and the OTel Collector?
+
+- **SigNoz**: Open-source observability backend for metrics, traces, and logs. It provides dashboards, queries, and alerting. In this walkthrough we focus on metrics.
+- **OpenTelemetry (OTel)**: Vendor-agnostic SDK used by the app to create counters/histograms and export telemetry.
+- **OTLP**: The OpenTelemetry Protocol (gRPC/HTTP) used to ship telemetry efficiently.
+- **OTel Collector**: A service you run that receives OTLP(OpenTelemetry Protocol) from your app, batches/retries/transforms it, and forwards it to backends like SigNoz or any other observability tool.
+
+Flow: App (OTel SDK) → OTLP/gRPC → OTel Collector → SigNoz (OTLP endpoint with ingestion key).
+
+## How the Observability Pipeline Works: Step-by-Step Flow
+
+Below is a detailed flow showing how data flows from your application through OpenTelemetry SDK to Signoz observability platform, including the configuration needed.
 
 ![](/img/observability/flowchart.png)
 
@@ -53,18 +96,11 @@ The commands needed to run the code are in the [readme file](https://github.com/
 
 <!-- What is Signoz? Whyare we doing this? What is OTLP?OTel Collector? need to add some context-->
 
-## Setting up SigNoz
+With data ingestion working, the next step is to turn raw counters into usable metrics and dashboards. This is where OpenTelemetry and SigNoz come in.
 
-### What is SigNoz, OTLP, and the OTel Collector?
+**Flow**: App (OTel SDK) → OTLP/gRPC → OTel Collector → SigNoz (OTLP endpoint with ingestion key).
 
-- **SigNoz**: Open-source observability backend for metrics, traces, and logs. It provides dashboards, queries, and alerting. In this walkthrough we focus on metrics.
-- **OpenTelemetry (OTel)**: Vendor-agnostic SDK used by the app to create counters/histograms and export telemetry.
-- **OTLP**: The OpenTelemetry Protocol (gRPC/HTTP) used to ship telemetry efficiently.
-- **OTel Collector**: A service you run that receives OTLP(OpenTelemetry Protocol) from your app, batches/retries/transforms it, and forwards it to backends like SigNoz or any other observability tool.
-
-Flow: App (OTel SDK) → OTLP/gRPC → OTel Collector → SigNoz (OTLP endpoint with ingestion key).
-
-### Steps
+### Setting Up Your Observability Stack: Step-by-Step Configuration
 
 1.  Sign up for [SigNoz](http://signoz.io/).
 2.  Obtain your **OTLP endpoint** and **`signoz-ingestion-key`** — this key uniquely tags the metrics your application emits. Keep your `SIGNOZ_INGESTION_KEY` secret; inject via env vars or a secret manager.
@@ -107,11 +143,13 @@ To first understand what metrics are available in the OpenTelemetry SDK, you can
 - The generic counters with a `network` attribute power rolled-up views and per-network slices without duplicating widget logic.
 - Per-network transports and reconnect/backoff ensure one chain’s issues don’t hide the other’s in metrics.
 
-## Dashboards (what we chart and why)
+## Building Actionable Dashboards: What to Monitor and Why
 
 ![](/img/observability/charts.png)
 
 ### 1) Price Feed Messages (5–10 min window)
+
+_Am I receiving the expected message rate from each chain?_
 
 - **Panels**: “Solana Price Feed Messages”, “BSC Price Feed Messages”
 - **Query**: Sum of `bitquery.<network>.messages` over time (rate)
@@ -119,11 +157,15 @@ To first understand what metrics are available in the OpenTelemetry SDK, you can
 
 ### 2) Message Increase (Short Window Burst View)
 
+_Did my pipeline keep up during a spike, or did it stall?_
+
 - **Panels**: “Solana Price Feed Message Increase”, “BSC Price Feed Message Increase”
 - **Query**: Delta or increase of message counters per minute
 - **Interpretation**: Spikes indicate bursts; flat lines suggest stalls or upstream pauses.
 
 ### 3) Reliability
+
+_Is the problem on my side, or is the provider/network unstable?_
 
 - **Errors**: Rate of `bitquery.<network>.errors`
 - **Connections**: Cumulative `bitquery.<network>.connections` with annotations when a reconnect occurs
@@ -131,11 +173,13 @@ To first understand what metrics are available in the OpenTelemetry SDK, you can
 
 ### 4) Cross-Chain Comparison
 
+_Is this failure isolated to Solana as a result of high TPS, or does it affect both chains?_
+
 - **Panel**: “Messages by Network”
 - **Query**: `sum(rate(bitquery.messages[1m])) by (network)`
 - **Interpretation**: One panel, two lines—quick visual health check across chains.
 
-## Alerts (what we page on)
+## Setting Up Smart Alerts: When and Why to Get Notified
 
 To fix any out-of-the-normal situations, we need to setup alerts that are triggered based on certain conditions. Detailed docs on each type of alert is available [here](https://signoz.io/docs/alerts/)
 

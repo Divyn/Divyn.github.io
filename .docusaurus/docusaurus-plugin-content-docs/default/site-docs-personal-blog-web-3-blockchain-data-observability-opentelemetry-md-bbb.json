@@ -1,7 +1,7 @@
 {
   "id": "Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
   "title": "Blockchain Data Observability: When Your Data Pipeline Goes Offline",
-  "description": "You're running a Solana trading bot that depends on real-time low-latency price feeds. Suddenly, your dashboard shows stale data from 5 minutes ago. Is it a network issue? An API problem? Your application crash? Or just Solana's network congestion? Without proper observability, you're flying blind which in crypto equals losing money.",
+  "description": "You're running a Solana trading bot that depends on real-time, low-latency price feeds. Suddenly, your dashboard shows stale data from 5 minutes ago. Is it a network issue? An API problem? Did your application crash? Or is it just Solana's network congestion? Without proper insight into what happened or where everything went wrong, you're flying blind — which, in crypto, equals losing money. What's more, you need to make sure that you are notified if this issue repeats itself.",
   "source": "@site/docs/Personal_Blog/Web3/blockchain-data-observability-opentelemetry.md",
   "sourceDirName": "Personal_Blog/Web3",
   "slug": "/Personal_Blog/Web3/blockchain-data-observability-opentelemetry",
