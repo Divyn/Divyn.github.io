@@ -28,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/sidebars.js",
+          "sidebarPath": "/Users/divyasshree/Documents/Github/Divyn.github.io/sidebars.js",
           "routeBasePath": "docs",
           "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/"
         },
@@ -37,7 +37,7 @@ export default {
           "editUrl": "https://github.com/divyn/divyn.github.io/edit/main/"
         },
         "theme": {
-          "customCss": "/Users/divyasshree/Documents/GitHub/Divyn.github.io/src/css/custom.css"
+          "customCss": "/Users/divyasshree/Documents/Github/Divyn.github.io/src/css/custom.css"
         },
         "sitemap": {
           "changefreq": "daily",

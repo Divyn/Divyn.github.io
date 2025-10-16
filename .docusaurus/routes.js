@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7db'),
+    component: ComponentCreator('/docs', '121'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7e3'),
+        component: ComponentCreator('/docs', '43a'),
         routes: [
           {
             path: '/docs/tags',
@@ -37,7 +37,7 @@ export default [
           },
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd37'),
+            component: ComponentCreator('/docs', '9d0'),
             routes: [
               {
                 path: '/docs/category/chaos-theory-quantum-computing-random-concepts',
@@ -126,6 +126,12 @@ export default [
               {
                 path: '/docs/featured-work/product-documentation',
                 component: ComponentCreator('/docs/featured-work/product-documentation', '467'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/featured-work/research',
+                component: ComponentCreator('/docs/featured-work/research', '677'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
