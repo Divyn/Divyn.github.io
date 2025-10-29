@@ -10,11 +10,17 @@ http://github.com/divyasshree-BQ
 
 ### Bitquery
 
+TradingView Charting For Crypto Data with Multiple Tabs
+https://github.com/Divyn/tradingview-charting-multiple-session
+
 Sniper Bot Sample
 
 https://github.com/bitquery/Solana-Sniper-Bot/
 
-Kafka Blockchain Stream
+Uniswap V3 Liquidity Position and Tick Analyser
+https://github.com/Divyn/uniswap-v3-position-analysis
+
+Kafka Blockchain Streams
 
 https://github.com/bitquery/kafka-consumer-example
 
