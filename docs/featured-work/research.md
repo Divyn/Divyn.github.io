@@ -10,3 +10,5 @@ sidebar_position: 10
 
 3. [Can On-Chain Liquidity Data Explain Provider Behavior in Uniswap V3?](https://doi.org/10.5281/zenodo.17286370)
 
+4. (Deterministic Band Analysis for LPs: Identifying High-Opportunity Price Ranges in Uniswap V3)[10.5281/zenodo.17637632]
+
