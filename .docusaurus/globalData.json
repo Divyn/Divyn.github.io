@@ -21,11 +21,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "featured-work/events",
-              "path": "/docs/featured-work/events",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "featured-work/infographics",
               "path": "/docs/featured-work/infographics",
               "sidebar": "tutorialSidebar"
